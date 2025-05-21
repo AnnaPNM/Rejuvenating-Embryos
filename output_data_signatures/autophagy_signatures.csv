@@ -1,0 +1,778 @@
+Gene,Biological Function,Subprocess,ENSEMBL,Hallmark
+LAMTOR1,mTOR regulators,mTOR and upstream pathways,ENSG00000149357,Autophagy
+LAMTOR2,mTOR regulators,mTOR and upstream pathways,ENSG00000116586,Autophagy
+LAMTOR3,mTOR regulators,mTOR and upstream pathways,ENSG00000109270,Autophagy
+LAMTOR4,mTOR regulators,mTOR and upstream pathways,ENSG00000188186,Autophagy
+LAMTOR5,mTOR regulators,mTOR and upstream pathways,ENSG00000134248,Autophagy
+FLCN,mTOR regulators,mTOR and upstream pathways,ENSG00000154803,Autophagy
+FNIP1,mTOR regulators,mTOR and upstream pathways,ENSG00000217128,Autophagy
+FNIP2,mTOR regulators,mTOR and upstream pathways,ENSG00000052795,Autophagy
+MIOS,mTOR regulators,mTOR and upstream pathways,ENSG00000164654,Autophagy
+SEH1L,mTOR regulators,mTOR and upstream pathways,ENSG00000085415,Autophagy
+WDR24,mTOR regulators,mTOR and upstream pathways,ENSG00000127580,Autophagy
+WDR59,mTOR regulators,mTOR and upstream pathways,ENSG00000103091,Autophagy
+SEC13,mTOR regulators,mTOR and upstream pathways,ENSG00000157020,Autophagy
+RHEB,mTOR regulators,mTOR and upstream pathways,ENSG00000106615,Autophagy
+NPC1,mTOR regulators,mTOR and upstream pathways,ENSG00000141458,Autophagy
+SLC38A9,mTOR regulators,mTOR and upstream pathways,ENSG00000177058,Autophagy
+NPC2,mTOR regulators,mTOR and upstream pathways,ENSG00000119655,Autophagy
+BTRC,mTOR regulators,mTOR and upstream pathways,ENSG00000166167,Autophagy
+SESN2,mTOR regulators,mTOR and upstream pathways,ENSG00000130766,Autophagy
+SESN1,mTOR regulators,mTOR and upstream pathways,ENSG00000080546,Autophagy
+SESN3,mTOR regulators,mTOR and upstream pathways,ENSG00000149212,Autophagy
+PPP2CA,mTOR regulators,mTOR and upstream pathways,ENSG00000113575,Autophagy
+RRAGA,mTOR regulators,mTOR and upstream pathways,ENSG00000155876,Autophagy
+RRAGC,mTOR regulators,mTOR and upstream pathways,ENSG00000116954,Autophagy
+RRAGD,mTOR regulators,mTOR and upstream pathways,ENSG00000025039,Autophagy
+RRAGB,mTOR regulators,mTOR and upstream pathways,ENSG00000083750,Autophagy
+TSC2,mTOR regulators,mTOR and upstream pathways,ENSG00000103197,Autophagy
+TSC1,mTOR regulators,mTOR and upstream pathways,ENSG00000165699,Autophagy
+NPRL2,mTOR regulators,mTOR and upstream pathways,ENSG00000114388,Autophagy
+NPRL3,mTOR regulators,mTOR and upstream pathways,ENSG00000103148,Autophagy
+DEPDC5,mTOR regulators,mTOR and upstream pathways,ENSG00000100150,Autophagy
+KPTN,mTOR regulators,mTOR and upstream pathways,ENSG00000118162,Autophagy
+ITFG2,mTOR regulators,mTOR and upstream pathways,ENSG00000111203,Autophagy
+SZT2,mTOR regulators,mTOR and upstream pathways,ENSG00000198198,Autophagy
+CASTOR1,mTOR regulators,mTOR and upstream pathways,ENSG00000239282,Autophagy
+CASTOR2,mTOR regulators,mTOR and upstream pathways,ENSG00000274070,Autophagy
+LGALS8,mTOR regulators,mTOR and upstream pathways,ENSG00000116977,Autophagy
+ATP6V0E1,mTOR regulators,mTOR and upstream pathways,ENSG00000113732,Autophagy
+ATP6V1D,mTOR regulators,mTOR and upstream pathways,ENSG00000100554,Autophagy
+ATP6V1G3,mTOR regulators,mTOR and upstream pathways,ENSG00000263014,Autophagy
+ATP6V1C2,mTOR regulators,mTOR and upstream pathways,ENSG00000143882,Autophagy
+ATP6V1B2,mTOR regulators,mTOR and upstream pathways,ENSG00000147416,Autophagy
+ATP6V0A1,mTOR regulators,mTOR and upstream pathways,ENSG00000033627,Autophagy
+ATP6V1B1,mTOR regulators,mTOR and upstream pathways,ENSG00000116039,Autophagy
+ATP6V1G2,mTOR regulators,mTOR and upstream pathways,ENSG00000230900,Autophagy
+ATP6V1E2,mTOR regulators,mTOR and upstream pathways,ENSG00000250565,Autophagy
+ATP6V0A4,mTOR regulators,mTOR and upstream pathways,ENSG00000105929,Autophagy
+ATP6V1E1,mTOR regulators,mTOR and upstream pathways,ENSG00000131100,Autophagy
+ATP6V0B,mTOR regulators,mTOR and upstream pathways,ENSG00000117410,Autophagy
+TCIRG1,mTOR regulators,mTOR and upstream pathways,ENSG00000110719,Autophagy
+ATP6AP2,mTOR regulators,mTOR and upstream pathways,ENSG00000182220,Autophagy
+ATP6V1A,mTOR regulators,mTOR and upstream pathways,ENSG00000114573,Autophagy
+ATP6AP1,mTOR regulators,mTOR and upstream pathways,ENSG00000071553,Autophagy
+ATP6V1G1,mTOR regulators,mTOR and upstream pathways,ENSG00000136888,Autophagy
+ATP6V0E2,mTOR regulators,mTOR and upstream pathways,ENSG00000171130,Autophagy
+ATP6V0C,mTOR regulators,mTOR and upstream pathways,ENSG00000185883,Autophagy
+ATP6V1H,mTOR regulators,mTOR and upstream pathways,ENSG00000047249,Autophagy
+ATP6V0A2,mTOR regulators,mTOR and upstream pathways,ENSG00000185344,Autophagy
+ATP6V1C1,mTOR regulators,mTOR and upstream pathways,ENSG00000155097,Autophagy
+ATP6V1F,mTOR regulators,mTOR and upstream pathways,ENSG00000128524,Autophagy
+ATP6V0D1,mTOR regulators,mTOR and upstream pathways,ENSG00000159720,Autophagy
+MTOR,mTOR complexes 1 and 2,mTOR and upstream pathways,ENSG00000198793,Autophagy
+DEPTOR,mTOR complexes 1 and 2,mTOR and upstream pathways,ENSG00000155792,Autophagy
+RPTOR,mTOR complexes 1 and 2,mTOR and upstream pathways,ENSG00000141564,Autophagy
+AKT1S1,mTOR complexes 1 and 2,mTOR and upstream pathways,ENSG00000204673,Autophagy
+MLST8,mTOR complexes 1 and 2,mTOR and upstream pathways,ENSG00000167965,Autophagy
+RICTOR,mTOR complexes 1 and 2,mTOR and upstream pathways,ENSG00000164327,Autophagy
+PRR5,mTOR complexes 1 and 2,mTOR and upstream pathways,ENSG00000186654,Autophagy
+MAPKAP1,mTOR complexes 1 and 2,mTOR and upstream pathways,ENSG00000119487,Autophagy
+TELO2,mTOR complexes 1 and 2,mTOR and upstream pathways,ENSG00000100726,Autophagy
+TTI1,mTOR complexes 1 and 2,mTOR and upstream pathways,ENSG00000101407,Autophagy
+TTI2,mTOR complexes 1 and 2,mTOR and upstream pathways,ENSG00000129696,Autophagy
+PRR5L,mTOR complexes 1 and 2,mTOR and upstream pathways,ENSG00000135362,Autophagy
+PRKAA1,AMPK complex,mTOR and upstream pathways,ENSG00000132356,Autophagy
+PRKAA2,AMPK complex,mTOR and upstream pathways,ENSG00000162409,Autophagy
+PRKAG1,AMPK complex,mTOR and upstream pathways,ENSG00000181929,Autophagy
+PRKAG2,AMPK complex,mTOR and upstream pathways,ENSG00000106617,Autophagy
+PRKAG3,AMPK complex,mTOR and upstream pathways,ENSG00000115592,Autophagy
+PRKAB1,AMPK complex,mTOR and upstream pathways,ENSG00000111725,Autophagy
+PRKAB2,AMPK complex,mTOR and upstream pathways,ENSG00000131791,Autophagy
+STK11,AMPK activator,mTOR and upstream pathways,ENSG00000118046,Autophagy
+STRADA,AMPK activator,mTOR and upstream pathways,ENSG00000266173,Autophagy
+STRADB,AMPK activator,mTOR and upstream pathways,ENSG00000082146,Autophagy
+CAB39,AMPK activator,mTOR and upstream pathways,ENSG00000135932,Autophagy
+CAB39L,AMPK activator,mTOR and upstream pathways,ENSG00000102547,Autophagy
+CAMKK2,AMPK activator,mTOR and upstream pathways,ENSG00000110931,Autophagy
+PIK3CA,PI3K complex-class 1,mTOR and upstream pathways,ENSG00000121879,Autophagy
+PIK3CB,PI3K complex-class 1,mTOR and upstream pathways,ENSG00000051382,Autophagy
+PIK3CD,PI3K complex-class 1,mTOR and upstream pathways,ENSG00000171608,Autophagy
+PIK3CG,PI3K complex-class 1,mTOR and upstream pathways,ENSG00000105851,Autophagy
+PIK3R1,PI3K complex-class 1,mTOR and upstream pathways,ENSG00000145675,Autophagy
+PIK3R2,PI3K complex-class 1,mTOR and upstream pathways,ENSG00000105647,Autophagy
+PIK3R3,PI3K complex-class 1,mTOR and upstream pathways,ENSG00000117461,Autophagy
+PIK3R4,PI3K complex-class 1,mTOR and upstream pathways,ENSG00000196455,Autophagy
+PIK3R5,PI3K complex-class 1,mTOR and upstream pathways,ENSG00000141506,Autophagy
+PIK3R6,PI3K complex-class 1,mTOR and upstream pathways,ENSG00000276231,Autophagy
+PIK3C2A,PI3K complex-class 2,mTOR and upstream pathways,ENSG00000011405,Autophagy
+PIK3C2B,PI3K complex-class 2,mTOR and upstream pathways,ENSG00000133056,Autophagy
+PIK3C2G,PI3K complex-class 2,mTOR and upstream pathways,ENSG00000139144,Autophagy
+RPS6KB1,mTORC1 substrates ,mTOR and upstream pathways,ENSG00000108443,Autophagy
+RPS6KA1,mTORC1 substrates ,mTOR and upstream pathways,ENSG00000117676,Autophagy
+DAP,mTORC1 substrates ,mTOR and upstream pathways,ENSG00000112977,Autophagy
+EEF2K,mTORC1 substrates ,mTOR and upstream pathways,ENSG00000284161,Autophagy
+EIF4EBP1,mTORC1 substrates ,mTOR and upstream pathways,ENSG00000187840,Autophagy
+LARP1,mTORC1 substrates ,mTOR and upstream pathways,ENSG00000155506,Autophagy
+ESR1,mTORC1 substrates ,mTOR and upstream pathways,ENSG00000091831,Autophagy
+MAF1,mTORC1 substrates ,mTOR and upstream pathways,ENSG00000179632,Autophagy
+ULK1,mTORC1 substrates ,mTOR and upstream pathways,ENSG00000177169,Autophagy
+ATG13,mTORC1 substrates ,mTOR and upstream pathways,ENSG00000175224,Autophagy
+LPIN1,mTORC1 substrates ,mTOR and upstream pathways,ENSG00000134324,Autophagy
+AMBRA1,mTORC1 substrates ,mTOR and upstream pathways,ENSG00000110497,Autophagy
+GRB10,mTORC1 substrates ,mTOR and upstream pathways,ENSG00000106070,Autophagy
+RPS6KB2,mTORC1 substrates ,mTOR and upstream pathways,ENSG00000175634,Autophagy
+HIF1A,mTORC1 substrates ,mTOR and upstream pathways,ENSG00000100644,Autophagy
+TFEB,mTORC1 substrates ,mTOR and upstream pathways,ENSG00000112561,Autophagy
+YY1,mTORC1 substrates ,mTOR and upstream pathways,ENSG00000100811,Autophagy
+TFE3,mTORC1 substrates ,mTOR and upstream pathways,ENSG00000068323,Autophagy
+STAT3,mTORC1 substrates ,mTOR and upstream pathways,ENSG00000168610,Autophagy
+MITF,mTORC1 substrates ,mTOR and upstream pathways,ENSG00000187098,Autophagy
+HDAC5,mTORC2 substrates ,mTOR and upstream pathways,ENSG00000108840,Autophagy
+HDAC4,mTORC2 substrates ,mTOR and upstream pathways,ENSG00000068024,Autophagy
+SGK1,mTORC2 substrates ,mTOR and upstream pathways,ENSG00000118515,Autophagy
+PRKCA,mTORC2 substrates ,mTOR and upstream pathways,ENSG00000154229,Autophagy
+AKT1,mTORC2 substrates ,mTOR and upstream pathways,ENSG00000142208,Autophagy
+IGF2BP1,mTORC2 substrates ,mTOR and upstream pathways,ENSG00000159217,Autophagy
+MRAS,RAS family,mTOR and upstream pathways,ENSG00000158186,Autophagy
+KRAS,RAS family,mTOR and upstream pathways,ENSG00000133703,Autophagy
+RRAS,RAS family,mTOR and upstream pathways,ENSG00000126458,Autophagy
+HRAS,RAS family,mTOR and upstream pathways,ENSG00000276536,Autophagy
+NRAS,RAS family,mTOR and upstream pathways,ENSG00000213281,Autophagy
+ULK3,ULK1 complex,Autophagy core,ENSG00000140474,Autophagy
+AMBRA1,ULK1 complex,Autophagy core,ENSG00000110497,Autophagy
+ULK1,ULK1 complex,Autophagy core,ENSG00000177169,Autophagy
+TRAF6,ULK1 complex,Autophagy core,ENSG00000175104,Autophagy
+RB1CC1,ULK1 complex,Autophagy core,ENSG00000023287,Autophagy
+ULK2,ULK1 complex,Autophagy core,ENSG00000083290,Autophagy
+ATG13,ULK1 complex,Autophagy core,ENSG00000175224,Autophagy
+BECN2,PI3K complexes,Autophagy core,ENSG00000196289,Autophagy
+BECN1,PI3K complexes,Autophagy core,ENSG00000126581,Autophagy
+PIK3C3,PI3K complexes,Autophagy core,ENSG00000078142,Autophagy
+PIK3R4,PI3K complexes,Autophagy core,ENSG00000196455,Autophagy
+ATG14,Beclin1/PI3K complex interacting proteins,Autophagy core,ENSG00000126775,Autophagy
+UVRAG,Beclin1/PI3K complex interacting proteins,Autophagy core,ENSG00000198382,Autophagy
+RNF2,Beclin1/PI3K complex interacting proteins,Autophagy core,ENSG00000121481,Autophagy
+TLR4,Beclin1/PI3K complex interacting proteins,Autophagy core,ENSG00000136869,Autophagy
+SH3GLB1,Beclin1/PI3K complex interacting proteins,Autophagy core,ENSG00000097033,Autophagy
+VMP1,Beclin1/PI3K complex interacting proteins,Autophagy core,ENSG00000062716,Autophagy
+BCL2L1,Beclin1/PI3K complex interacting proteins,Autophagy core,ENSG00000171552,Autophagy
+BCL2,Beclin1/PI3K complex interacting proteins,Autophagy core,ENSG00000171791,Autophagy
+BIRC5,Beclin1/PI3K complex interacting proteins,Autophagy core,ENSG00000089685,Autophagy
+HMGB1,Beclin1/PI3K complex interacting proteins,Autophagy core,ENSG00000189403,Autophagy
+RHOQ,Beclin1/PI3K complex interacting proteins,Autophagy core,ENSG00000119729,Autophagy
+WAS,Beclin1/PI3K complex interacting proteins,Autophagy core,ENSG00000015285,Autophagy
+PAQR3,Beclin1/PI3K complex interacting proteins,Autophagy core,ENSG00000163291,Autophagy
+SLAMF1,Beclin1/PI3K complex interacting proteins,Autophagy core,ENSG00000117090,Autophagy
+ITPR3,Beclin1/PI3K complex interacting proteins,Autophagy core,ENSG00000096433,Autophagy
+PINK1,Beclin1/PI3K complex interacting proteins,Autophagy core,ENSG00000158828,Autophagy
+STK38,Beclin1/PI3K complex interacting proteins,Autophagy core,ENSG00000112079,Autophagy
+NEDD4,Beclin1/PI3K complex interacting proteins,Autophagy core,ENSG00000069869,Autophagy
+GABARAPL1,ATG8 Ubiquitin-like conjugation systems,Autophagy core,ENSG00000139112,Autophagy
+ATG4A,ATG8 Ubiquitin-like conjugation systems,Autophagy core,ENSG00000101844,Autophagy
+ATG3,ATG8 Ubiquitin-like conjugation systems,Autophagy core,ENSG00000144848,Autophagy
+ATG7,ATG8 Ubiquitin-like conjugation systems,Autophagy core,ENSG00000197548,Autophagy
+MAP1LC3C,ATG8 Ubiquitin-like conjugation systems,Autophagy core,ENSG00000197769,Autophagy
+MAP1LC3B,ATG8 Ubiquitin-like conjugation systems,Autophagy core,ENSG00000140941,Autophagy
+GABARAPL2,ATG8 Ubiquitin-like conjugation systems,Autophagy core,ENSG00000034713,Autophagy
+ATG4B,ATG8 Ubiquitin-like conjugation systems,Autophagy core,ENSG00000168397,Autophagy
+MAP1LC3A,ATG8 Ubiquitin-like conjugation systems,Autophagy core,ENSG00000101460,Autophagy
+ATG4C,ATG8 Ubiquitin-like conjugation systems,Autophagy core,ENSG00000125703,Autophagy
+ATG4D,ATG8 Ubiquitin-like conjugation systems,Autophagy core,ENSG00000130734,Autophagy
+GABARAP,ATG8 Ubiquitin-like conjugation systems,Autophagy core,ENSG00000170296,Autophagy
+MAP1LC3B2,ATG8 Ubiquitin-like conjugation systems,Autophagy core,ENSG00000258102,Autophagy
+GABARAPL3,ATG8 Ubiquitin-like conjugation systems,Autophagy core,ENSG00000238244,Autophagy
+ATG2B,ATG9 and its cycling system,Autophagy core,ENSG00000066739,Autophagy
+ATG2A,ATG9 and its cycling system,Autophagy core,ENSG00000110046,Autophagy
+WIPI2,ATG9 and its cycling system,Autophagy core,ENSG00000157954,Autophagy
+WIPI1,ATG9 and its cycling system,Autophagy core,ENSG00000070540,Autophagy
+ATG9A,ATG9 and its cycling system,Autophagy core,ENSG00000198925,Autophagy
+ATG9B,ATG9 and its cycling system,Autophagy core,ENSG00000181652,Autophagy
+WDR45B,ATG9 and its cycling system,Autophagy core,ENSG00000141580,Autophagy
+WDR45,ATG9 and its cycling system,Autophagy core,ENSG00000196998,Autophagy
+ATG12,ATG12 Ubiquitin-like conjugation systems,Autophagy core,ENSG00000145782,Autophagy
+ATG16L1,ATG12 Ubiquitin-like conjugation systems,Autophagy core,ENSG00000085978,Autophagy
+ATG5,ATG12 Ubiquitin-like conjugation systems,Autophagy core,ENSG00000057663,Autophagy
+ATG10,ATG12 Ubiquitin-like conjugation systems,Autophagy core,ENSG00000152348,Autophagy
+ATG16L2,ATG12 Ubiquitin-like conjugation systems,Autophagy core,ENSG00000168010,Autophagy
+SQSTM1,Cargo receptors for Selective Autophagy ,Autophagy core,ENSG00000284099,Autophagy
+OPTN,Cargo receptors for Selective Autophagy ,Autophagy core,ENSG00000123240,Autophagy
+NBR1,Cargo receptors for Selective Autophagy ,Autophagy core,ENSG00000188554,Autophagy
+TAX1BP1,Cargo receptors for Selective Autophagy ,Autophagy core,ENSG00000106052,Autophagy
+CBL,Cargo receptors for Selective Autophagy ,Autophagy core,ENSG00000110395,Autophagy
+CALCOCO2,Cargo receptors for Selective Autophagy ,Autophagy core,ENSG00000136436,Autophagy
+BNIP3L,Cargo receptors for Selective Autophagy ,Autophagy core,ENSG00000104765,Autophagy
+WDFY3,Cargo indirectly associated with ubiquitinated proteins or with LC3,Autophagy core,ENSG00000163625,Autophagy
+BAG3,Cargo indirectly associated with ubiquitinated proteins or with LC3,Autophagy core,ENSG00000151929,Autophagy
+TECPR1,Cargo indirectly associated with ubiquitinated proteins or with LC3,Autophagy core,ENSG00000205356,Autophagy
+HDAC6,Cargo indirectly associated with ubiquitinated proteins or with LC3,Autophagy core,ENSG00000094631,Autophagy
+NEDD4L,Negative Regulator of Autophagy,Autophagy core,ENSG00000049759,Autophagy
+CUL4A,Negative Regulator of Autophagy,Autophagy core,ENSG00000139842,Autophagy
+CAPN2,Negative Regulator of Autophagy,Autophagy core,ENSG00000162909,Autophagy
+CAPNS1,Negative Regulator of Autophagy,Autophagy core,ENSG00000126247,Autophagy
+FEZ1,Negative Regulator of Autophagy,Autophagy core,ENSG00000149557,Autophagy
+STK39,Negative Regulator of Autophagy,Autophagy core,ENSG00000198648,Autophagy
+WNK1,Negative Regulator of Autophagy,Autophagy core,ENSG00000060237,Autophagy
+CUL4B,Negative Regulator of Autophagy,Autophagy core,ENSG00000158290,Autophagy
+CUL3,Negative Regulator of Autophagy,Autophagy core,ENSG00000036257,Autophagy
+CUL5,Negative Regulator of Autophagy,Autophagy core,ENSG00000166266,Autophagy
+CAPN1,Negative Regulator of Autophagy,Autophagy core,ENSG00000014216,Autophagy
+MAPK14,Negative Regulator of Autophagy,Autophagy core,ENSG00000112062,Autophagy
+PPP2R2A,Negative Regulator of Autophagy,Autophagy core,ENSG00000221914,Autophagy
+CISD2,Negative Regulator of Autophagy,Autophagy core,ENSG00000145354,Autophagy
+GOLGA2,Negative Regulator of Autophagy,Autophagy core,ENSG00000167110,Autophagy
+CYBB,Negative Regulator of Autophagy,Autophagy core,ENSG00000165168,Autophagy
+HSPA1A,Negative Regulator of Autophagy,Autophagy core,ENSG00000234475,Autophagy
+UCP2,Negative Regulator of Autophagy,Autophagy core,ENSG00000175567,Autophagy
+C9orf72,Negative Regulator of Autophagy,Autophagy core,ENSG00000147894,Autophagy
+HERC1,Negative Regulator of Autophagy,Autophagy core,ENSG00000103657,Autophagy
+MST1,Negative Regulator of Autophagy,Autophagy core,ENSG00000173531,Autophagy
+MAPK8,Positive regulator of Autophagy,Autophagy core,ENSG00000107643,Autophagy
+MCOLN3,Positive regulator of Autophagy,Autophagy core,ENSG00000055732,Autophagy
+DRAM1,Positive regulator of Autophagy,Autophagy core,ENSG00000136048,Autophagy
+HDAC1,Positive regulator of Autophagy,Autophagy core,ENSG00000116478,Autophagy
+HDAC2,Positive regulator of Autophagy,Autophagy core,ENSG00000196591,Autophagy
+TBK1,Positive regulator of Autophagy,Autophagy core,ENSG00000183735,Autophagy
+NOX4,Positive regulator of Autophagy,Autophagy core,ENSG00000086991,Autophagy
+DAPK1,Positive regulator of Autophagy,Autophagy core,ENSG00000196730,Autophagy
+DAPK2,Positive regulator of Autophagy,Autophagy core,ENSG00000035664,Autophagy
+CAST,Positive regulator of Autophagy,Autophagy core,ENSG00000153113,Autophagy
+PDCD6IP,Positive regulator of Autophagy,Autophagy core,ENSG00000170248,Autophagy
+PICALM,Positive regulator of Autophagy,Autophagy core,ENSG00000073921,Autophagy
+SMURF1,Positive regulator of Autophagy,Autophagy core,ENSG00000198742,Autophagy
+SCOC,Positive regulator of Autophagy,Autophagy core,ENSG00000153130,Autophagy
+WAC,Positive regulator of Autophagy,Autophagy core,ENSG00000095787,Autophagy
+MYO6,Positive regulator of Autophagy,Autophagy core,ENSG00000196586,Autophagy
+PIM2,Positive regulator of Autophagy,Autophagy core,ENSG00000102096,Autophagy
+DYNLL1,Positive regulator of Autophagy,Autophagy core,ENSG00000088986,Autophagy
+IRGM,Positive regulator of Autophagy,Autophagy core,ENSG00000237693,Autophagy
+ABL2,Positive regulator of Autophagy,Autophagy core,ENSG00000143322,Autophagy
+ABL1,Positive regulator of Autophagy,Autophagy core,ENSG00000097007,Autophagy
+TMEM59,Positive regulator of Autophagy,Autophagy core,ENSG00000116209,Autophagy
+EI24,Positive regulator of Autophagy,Autophagy core,ENSG00000149547,Autophagy
+MTDH,Positive regulator of Autophagy,Autophagy core,ENSG00000147649,Autophagy
+EVA1A,Positive regulator of Autophagy,Autophagy core,ENSG00000115363,Autophagy
+SUPT20H,Positive regulator of Autophagy,Autophagy core,ENSG00000102710,Autophagy
+DAPK3,Positive regulator of Autophagy,Autophagy core,ENSG00000167657,Autophagy
+TMEM74,Positive regulator of Autophagy,Autophagy core,ENSG00000164841,Autophagy
+TM9SF1,Positive regulator of Autophagy,Autophagy core,ENSG00000100926,Autophagy
+ZFYVE1,Positive regulator of Autophagy,Autophagy core,ENSG00000165861,Autophagy
+HDAC10,Positive regulator of Autophagy,Autophagy core,ENSG00000100429,Autophagy
+SNAP29,Positive regulator of Autophagy,Autophagy core,ENSG00000099940,Autophagy
+PXN,Positive regulator of Autophagy,Autophagy core,ENSG00000089159,Autophagy
+TGM2,Positive regulator of Autophagy,Autophagy core,ENSG00000198959,Autophagy
+STUB1,Positive regulator of Autophagy,Autophagy core,ENSG00000103266,Autophagy
+PMAIP1,Positive regulator of Autophagy,Autophagy core,ENSG00000141682,Autophagy
+PCM1,Positive regulator of Autophagy,Autophagy core,ENSG00000078674,Autophagy
+RAB3GAP1,Positive regulator of Autophagy,Autophagy core,ENSG00000115839,Autophagy
+RAB18,Positive regulator of Autophagy,Autophagy core,ENSG00000099246,Autophagy
+CLN3,Its mutation leads to Autophagy defects,Autophagy core,ENSG00000261832,Autophagy
+CFTR,Its mutation leads to Autophagy defects,Autophagy core,ENSG00000001626,Autophagy
+TP53INP1,Autophagy-dependent cell death,Autophagy core,ENSG00000164938,Autophagy
+TRIM13,Autophagy-dependent cell death,Autophagy core,ENSG00000204977,Autophagy
+RAB11A,Rab proteins involved in autophagosome formation,Autophagy core,ENSG00000103769,Autophagy
+RAB23,Rab proteins involved in autophagosome formation,Autophagy core,ENSG00000112210,Autophagy
+RAB1A,Rab proteins involved in autophagosome formation,Autophagy core,ENSG00000138069,Autophagy
+RAB5A,Rab proteins involved in autophagosome formation,Autophagy core,ENSG00000144566,Autophagy
+RAB8B,Rab proteins involved in autophagosome formation,Autophagy core,ENSG00000166128,Autophagy
+RAB1B,Rab proteins involved in autophagosome formation,Autophagy core,ENSG00000174903,Autophagy
+RAB7A,Rab proteins involved in autophagosome formation,Autophagy core,ENSG00000075785,Autophagy
+RAB5B,Rab proteins involved in autophagosome formation,Autophagy core,ENSG00000111540,Autophagy
+RAB5C,Rab proteins involved in autophagosome formation,Autophagy core,ENSG00000108774,Autophagy
+RAB32,Rab proteins involved in autophagosome formation,Autophagy core,ENSG00000118508,Autophagy
+RAB24,Rab proteins involved in autophagosome formation,Autophagy core,ENSG00000169228,Autophagy
+RAB8A,Rab proteins involved in autophagosome formation,Autophagy core,ENSG00000167461,Autophagy
+RAB11B,Rab proteins involved in autophagosome formation,Autophagy core,ENSG00000185236,Autophagy
+RAB33B,Rab proteins involved in autophagosome formation,Autophagy core,ENSG00000172007,Autophagy
+RAB9A,Rab proteins involved in autophagosome formation,Autophagy core,ENSG00000123595,Autophagy
+RAB25,Rab proteins involved in autophagosome formation,Autophagy core,ENSG00000132698,Autophagy
+RAB4A,Rab proteins involved in autophagosome formation,Autophagy core,ENSG00000168118,Autophagy
+RAB4B,Rab proteins involved in autophagosome formation,Autophagy core,ENSG00000167578,Autophagy
+USP25,Ubiquitin and Autophagy,Autophagy core,ENSG00000155313,Autophagy
+USP16,Ubiquitin and Autophagy,Autophagy core,ENSG00000291527,Autophagy
+U2AF1,Ubiquitin and Autophagy,Autophagy core,ENSG00000160201,Autophagy
+USP8,Ubiquitin and Autophagy,Autophagy core,ENSG00000138592,Autophagy
+USP7,Ubiquitin and Autophagy,Autophagy core,ENSG00000187555,Autophagy
+USP11,Ubiquitin and Autophagy,Autophagy core,ENSG00000102226,Autophagy
+USP10,Ubiquitin and Autophagy,Autophagy core,ENSG00000103194,Autophagy
+PIK3AP1,Candidate kinases required for basal Autophagy ,Autophagy core,ENSG00000155629,Autophagy
+TSKS,Candidate kinases required for basal Autophagy ,Autophagy core,ENSG00000126467,Autophagy
+NRBP2,Candidate kinases required for basal Autophagy ,Autophagy core,ENSG00000185189,Autophagy
+NEK9,Candidate kinases required for basal Autophagy ,Autophagy core,ENSG00000119638,Autophagy
+PGK2,Candidate kinases required for basal Autophagy ,Autophagy core,ENSG00000170950,Autophagy
+NME4,Candidate kinases required for basal Autophagy ,Autophagy core,ENSG00000103202,Autophagy
+MOS,Candidate kinases required for basal Autophagy ,Autophagy core,ENSG00000172680,Autophagy
+IKBKB,Candidate kinases required for basal Autophagy ,Autophagy core,ENSG00000104365,Autophagy
+TPD52L3,Candidate kinases required for basal Autophagy ,Autophagy core,ENSG00000170777,Autophagy
+LIMK1,Candidate kinases required for basal Autophagy ,Autophagy core,ENSG00000106683,Autophagy
+GLYCTK,Candidate kinases required for basal Autophagy ,Autophagy core,ENSG00000168237,Autophagy
+PRKACA,Candidate kinases required for basal Autophagy ,Autophagy core,ENSG00000072062,Autophagy
+ALPK2,Candidate kinases required for basal Autophagy ,Autophagy core,ENSG00000198796,Autophagy
+ACVR2B,Candidate kinases required for basal Autophagy ,Autophagy core,ENSG00000114739,Autophagy
+MARK4,Candidate kinases required for basal Autophagy ,Autophagy core,ENSG00000007047,Autophagy
+MAP3K1,Candidate kinases required for basal Autophagy ,Autophagy core,ENSG00000095015,Autophagy
+NUAK1,Candidate kinases required for basal Autophagy ,Autophagy core,ENSG00000074590,Autophagy
+LY6G5B,Candidate kinases required for basal Autophagy ,Autophagy core,ENSG00000239497,Autophagy
+PRDX5,Candidate kinases required for basal Autophagy ,Autophagy core,ENSG00000126432,Autophagy
+PRKDC,Candidate kinases required for basal Autophagy ,Autophagy core,ENSG00000253729,Autophagy
+AK7,Candidate kinases required for basal Autophagy ,Autophagy core,ENSG00000140057,Autophagy
+PRKCE,Candidate kinases required for basal Autophagy ,Autophagy core,ENSG00000171132,Autophagy
+CDC42SE2,Candidate kinases required for basal Autophagy ,Autophagy core,ENSG00000158985,Autophagy
+MAPK4,Candidate kinases required for basal Autophagy ,Autophagy core,ENSG00000141639,Autophagy
+TIE1,Candidate kinases required for basal Autophagy ,Autophagy core,ENSG00000066056,Autophagy
+SKAP1,Candidate kinases required for basal Autophagy ,Autophagy core,ENSG00000141293,Autophagy
+CLK3,Candidate kinases required for basal Autophagy ,Autophagy core,ENSG00000179335,Autophagy
+DGKB,Candidate kinases required for basal Autophagy ,Autophagy core,ENSG00000136267,Autophagy
+CHKA,Candidate kinases required for basal Autophagy ,Autophagy core,ENSG00000110721,Autophagy
+CLK2,Candidate kinases required for basal Autophagy ,Autophagy core,ENSG00000261893,Autophagy
+BMX,Candidate kinases required for basal Autophagy ,Autophagy core,ENSG00000102010,Autophagy
+ATF2,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000115966,Autophagy
+ATF3,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000162772,Autophagy
+ATF4,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000128272,Autophagy
+ATF6,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000118217,Autophagy
+CEBPB,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000172216,Autophagy
+CREB1,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000118260,Autophagy
+CRTC2,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000160741,Autophagy
+DDIT3,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000175197,Autophagy
+E2F1,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000101412,Autophagy
+EGR1,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000120738,Autophagy
+EIF2A,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000144895,Autophagy
+EPAS1,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000116016,Autophagy
+ESR2,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000140009,Autophagy
+FOS,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000170345,Autophagy
+FOXO1,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000150907,Autophagy
+FOXO3,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000118689,Autophagy
+FOXO4,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000184481,Autophagy
+FOXO6,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000281518,Autophagy
+HEY2,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000135547,Autophagy
+HIF1A,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000100644,Autophagy
+HSF1,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000185122,Autophagy
+IRF1,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000125347,Autophagy
+LMX1A,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000162761,Autophagy
+LMX1B,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000136944,Autophagy
+MAPK1,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000100030,Autophagy
+MAPK3,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000102882,Autophagy
+MEF2A,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000068305,Autophagy
+MITF,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000187098,Autophagy
+MYC,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000136997,Autophagy
+NACC1,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000160877,Autophagy
+NFE2L1,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000082641,Autophagy
+NFE2L2,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000116044,Autophagy
+NFKB1,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000109320,Autophagy
+NRF1,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000106459,Autophagy
+PPARA,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000186951,Autophagy
+PPARG,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000132170,Autophagy
+PPARGC1A,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000109819,Autophagy
+PPARGC1B,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000155846,Autophagy
+RARA,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000131759,Autophagy
+RELA,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000173039,Autophagy
+RELB,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000104856,Autophagy
+RFX1,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000288283,Autophagy
+SIRT1,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000096717,Autophagy
+SIRT2,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000068903,Autophagy
+SIRT3,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000142082,Autophagy
+SIRT4,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000089163,Autophagy
+SIRT5,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000124523,Autophagy
+SIRT6,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000077463,Autophagy
+SIRT7,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000187531,Autophagy
+SOX2,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000181449,Autophagy
+SP1,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000185591,Autophagy
+STAT3,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000168610,Autophagy
+TFE3,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000068323,Autophagy
+TFEB,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000112561,Autophagy
+TFEC,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000105967,Autophagy
+TNFAIP3,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000118503,Autophagy
+TP53,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000141510,Autophagy
+XBP1,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000100219,Autophagy
+YY1,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000100811,Autophagy
+ZEB1,Positive regulator of Autophagy genes,Autophagy upregulators,ENSG00000148516,Autophagy
+ATF5,Negative regulator of Autophagy genes,Autophagy downregulators,ENSG00000169136,Autophagy
+BDNF,Negative regulator of Autophagy genes,Autophagy downregulators,ENSG00000176697,Autophagy
+JUN,Negative regulator of Autophagy genes,Autophagy downregulators,ENSG00000177606,Autophagy
+JUNB,Negative regulator of Autophagy genes,Autophagy downregulators,ENSG00000171223,Autophagy
+KEAP1,Negative regulator of Autophagy genes,Autophagy downregulators,ENSG00000079999,Autophagy
+NR1H4,Negative regulator of Autophagy genes,Autophagy downregulators,ENSG00000012504,Autophagy
+STAT1,Negative regulator of Autophagy genes,Autophagy downregulators,ENSG00000115415,Autophagy
+ZKSCAN3,Negative regulator of Autophagy genes,Autophagy downregulators,ENSG00000189298,Autophagy
+BNIP3,Mitophagy core,Mitophagy,ENSG00000176171,Autophagy
+MAPK1,Mitophagy core,Mitophagy,ENSG00000100030,Autophagy
+MAPK14,Mitophagy core,Mitophagy,ENSG00000112062,Autophagy
+SMURF1,Mitophagy core,Mitophagy,ENSG00000198742,Autophagy
+ATP13A2,Mitophagy core,Mitophagy,ENSG00000159363,Autophagy
+SPATA18,Mitophagy core,Mitophagy,ENSG00000163071,Autophagy
+TBK1,Mitophagy core,Mitophagy,ENSG00000183735,Autophagy
+CERS1,Mitophagy core,Mitophagy,ENSG00000223802,Autophagy
+VCP,Mitophagy core,Mitophagy,ENSG00000165280,Autophagy
+HDAC6,Mitophagy core,Mitophagy,ENSG00000094631,Autophagy
+USP8,Mitophagy core,Mitophagy,ENSG00000138592,Autophagy
+PINK1,Mitophagy core,Mitophagy,ENSG00000158828,Autophagy
+MUL1,Mitophagy core,Mitophagy,ENSG00000090432,Autophagy
+FBXO7,Mitophagy core,Mitophagy,ENSG00000100225,Autophagy
+TBC1D17,Mitophagy core,Mitophagy,ENSG00000104946,Autophagy
+TBC1D15,Mitophagy core,Mitophagy,ENSG00000121749,Autophagy
+RHEB,Mitophagy core,Mitophagy,ENSG00000106615,Autophagy
+RNF185,Mitophagy core,Mitophagy,ENSG00000138942,Autophagy
+PARK7,Mitophagy core,Mitophagy,ENSG00000116288,Autophagy
+TGM2,Mitophagy core,Mitophagy,ENSG00000198959,Autophagy
+BCL2L13,Mitophagy core,Mitophagy,ENSG00000099968,Autophagy
+HSPA1L,Mitophagy core,Mitophagy,ENSG00000206383,Autophagy
+BAG4,Mitophagy core,Mitophagy,ENSG00000156735,Autophagy
+TOMM7,Mitophagy core,Mitophagy,ENSG00000196683,Autophagy
+AMBRA1,Mitophagy core,Mitophagy,ENSG00000110497,Autophagy
+BECN1,Mitophagy core,Mitophagy,ENSG00000126581,Autophagy
+UBE2D2,Mitophagy core,Mitophagy,ENSG00000131508,Autophagy
+UBE2L3,Mitophagy core,Mitophagy,ENSG00000185651,Autophagy
+UBE2D3,Mitophagy core,Mitophagy,ENSG00000109332,Autophagy
+UBE2N,Mitophagy core,Mitophagy,ENSG00000177889,Autophagy
+RAB5A,Mitophagy core,Mitophagy,ENSG00000144566,Autophagy
+RAB5B,Mitophagy core,Mitophagy,ENSG00000111540,Autophagy
+RAB5C,Mitophagy core,Mitophagy,ENSG00000108774,Autophagy
+RAB7A,Mitophagy core,Mitophagy,ENSG00000075785,Autophagy
+FLCN,Mitophagy core,Mitophagy,ENSG00000154803,Autophagy
+FNIP1,Mitophagy core,Mitophagy,ENSG00000217128,Autophagy
+NIPSNAP1,Mitophagy core,Mitophagy,ENSG00000184117,Autophagy
+NIPSNAP2,Mitophagy core,Mitophagy,ENSG00000146729,Autophagy
+SESN2,Mitophagy core,Mitophagy,ENSG00000130766,Autophagy
+RB1CC1,Mitophagy core,Mitophagy,ENSG00000023287,Autophagy
+ULK1,Mitophagy core,Mitophagy,ENSG00000177169,Autophagy
+SQSTM1,Mitophagy-specific cargo receptors,Mitophagy,ENSG00000284099,Autophagy
+BNIP3L,Mitophagy-specific cargo receptors,Mitophagy,ENSG00000104765,Autophagy
+FUNDC1,Mitophagy-specific cargo receptors,Mitophagy,ENSG00000069509,Autophagy
+OPTN,Mitophagy-specific cargo receptors,Mitophagy,ENSG00000123240,Autophagy
+CALCOCO2,Mitophagy-specific cargo receptors,Mitophagy,ENSG00000136436,Autophagy
+PHB2,Mitophagy-specific cargo receptors,Mitophagy,ENSG00000215021,Autophagy
+TAX1BP1,Mitophagy-specific cargo receptors,Mitophagy,ENSG00000106052,Autophagy
+LRPPRC,Negative regulator of Mitophagy,Mitophagy,ENSG00000138095,Autophagy
+USP30,Negative regulator of Mitophagy,Mitophagy,ENSG00000135093,Autophagy
+USP35,Negative regulator of Mitophagy,Mitophagy,ENSG00000118369,Autophagy
+USP15,Negative regulator of Mitophagy,Mitophagy,ENSG00000135655,Autophagy
+SIAH3,Negative regulator of Mitophagy,Mitophagy,ENSG00000215475,Autophagy
+BCL2L1,Negative regulator of Mitophagy,Mitophagy,ENSG00000171552,Autophagy
+MCL1,Negative regulator of Mitophagy,Mitophagy,ENSG00000143384,Autophagy
+ZNF746,Negative regulator of PGC1alpha,Mitophagy,ENSG00000181220,Autophagy
+MFN1,Fusion,Mitophagy,ENSG00000171109,Autophagy
+MFN2,Fusion,Mitophagy,ENSG00000116688,Autophagy
+OPA1,Fusion,Mitophagy,ENSG00000198836,Autophagy
+ROCK1,Fission,Mitophagy,ENSG00000067900,Autophagy
+MIEF1,Fission,Mitophagy,ENSG00000100335,Autophagy
+MIEF2,Fission,Mitophagy,ENSG00000177427,Autophagy
+DNM1L,Fission,Mitophagy,ENSG00000087470,Autophagy
+FIS1,Fission,Mitophagy,ENSG00000214253,Autophagy
+HTRA2,Fission,Mitophagy,ENSG00000115317,Autophagy
+MFF,Fission,Mitophagy,ENSG00000168958,Autophagy
+SIRT2,Transcription Factors involved in Mitophagy,Mitophagy,ENSG00000068903,Autophagy
+SIRT3,Transcription Factors involved in Mitophagy,Mitophagy,ENSG00000142082,Autophagy
+SIRT5,Transcription Factors involved in Mitophagy,Mitophagy,ENSG00000124523,Autophagy
+SOX2,Transcription Factors involved in Mitophagy,Mitophagy,ENSG00000181449,Autophagy
+MITF,Transcription Factors involved in Mitophagy,Mitophagy,ENSG00000187098,Autophagy
+TFE3,Transcription Factors involved in Mitophagy,Mitophagy,ENSG00000068323,Autophagy
+TFEB,Transcription Factors involved in Mitophagy,Mitophagy,ENSG00000112561,Autophagy
+TFEC,Transcription Factors involved in Mitophagy,Mitophagy,ENSG00000105967,Autophagy
+SREBF1,Transcription Factors involved in Mitophagy,Mitophagy,ENSG00000072310,Autophagy
+SREBF2,Transcription Factors involved in Mitophagy,Mitophagy,ENSG00000198911,Autophagy
+VAMP3,SNAREs,Docking and fusion,ENSG00000049245,Autophagy
+STX17,SNAREs,Docking and fusion,ENSG00000136874,Autophagy
+YKT6,SNAREs,Docking and fusion,ENSG00000106636,Autophagy
+VTI1A,SNAREs,Docking and fusion,ENSG00000151532,Autophagy
+VAMP7,SNAREs,Docking and fusion,ENSG00000292366,Autophagy
+SNAP29,SNAREs,Docking and fusion,ENSG00000099940,Autophagy
+VPS33A,HOPS,Docking and fusion,ENSG00000139719,Autophagy
+RAB7A,HOPS,Docking and fusion,ENSG00000075785,Autophagy
+VPS41,HOPS,Docking and fusion,ENSG00000006715,Autophagy
+VPS11,HOPS,Docking and fusion,ENSG00000280616,Autophagy
+VPS16,HOPS,Docking and fusion,ENSG00000215305,Autophagy
+VPS39,HOPS,Docking and fusion,ENSG00000166887,Autophagy
+VPS18,HOPS,Docking and fusion,ENSG00000104142,Autophagy
+EPG5,"Tethers, Adaptors",Docking and fusion,ENSG00000152223,Autophagy
+ATG14,"Tethers, Adaptors",Docking and fusion,ENSG00000126775,Autophagy
+TECPR1,"Tethers, Adaptors",Docking and fusion,ENSG00000205356,Autophagy
+GORASP2,"Tethers, Adaptors",Docking and fusion,ENSG00000115806,Autophagy
+BIRC6,"Tethers, Adaptors",Docking and fusion,ENSG00000115760,Autophagy
+RUFY4,"Tethers, Adaptors",Docking and fusion,ENSG00000188282,Autophagy
+ARL8B,recruitment HOPS on lysosome,Docking and fusion,ENSG00000134108,Autophagy
+RAB20,Autophagosome-lysosome fusion,Docking and fusion,ENSG00000139832,Autophagy
+RAB39A,Autophagosome-lysosome fusion,Docking and fusion,ENSG00000179331,Autophagy
+CTSB,endolysosome lumen,Lysosome,ENSG00000164733,Autophagy
+CTSK,endolysosome lumen,Lysosome,ENSG00000143387,Autophagy
+CTSS,endolysosome lumen,Lysosome,ENSG00000163131,Autophagy
+PPT1,late endosomes/lysosomes ,Lysosome,ENSG00000131238,Autophagy
+ASAH1,lysosomal lumen,Lysosome,ENSG00000104763,Autophagy
+CD1E,lysosomal lumen,Lysosome,ENSG00000158488,Autophagy
+GALNS,lysosomal lumen,Lysosome,ENSG00000141012,Autophagy
+GLB1,lysosomal lumen,Lysosome,ENSG00000170266,Autophagy
+GM2A,lysosomal lumen,Lysosome,ENSG00000196743,Autophagy
+GNS,lysosomal lumen,Lysosome,ENSG00000135677,Autophagy
+GUSB,lysosomal lumen,Lysosome,ENSG00000169919,Autophagy
+HEXA,lysosomal lumen,Lysosome,ENSG00000213614,Autophagy
+HEXB,lysosomal lumen,Lysosome,ENSG00000049860,Autophagy
+IDS,lysosomal lumen,Lysosome,ENSG00000010404,Autophagy
+LGMN,lysosomal lumen,Lysosome,ENSG00000100600,Autophagy
+PLBD2,lysosomal lumen,Lysosome,ENSG00000151176,Autophagy
+SGSH,lysosomal lumen,Lysosome,ENSG00000181523,Autophagy
+SMPD1,lysosomal lumen,Lysosome,ENSG00000166311,Autophagy
+ABCA2,lysosomal membrane,Lysosome,ENSG00000107331,Autophagy
+ABCA5,lysosomal membrane,Lysosome,ENSG00000154265,Autophagy
+ABCB9,lysosomal membrane,Lysosome,ENSG00000150967,Autophagy
+AP1G1,lysosomal membrane,Lysosome,ENSG00000166747,Autophagy
+AP3B1,lysosomal membrane,Lysosome,ENSG00000132842,Autophagy
+ARL8A,lysosomal membrane,Lysosome,ENSG00000143862,Autophagy
+ARL8B,lysosomal membrane,Lysosome,ENSG00000134108,Autophagy
+ATP13A2,lysosomal membrane,Lysosome,ENSG00000159363,Autophagy
+ATP6V0A2,lysosomal membrane,Lysosome,ENSG00000185344,Autophagy
+ATP6V0A4,lysosomal membrane,Lysosome,ENSG00000105929,Autophagy
+ATP6V0C,lysosomal membrane,Lysosome,ENSG00000185883,Autophagy
+ATP6V0D1,lysosomal membrane,Lysosome,ENSG00000159720,Autophagy
+CCZ1,lysosomal membrane,Lysosome,ENSG00000122674,Autophagy
+CD1B,lysosomal membrane,Lysosome,ENSG00000158485,Autophagy
+CD68,lysosomal membrane,Lysosome,ENSG00000129226,Autophagy
+CLCN5,lysosomal membrane,Lysosome,ENSG00000171365,Autophagy
+CLCN6,lysosomal membrane,Lysosome,ENSG00000011021,Autophagy
+CLCN7,lysosomal membrane,Lysosome,ENSG00000103249,Autophagy
+CLN5,lysosomal membrane,Lysosome,ENSG00000102805,Autophagy
+CTNS,lysosomal membrane,Lysosome,ENSG00000040531,Autophagy
+DAB2,lysosomal membrane,Lysosome,ENSG00000153071,Autophagy
+DNAJC5,lysosomal membrane,Lysosome,ENSG00000101152,Autophagy
+DRAM1,lysosomal membrane,Lysosome,ENSG00000136048,Autophagy
+EGF,lysosomal membrane,Lysosome,ENSG00000138798,Autophagy
+GAA,lysosomal membrane,Lysosome,ENSG00000171298,Autophagy
+GPR137B,lysosomal membrane,Lysosome,ENSG00000077585,Autophagy
+HGSNAT,lysosomal membrane,Lysosome,ENSG00000165102,Autophagy
+LAMP2,lysosomal membrane,Lysosome,ENSG00000005893,Autophagy
+LAMP3,lysosomal membrane,Lysosome,ENSG00000078081,Autophagy
+LITAF,lysosomal membrane,Lysosome,ENSG00000189067,Autophagy
+LMBRD1,lysosomal membrane,Lysosome,ENSG00000168216,Autophagy
+MCOLN1,lysosomal membrane,Lysosome,ENSG00000090674,Autophagy
+MFSD8,lysosomal membrane,Lysosome,ENSG00000164073,Autophagy
+MYO7A,lysosomal membrane,Lysosome,ENSG00000137474,Autophagy
+NCSTN,lysosomal membrane,Lysosome,ENSG00000162736,Autophagy
+NPC1,lysosomal membrane,Lysosome,ENSG00000141458,Autophagy
+PI4K2A,lysosomal membrane,Lysosome,ENSG00000155252,Autophagy
+PLD1,lysosomal membrane,Lysosome,ENSG00000075651,Autophagy
+PSEN1,lysosomal membrane,Lysosome,ENSG00000080815,Autophagy
+RAB14,lysosomal membrane,Lysosome,ENSG00000119396,Autophagy
+RAB5C,lysosomal membrane,Lysosome,ENSG00000108774,Autophagy
+RILP,lysosomal membrane,Lysosome,ENSG00000167705,Autophagy
+RNF13,lysosomal membrane,Lysosome,ENSG00000082996,Autophagy
+SCARB2,lysosomal membrane,Lysosome,ENSG00000138760,Autophagy
+SIDT2,lysosomal membrane,Lysosome,ENSG00000149577,Autophagy
+SLC11A2,lysosomal membrane,Lysosome,ENSG00000110911,Autophagy
+SLC15A3,lysosomal membrane,Lysosome,ENSG00000110446,Autophagy
+SLC17A5,lysosomal membrane,Lysosome,ENSG00000119899,Autophagy
+SLC29A3,lysosomal membrane,Lysosome,ENSG00000198246,Autophagy
+SLC36A1,lysosomal membrane,Lysosome,ENSG00000123643,Autophagy
+SPHK2,lysosomal membrane,Lysosome,ENSG00000063176,Autophagy
+STARD3,lysosomal membrane,Lysosome,ENSG00000131748,Autophagy
+STX7,lysosomal membrane,Lysosome,ENSG00000079950,Autophagy
+TCIRG1,lysosomal membrane,Lysosome,ENSG00000110719,Autophagy
+TECPR1,lysosomal membrane,Lysosome,ENSG00000205356,Autophagy
+TMEM192,lysosomal membrane,Lysosome,ENSG00000170088,Autophagy
+TMEM59,lysosomal membrane,Lysosome,ENSG00000116209,Autophagy
+TMEM74,lysosomal membrane,Lysosome,ENSG00000164841,Autophagy
+TMEM9,lysosomal membrane,Lysosome,ENSG00000116857,Autophagy
+TPCN1,lysosomal membrane,Lysosome,ENSG00000186815,Autophagy
+TPCN2,lysosomal membrane,Lysosome,ENSG00000162341,Autophagy
+TSPAN1,lysosomal membrane,Lysosome,ENSG00000117472,Autophagy
+VPS11,lysosomal membrane,Lysosome,ENSG00000280616,Autophagy
+VPS16,lysosomal membrane,Lysosome,ENSG00000215305,Autophagy
+VPS18,lysosomal membrane,Lysosome,ENSG00000104142,Autophagy
+VPS35,lysosomal membrane,Lysosome,ENSG00000069329,Autophagy
+VPS39,lysosomal membrane,Lysosome,ENSG00000166887,Autophagy
+ZNRF2,lysosomal membrane,Lysosome,ENSG00000180233,Autophagy
+TRIM23,lysosomal membrane and Golgi membrane,Lysosome,ENSG00000113595,Autophagy
+ACP2,lysosome,Lysosome,ENSG00000134575,Autophagy
+ACP5,lysosome,Lysosome,ENSG00000102575,Autophagy
+ADA,lysosome,Lysosome,ENSG00000196839,Autophagy
+AGA,lysosome,Lysosome,ENSG00000038002,Autophagy
+ARSB,lysosome,Lysosome,ENSG00000113273,Autophagy
+ARSD,lysosome,Lysosome,ENSG00000006756,Autophagy
+ARSG,lysosome,Lysosome,ENSG00000141337,Autophagy
+BCL10,lysosome,Lysosome,ENSG00000142867,Autophagy
+CHID1,lysosome,Lysosome,ENSG00000177830,Autophagy
+CHIT1,lysosome,Lysosome,ENSG00000133063,Autophagy
+CST3,lysosome,Lysosome,ENSG00000101439,Autophagy
+CTBS,lysosome,Lysosome,ENSG00000117151,Autophagy
+CTSA,lysosome,Lysosome,ENSG00000064601,Autophagy
+CTSC,lysosome,Lysosome,ENSG00000109861,Autophagy
+CTSD,lysosome,Lysosome,ENSG00000117984,Autophagy
+CTSF,lysosome,Lysosome,ENSG00000174080,Autophagy
+CTSH,lysosome,Lysosome,ENSG00000103811,Autophagy
+CTSO,lysosome,Lysosome,ENSG00000256043,Autophagy
+CTSZ,lysosome,Lysosome,ENSG00000101160,Autophagy
+DNASE2,lysosome,Lysosome,ENSG00000105612,Autophagy
+DOC2A,lysosome,Lysosome,ENSG00000149927,Autophagy
+DRAM2,lysosome,Lysosome,ENSG00000156171,Autophagy
+EPDR1,lysosome,Lysosome,ENSG00000086289,Autophagy
+FNBP1,lysosome,Lysosome,ENSG00000187239,Autophagy
+FUCA1,lysosome,Lysosome,ENSG00000179163,Autophagy
+GALC,lysosome,Lysosome,ENSG00000054983,Autophagy
+GGH,lysosome,Lysosome,ENSG00000137563,Autophagy
+GLA,lysosome,Lysosome,ENSG00000102393,Autophagy
+HCK,lysosome,Lysosome,ENSG00000101336,Autophagy
+HPS1,lysosome,Lysosome,ENSG00000107521,Autophagy
+HPS4,lysosome,Lysosome,ENSG00000100099,Autophagy
+HPSE,lysosome,Lysosome,ENSG00000173083,Autophagy
+HYAL1,lysosome,Lysosome,ENSG00000114378,Autophagy
+HYAL2,lysosome,Lysosome,ENSG00000068001,Autophagy
+HYAL3,lysosome,Lysosome,ENSG00000186792,Autophagy
+IDUA,lysosome,Lysosome,ENSG00000127415,Autophagy
+IFI30,lysosome,Lysosome,ENSG00000216490,Autophagy
+ITM2C,lysosome,Lysosome,ENSG00000135916,Autophagy
+KCNE1,lysosome,Lysosome,ENSG00000180509,Autophagy
+LAMP1,lysosome,Lysosome,ENSG00000185896,Autophagy
+LIPA,lysosome,Lysosome,ENSG00000107798,Autophagy
+LRBA,lysosome,Lysosome,ENSG00000198589,Autophagy
+LRP2,lysosome,Lysosome,ENSG00000081479,Autophagy
+MAN2B1,lysosome,Lysosome,ENSG00000104774,Autophagy
+MAN2B2,lysosome,Lysosome,ENSG00000013288,Autophagy
+MANBA,lysosome,Lysosome,ENSG00000109323,Autophagy
+NAGA,lysosome,Lysosome,ENSG00000198951,Autophagy
+NAGLU,lysosome,Lysosome,ENSG00000108784,Autophagy
+NEU1,lysosome,Lysosome,ENSG00000204386,Autophagy
+NEU4,lysosome,Lysosome,ENSG00000204099,Autophagy
+NPC2,lysosome,Lysosome,ENSG00000119655,Autophagy
+PCSK9,lysosome,Lysosome,ENSG00000169174,Autophagy
+PCYOX1,lysosome,Lysosome,ENSG00000116005,Autophagy
+PEBP4,lysosome,Lysosome,ENSG00000134020,Autophagy
+PPT2,lysosome,Lysosome,ENSG00000168452,Autophagy
+PRCP,lysosome,Lysosome,ENSG00000137509,Autophagy
+PRDX6,lysosome,Lysosome,ENSG00000117592,Autophagy
+RAB27A,lysosome,Lysosome,ENSG00000069974,Autophagy
+RAMP2,lysosome,Lysosome,ENSG00000131477,Autophagy
+RAMP3,lysosome,Lysosome,ENSG00000122679,Autophagy
+RNASET2,lysosome,Lysosome,ENSG00000026297,Autophagy
+SIAE,lysosome,Lysosome,ENSG00000110013,Autophagy
+SPACA3,lysosome,Lysosome,ENSG00000141316,Autophagy
+SRC,lysosome,Lysosome,ENSG00000197122,Autophagy
+STS,lysosome,Lysosome,ENSG00000101846,Autophagy
+TPP1,lysosome,Lysosome,ENSG00000166340,Autophagy
+UNC93B1,lysosome,Lysosome,ENSG00000110057,Autophagy
+VMA21,lysosome,Lysosome,ENSG00000160131,Autophagy
+WDR48,lysosome,Lysosome,ENSG00000114742,Autophagy
+ZNRF1,lysosome,Lysosome,ENSG00000186187,Autophagy
+ATP6AP1,Lysosome-related genes,Lysosome-related genes,ENSG00000071553,Autophagy
+ATP6AP2,Lysosome-related genes,Lysosome-related genes,ENSG00000182220,Autophagy
+ATP6V0A1,Lysosome-related genes,Lysosome-related genes,ENSG00000033627,Autophagy
+ATP6V0B,Lysosome-related genes,Lysosome-related genes,ENSG00000117410,Autophagy
+ATP6V0E1,Lysosome-related genes,Lysosome-related genes,ENSG00000113732,Autophagy
+ATP6V0E2,Lysosome-related genes,Lysosome-related genes,ENSG00000171130,Autophagy
+ATP6V1A,Lysosome-related genes,Lysosome-related genes,ENSG00000114573,Autophagy
+ATP6V1B1,Lysosome-related genes,Lysosome-related genes,ENSG00000116039,Autophagy
+ATP6V1B2,Lysosome-related genes,Lysosome-related genes,ENSG00000147416,Autophagy
+ATP6V1C1,Lysosome-related genes,Lysosome-related genes,ENSG00000155097,Autophagy
+ATP6V1C2,Lysosome-related genes,Lysosome-related genes,ENSG00000143882,Autophagy
+ATP6V1D,Lysosome-related genes,Lysosome-related genes,ENSG00000100554,Autophagy
+ATP6V1E1,Lysosome-related genes,Lysosome-related genes,ENSG00000131100,Autophagy
+ATP6V1E2,Lysosome-related genes,Lysosome-related genes,ENSG00000250565,Autophagy
+ATP6V1F,Lysosome-related genes,Lysosome-related genes,ENSG00000128524,Autophagy
+ATP6V1G1,Lysosome-related genes,Lysosome-related genes,ENSG00000136888,Autophagy
+ATP6V1G2,Lysosome-related genes,Lysosome-related genes,ENSG00000230900,Autophagy
+ATP6V1G3,Lysosome-related genes,Lysosome-related genes,ENSG00000263014,Autophagy
+ATP6V1H,Lysosome-related genes,Lysosome-related genes,ENSG00000047249,Autophagy
+CLCN3,Lysosome-related genes,Lysosome-related genes,ENSG00000109572,Autophagy
+CLN6,Lysosome-related genes,Lysosome-related genes,ENSG00000128973,Autophagy
+CPQ,Lysosome-related genes,Lysosome-related genes,ENSG00000104324,Autophagy
+CSTB,Lysosome-related genes,Lysosome-related genes,ENSG00000160213,Autophagy
+CTSE,Lysosome-related genes,Lysosome-related genes,ENSG00000196188,Autophagy
+CTSG,Lysosome-related genes,Lysosome-related genes,ENSG00000100448,Autophagy
+CTSL,Lysosome-related genes,Lysosome-related genes,ENSG00000135047,Autophagy
+Hps5,Lysosome-related genes,Lysosome-related genes,ENSG00000288445,Autophagy
+MT3,Lysosome-related genes,Lysosome-related genes,ENSG00000087250,Autophagy
+PSEN2,Lysosome-related genes,Lysosome-related genes,ENSG00000143801,Autophagy
+RAB34,Lysosome-related genes,Lysosome-related genes,ENSG00000109113,Autophagy
+RILPL1,Lysosome-related genes,Lysosome-related genes,ENSG00000188026,Autophagy
+SCPEP1,Lysosome-related genes,Lysosome-related genes,ENSG00000121064,Autophagy
+SLC38A9,Lysosome-related genes,Lysosome-related genes,ENSG00000177058,Autophagy
+LAMTOR1,Lysosome-related genes,Lysosome-related genes,ENSG00000149357,Autophagy
+APOL1,Other,Other,ENSG00000100342,Autophagy
+ARNT,Other,Other,ENSG00000143437,Autophagy
+ARSA,Other,Other,ENSG00000100299,Autophagy
+ATIC,Other,Other,ENSG00000138363,Autophagy
+BAG1,Other,Other,ENSG00000107262,Autophagy
+BAK1,Other,Other,ENSG00000030110,Autophagy
+BAX,Other,Other,ENSG00000087088,Autophagy
+BID,Other,Other,ENSG00000015475,Autophagy
+BNIP1,Other,Other,ENSG00000113734,Autophagy
+CANX,Other,Other,ENSG00000283777,Autophagy
+CAPN10,Other,Other,ENSG00000142330,Autophagy
+CASP1,Other,Other,ENSG00000137752,Autophagy
+CASP3,Other,Other,ENSG00000164305,Autophagy
+CASP4,Other,Other,ENSG00000196954,Autophagy
+CASP8,Other,Other,ENSG00000064012,Autophagy
+CCL2,Other,Other,ENSG00000108691,Autophagy
+CCR2,Other,Other,ENSG00000121807,Autophagy
+CD46,Other,Other,ENSG00000117335,Autophagy
+CDKN1A,Other,Other,ENSG00000124762,Autophagy
+CDKN1B,Other,Other,ENSG00000111276,Autophagy
+CDKN2A,Other,Other,ENSG00000147889,Autophagy
+CFLAR,Other,Other,ENSG00000003402,Autophagy
+CHMP2B,Other,Other,ENSG00000083937,Autophagy
+CHMP4B,Other,Other,ENSG00000101421,Autophagy
+CX3CL1,Other,Other,ENSG00000006210,Autophagy
+CXCR4,Other,Other,ENSG00000121966,Autophagy
+DIRAS3,Other,Other,ENSG00000162595,Autophagy
+DLC1,Other,Other,ENSG00000288673,Autophagy
+DNAJB1,Other,Other,ENSG00000132002,Autophagy
+DNAJB9,Other,Other,ENSG00000128590,Autophagy
+EDEM1,Other,Other,ENSG00000134109,Autophagy
+EEF2,Other,Other,ENSG00000167658,Autophagy
+EGFR,Other,Other,ENSG00000146648,Autophagy
+EIF2AK2,Other,Other,ENSG00000055332,Autophagy
+EIF2AK3,Other,Other,ENSG00000172071,Autophagy
+EIF2S1,Other,Other,ENSG00000134001,Autophagy
+EIF4G1,Other,Other,ENSG00000114867,Autophagy
+ERBB2,Other,Other,ENSG00000141736,Autophagy
+ERN1,Other,Other,ENSG00000178607,Autophagy
+FADD,Other,Other,ENSG00000168040,Autophagy
+FAS,Other,Other,ENSG00000026103,Autophagy
+FKBP1A,Other,Other,ENSG00000088832,Autophagy
+FKBP1B,Other,Other,ENSG00000119782,Autophagy
+GAPDH,Other,Other,ENSG00000111640,Autophagy
+GNAI3,Other,Other,ENSG00000065135,Autophagy
+GOPC,Other,Other,ENSG00000047932,Autophagy
+GRID1,Other,Other,ENSG00000182771,Autophagy
+GRID2,Other,Other,ENSG00000152208,Autophagy
+HGS,Other,Other,ENSG00000185359,Autophagy
+HSP90AB1,Other,Other,ENSG00000096384,Autophagy
+HSPA5,Other,Other,ENSG00000044574,Autophagy
+HSPA8,Other,Other,ENSG00000109971,Autophagy
+HSPB8,Other,Other,ENSG00000152137,Autophagy
+IFNG,Other,Other,ENSG00000111537,Autophagy
+IKBKE,Other,Other,ENSG00000263528,Autophagy
+IL24,Other,Other,ENSG00000162892,Autophagy
+ITGA3,Other,Other,ENSG00000005884,Autophagy
+ITGA6,Other,Other,ENSG00000091409,Autophagy
+ITGB1,Other,Other,ENSG00000150093,Autophagy
+ITGB4,Other,Other,ENSG00000132470,Autophagy
+ITPR1,Other,Other,ENSG00000150995,Autophagy
+KIF5B,Other,Other,ENSG00000170759,Autophagy
+KLHL24,Other,Other,ENSG00000114796,Autophagy
+MAP2K7,Other,Other,ENSG00000076984,Autophagy
+MAPK8IP1,Other,Other,ENSG00000121653,Autophagy
+MAPK9,Other,Other,ENSG00000050748,Autophagy
+MBTPS2,Other,Other,ENSG00000012174,Autophagy
+MTMR14,Other,Other,ENSG00000163719,Autophagy
+NAF1,Other,Other,ENSG00000145414,Autophagy
+NAMPT,Other,Other,ENSG00000105835,Autophagy
+NCKAP1,Other,Other,ENSG00000061676,Autophagy
+NKX2-3,Other,Other,ENSG00000119919,Autophagy
+NLRC4,Other,Other,ENSG00000091106,Autophagy
+NRG1,Other,Other,ENSG00000157168,Autophagy
+NRG2,Other,Other,ENSG00000158458,Autophagy
+NRG3,Other,Other,ENSG00000185737,Autophagy
+P4HB,Other,Other,ENSG00000185624,Autophagy
+PARP1,Other,Other,ENSG00000143799,Autophagy
+PEA15,Other,Other,ENSG00000162734,Autophagy
+PELP1,Other,Other,ENSG00000141456,Autophagy
+PEX14,Other,Other,ENSG00000142655,Autophagy
+PEX3,Other,Other,ENSG00000034693,Autophagy
+PPP1R15A,Other,Other,ENSG00000087074,Autophagy
+PRKAR1A,Other,Other,ENSG00000108946,Autophagy
+PRKCD,Other,Other,ENSG00000163932,Autophagy
+PRKCQ,Other,Other,ENSG00000065675,Autophagy
+PTEN,Other,Other,ENSG00000171862,Autophagy
+PTK6,Other,Other,ENSG00000101213,Autophagy
+RAC1,Other,Other,ENSG00000136238,Autophagy
+RAF1,Other,Other,ENSG00000132155,Autophagy
+RB1,Other,Other,ENSG00000139687,Autophagy
+RGS19,Other,Other,ENSG00000171700,Autophagy
+SAR1A,Other,Other,ENSG00000079332,Autophagy
+SERPINA1,Other,Other,ENSG00000277377,Autophagy
+SPHK1,Other,Other,ENSG00000176170,Autophagy
+SPNS1,Other,Other,ENSG00000169682,Autophagy
+ST13,Other,Other,ENSG00000100380,Autophagy
+TNFSF10,Other,Other,ENSG00000121858,Autophagy
+TP53INP2,Other,Other,ENSG00000078804,Autophagy
+TP63,Other,Other,ENSG00000073282,Autophagy
+TP73,Other,Other,ENSG00000078900,Autophagy
+TUSC1,Other,Other,ENSG00000198680,Autophagy
+VEGFA,Other,Other,ENSG00000112715,Autophagy

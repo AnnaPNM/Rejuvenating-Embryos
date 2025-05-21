@@ -1,0 +1,211 @@
+Gene,Original_Subprocess,Hallmark,Subprocess,Specific_Subcategory,Regulation,ENSEMBL,ENSEMBL_mice
+AURKB,Replication stress,Genomic instability,Cell Cycle and Mitotic Regulation,Mitotic Kinase Activity,Upregulated,ENSG00000178999,ENSMUSG00000020897
+CCNA2,Replication stress,Genomic instability,Cell Cycle and Mitotic Regulation,Cell Cycle Progression,Upregulated,ENSG00000145386,ENSMUSG00000027715
+GADD45G,Replication stress,Genomic instability,Replication Stress Response,Replication Checkpoint Activation,Upregulated,ENSG00000130222,ENSMUSG00000021453
+GINS1,Replication stress,Genomic instability,Replication Stress Response,Fork Progression Regulation,Upregulated,ENSG00000101003,ENSMUSG00000027454
+LIG3,Replication stress,Genomic instability,Replication Stress Response,DNA Ligation during Replication,Upregulated,ENSG00000005156,ENSMUSG00000020697
+MTF2,Replication stress,Genomic instability,Transcription-Replication Conflict,Transcription Regulation,Unknown,ENSG00000143033,ENSMUSG00000029267
+ORC6,Replication stress,Genomic instability,Replication Stress Response,Replication Origin Firing,Upregulated,ENSG00000091651,ENSMUSG00000031697
+POLA1,Replication stress,Genomic instability,Replication Stress Response,DNA Synthesis during Replication,Upregulated,ENSG00000101868,ENSMUSG00000006678
+POLD4,Replication stress,Genomic instability,Replication Stress Response,DNA Synthesis during Replication,Upregulated,ENSG00000175482,ENSMUSG00000024854
+POLE4,Replication stress,Genomic instability,Replication Stress Response,DNA Synthesis during Replication,Upregulated,ENSG00000115350,ENSMUSG00000030042
+PRPS1,Replication stress,Genomic instability,Replication Stress Response,Nucleotide Pool Regulation,Upregulated,ENSG00000147224,ENSMUSG00000031432
+RFC5,Replication stress,Genomic instability,Replication Stress Response,PCNA Loading during Replication,Upregulated,ENSG00000111445,ENSMUSG00000029363
+RMI1,Replication stress,Genomic instability,Replication Stress Response,Fork Remodeling and Restart,Upregulated,ENSG00000178966,ENSMUSG00000035367
+RRM1,Replication stress,Genomic instability,Replication Stress Response,Nucleotide Pool Regulation,Upregulated,ENSG00000167325,ENSMUSG00000030978
+SRSF1,Replication stress,Genomic instability,Transcription-Replication Conflict,R-loop Prevention,Unknown,ENSG00000136450,ENSMUSG00000018379
+SUV39H1,Replication stress,Genomic instability,Chromatin and Nuclear Organization,Histone Modification,Unknown,ENSG00000101945,ENSMUSG00000039231
+TNPO2,Replication stress,Genomic instability,Chromatin and Nuclear Organization,Nuclear Transport,Unknown,ENSG00000105576,ENSMUSG00000031691
+Ercc5,DNA damage and repair,Genomic instability,Nucleotide Excision Repair,ERCC5 Endonuclease (XPG),Upregulated,ENSG00000134899,ENSMUSG00000026048
+Mdm4,DNA damage and repair,Genomic instability,DNA Damage Signaling,p53 Regulation,Upregulated,ENSG00000198625,ENSMUSG00000054387
+Pik3c2b,DNA damage and repair,Genomic instability,DNA Damage Signaling,PI3K Signaling,Unknown,ENSG00000133056,ENSMUSG00000026447
+Exo1,DNA damage and repair,Genomic instability,Double-Strand Break Repair,Homologous Recombination (HR),Upregulated,ENSG00000174371,ENSMUSG00000039748
+Psmd5,DNA damage and repair,Genomic instability,Auxiliary Processes,Protein Degradation,Unknown,ENSG00000095261,ENSMUSG00000026869
+Rif1,DNA damage and repair,Genomic instability,Double-Strand Break Repair,Non-Homologous End-Joining (NHEJ),Neutral,ENSG00000080345,ENSMUSG00000036202
+Pdk1,DNA damage and repair,Genomic instability,Auxiliary Processes,Metabolic Regulation,Unknown,ENSG00000152256,ENSMUSG00000006494
+Atf2,DNA damage and repair,Genomic instability,DNA Damage Signaling,Transcription Regulation,Upregulated,ENSG00000115966,ENSMUSG00000027104
+Rad54b,DNA damage and repair,Genomic instability,Double-Strand Break Repair,Homologous Recombination (HR),Upregulated,ENSG00000197275,ENSMUSG00000078773
+Cdkn2a,DNA damage and repair,Genomic instability,Cell Cycle and Mitotic Regulation,Cell Cycle Checkpoint,Upregulated,ENSG00000147889,ENSMUSG00000044303
+Mutyh,DNA damage and repair,Genomic instability,Base Excision Repair,Base Excision Repair (BER),Upregulated,ENSG00000132781,ENSMUSG00000028687
+Cad,DNA damage and repair,Genomic instability,Auxiliary Processes,Nucleotide Metabolism,Upregulated,ENSG00000084774,ENSMUSG00000013629
+Tacc3,DNA damage and repair,Genomic instability,Cell Cycle and Mitotic Regulation,Mitotic Spindle Assembly,Upregulated,ENSG00000013810,ENSMUSG00000037313
+Mapk10,DNA damage and repair,Genomic instability,DNA Damage Signaling,Stress Activated Kinase Signaling,Unknown,ENSG00000109339,ENSMUSG00000046709
+Cdc7,DNA damage and repair,Genomic instability,Replication Stress Response,Replication Initiation,Upregulated,ENSG00000097046,ENSMUSG00000029283
+Pole,DNA damage and repair,Genomic instability,Replication Stress Response,DNA Synthesis during Repair,Upregulated,ENSG00000177084,ENSMUSG00000007080
+Pole4,DNA damage and repair,Genomic instability,Replication Stress Response,DNA Synthesis during Repair,Upregulated,ENSG00000115350,ENSMUSG00000030042
+Ogg1,DNA damage and repair,Genomic instability,Base Excision Repair,Base Excision Repair (BER),Upregulated,ENSG00000114026,ENSMUSG00000030271
+Pik3c2g,DNA damage and repair,Genomic instability,DNA Damage Signaling,PI3K Signaling,Unknown,ENSG00000139144,ENSMUSG00000030228
+Xrcc1,DNA damage and repair,Genomic instability,Base Excision Repair,Base Excision Repair (BER),Upregulated,ENSG00000073050,ENSMUSG00000051768
+Bax,DNA damage and repair,Genomic instability,Auxiliary Processes,Apoptosis Regulation,Upregulated,ENSG00000087088,ENSMUSG00000003873
+Fanci,DNA damage and repair,Genomic instability,Interstrand Crosslink Repair,Fanconi Anemia Complex,Upregulated,ENSG00000140525,ENSMUSG00000039187
+Polg,DNA damage and repair,Genomic instability,Mitochondrial DNA Repair,DNA Polymerase Gamma,Unknown,ENSG00000140521,ENSMUSG00000039176
+Apbb1,DNA damage and repair,Genomic instability,DNA Damage Signaling,DNA Damage Response Regulation,Unknown,ENSG00000166313,ENSMUSG00000037032
+Pik3c2a,DNA damage and repair,Genomic instability,DNA Damage Signaling,PI3K Signaling,Unknown,ENSG00000011405,ENSMUSG00000030660
+Smg1,DNA damage and repair,Genomic instability,Auxiliary Processes,mRNA Decay,Unknown,ENSG00000157106,ENSMUSG00000030655
+Ccp110,DNA damage and repair,Genomic instability,Cell Cycle and Mitotic Regulation,Centrosome Regulation,Upregulated,ENSG00000103540,ENSMUSG00000033904
+Palb2,DNA damage and repair,Genomic instability,Double-Strand Break Repair,Homologous Recombination (HR),Upregulated,ENSG00000083093,ENSMUSG00000044702
+Orc6,DNA damage and repair,Genomic instability,Replication Stress Response,Replication Origin Firing,Upregulated,ENSG00000091651,ENSMUSG00000031697
+Fanca,DNA damage and repair,Genomic instability,Interstrand Crosslink Repair,Fanconi Anemia Complex,Upregulated,ENSG00000187741,ENSMUSG00000032815
+Cep164,DNA damage and repair,Genomic instability,Cell Cycle and Mitotic Regulation,Centrosome Regulation,Upregulated,ENSG00000110274,ENSMUSG00000043987
+Atm,DNA damage and repair,Genomic instability,DNA Damage Signaling,Checkpoint Activation,Upregulated,ENSG00000149311,ENSMUSG00000034218
+Cdc25a,DNA damage and repair,Genomic instability,Cell Cycle Control,Checkpoint Phosphatase,Downregulated,ENSG00000164045,ENSMUSG00000032477
+Mlh1,DNA damage and repair,Genomic instability,Mismatch Repair,MMR Core Complex,Neutral,ENSG00000076242,ENSMUSG00000032498
+Rev3l,DNA damage and repair,Genomic instability,Translesion Synthesis,Heterochromatin Replication,Upregulated,ENSG00000009413,ENSMUSG00000019841
+Ascc3,DNA damage and repair,Genomic instability,Transcription-Replication Conflict,RNA Helicase Activity,Unknown,ENSG00000112249,ENSMUSG00000038774
+Usp43,DNA damage and repair,Genomic instability,Protein Regulation,Deubiquitination,Unknown,ENSG00000154914,ENSMUSG00000020905
+Pik3r5,DNA damage and repair,Genomic instability,DNA Damage Signaling,PI3K Signaling,Unknown,ENSG00000141506,ENSMUSG00000020901
+Eme1,DNA damage and repair,Genomic instability,Double-Strand Break Repair,Holliday Junction Processing,Upregulated,ENSG00000154920,ENSMUSG00000039055
+Recql5,DNA damage and repair,Genomic instability,Chromatin Remodeling,DNA Helicase Activity,Upregulated,ENSG00000108469,ENSMUSG00000020752
+Fancm,DNA damage and repair,Genomic instability,Interstrand Crosslink Repair,Fanconi Anemia Pathway,Upregulated,ENSG00000187790,ENSMUSG00000055884
+Parg,DNA damage and repair,Genomic instability,Base Excision Repair,Poly(ADP-ribose) Metabolism,Upregulated,ENSG00000227345,ENSMUSG00000021911
+Polr3d,DNA damage and repair,Genomic instability,Transcription,RNA Polymerase III,Unknown,ENSG00000168495,ENSMUSG00000000776
+Bora,DNA damage and repair,Genomic instability,Cell Cycle Control,Aurora A Activation,Upregulated,ENSG00000136122,ENSMUSG00000022070
+Prkdc,DNA damage and repair,Genomic instability,Double-Strand Break Repair,NHEJ Kinase Activity,Upregulated,ENSG00000253729,ENSMUSG00000022672
+Psmb8,DNA damage and repair,Genomic instability,Protein Regulation,Proteasome Function,Unknown,ENSG00000226201,ENSMUSG00000024338
+Rbbp8,DNA damage and repair,Genomic instability,Double-Strand Break Repair,DNA End Resection,Upregulated,ENSG00000101773,ENSMUSG00000041238
+Poli,DNA damage and repair,Genomic instability,Translesion Synthesis,Error-Prone DNA Polymerase,Upregulated,ENSG00000101751,ENSMUSG00000038425
+Mus81,DNA damage and repair,Genomic instability,Replication Stress Response,Stalled Fork Processing,Upregulated,ENSG00000172732,ENSMUSG00000024906
+Hjurp,DNA damage and repair,Genomic instability,Chromatin and Nuclear Organization,Centromere Assembly,Upregulated,ENSG00000123485,ENSMUSG00000044783
+Atf2,DNA damage and repair,Genomic instability,DNA Damage Signaling,Transcription Regulation,Upregulated,ENSG00000115966,ENSMUSG00000027104
+Chd1l,DNA damage and repair,Genomic instability,Chromatin Remodeling,ATP-Dependent Remodeling,Upregulated,ENSG00000131778,ENSMUSG00000028089
+Xpc,DNA damage and repair,Genomic instability,Nucleotide Excision Repair,Damage Recognition,Upregulated,ENSG00000154767,ENSMUSG00000030094
+Fto,DNA damage and repair,Genomic instability,Other,RNA Demethylation,Unknown,ENSG00000140718,ENSMUSG00000055932
+Terf2,DNA damage and repair,Genomic instability,Telomere Maintenance,T-Loop Formation,Upregulated,ENSG00000132604,ENSMUSG00000031921
+Npm1,DNA damage and repair,Genomic instability,Chromatin and Nuclear Organization,Histone Chaperone,Upregulated,ENSG00000181163,ENSMUSG00000057113
+Tubg2,DNA damage and repair,Genomic instability,Cell Cycle and Mitotic Regulation,Microtubule Nucleation,Unknown,ENSG00000037042,ENSMUSG00000045007
+Wnt3,DNA damage and repair,Genomic instability,Other,Cell Fate Determination,Unknown,ENSG00000277641,ENSMUSG00000000125
+MUTYH,DNA damage and repair,Genomic instability,Base Excision Repair,DNA Glycosylase,Upregulated,ENSG00000132781,ENSMUSG00000028687
+RECQL,DNA damage and repair,Genomic instability,Genome Maintenance,RecQ Helicase Activity,Upregulated,ENSG00000004700,ENSMUSG00000030243
+RECQL5,DNA damage and repair,Genomic instability,Genome Maintenance,RecQ Helicase Activity,Upregulated,ENSG00000108469,ENSMUSG00000020752
+ATRIP,DNA damage and repair,Genomic instability,DNA Damage Signaling,ATR Complex Formation,Upregulated,ENSG00000164053,ENSMUSG00000025646
+BLM,DNA damage and repair,Genomic instability,Genome Maintenance,RecQ Helicase Activity,Upregulated,ENSG00000197299,ENSMUSG00000030528
+MNAT1,DNA damage and repair,Genomic instability,Transcription,TFIIH Assembly,Unknown,ENSG00000020426,ENSMUSG00000021103
+GPS1,DNA damage and repair,Genomic instability,Protein Regulation,COP9 Signalosome,Unknown,ENSG00000169727,ENSMUSG00000025156
+COPS5,DNA damage and repair,Genomic instability,Protein Regulation,Deneddylation,Unknown,ENSG00000121022,ENSMUSG00000025917
+CDK7,DNA damage and repair,Genomic instability,Transcription,TFIIH Kinase,Unknown,ENSG00000134058,ENSMUSG00000069089
+NHEJ1,DNA damage and repair,Genomic instability,Double-Strand Break Repair,NHEJ Complex Assembly,Upregulated,ENSG00000187736,ENSMUSG00000026162
+CUL4A,DNA damage and repair,Genomic instability,Protein Regulation,E3 Ubiquitin Ligase,Upregulated,ENSG00000139842,ENSMUSG00000031446
+CDKN1A,DNA damage and repair,Genomic instability,Cell Cycle Control,p53 Target Gene,Upregulated,ENSG00000124762,ENSMUSG00000023067
+DCLRE1B,DNA damage and repair,Genomic instability,Telomere Maintenance,Overhang Processing,Unknown,ENSG00000118655,ENSMUSG00000027845
+DDB1,DNA damage and repair,Genomic instability,Nucleotide Excision Repair,UV-Damage Recognition,Upregulated,ENSG00000167986,ENSMUSG00000024740
+DDB2,DNA damage and repair,Genomic instability,Nucleotide Excision Repair,UV-Damage Recognition,Upregulated,ENSG00000134574,ENSMUSG00000002109
+ERCC1,DNA damage and repair,Genomic instability,Nucleotide Excision Repair,5' Incision,Upregulated,ENSG00000012061,ENSMUSG00000003549
+LIG1,DNA damage and repair,Genomic instability,Other,DNA Ligation,Upregulated,ENSG00000105486,ENSMUSG00000056394
+LIG4,DNA damage and repair,Genomic instability,Double-Strand Break Repair,NHEJ Ligation,Upregulated,ENSG00000174405,ENSMUSG00000049717
+LIG3,DNA damage and repair,Genomic instability,Base Excision Repair,DNA Ligation,Upregulated,ENSG00000005156,ENSMUSG00000020697
+MLH3,DNA damage and repair,Genomic instability,Mismatch Repair,MLH1-MLH3 Complex,Upregulated,ENSG00000119684,ENSMUSG00000021245
+MSH2,DNA damage and repair,Genomic instability,Mismatch Repair,MutSα/MutSβ Complex,Upregulated,ENSG00000095002,ENSMUSG00000024151
+MSH6,DNA damage and repair,Genomic instability,Mismatch Repair,MutSα Complex,Upregulated,ENSG00000116062,ENSMUSG00000005370
+POLB,DNA damage and repair,Genomic instability,Base Excision Repair,DNA Polymerase Beta,Upregulated,ENSG00000070501,ENSMUSG00000031536
+POLD1,DNA damage and repair,Genomic instability,DNA Replication/Repair,DNA Polymerase Delta (Catalytic),Upregulated,ENSG00000062822,ENSMUSG00000038644
+POLE,DNA damage and repair,Genomic instability,DNA Replication/Repair,DNA Polymerase Epsilon (Catalytic),Upregulated,ENSG00000177084,ENSMUSG00000007080
+POLE2,DNA damage and repair,Genomic instability,DNA Replication/Repair,DNA Polymerase Epsilon (Subunit),Upregulated,ENSG00000100479,ENSMUSG00000020974
+POLE3,DNA damage and repair,Genomic instability,DNA Replication/Repair,DNA Polymerase Epsilon (Subunit),Upregulated,ENSG00000148229,ENSMUSG00000028394
+POLE4,DNA damage and repair,Genomic instability,DNA Replication/Repair,DNA Polymerase Epsilon (Subunit),Upregulated,ENSG00000115350,ENSMUSG00000030042
+POLH,DNA damage and repair,Genomic instability,Translesion Synthesis,DNA Polymerase Eta,Upregulated,ENSG00000170734,ENSMUSG00000023953
+POLI,DNA damage and repair,Genomic instability,Translesion Synthesis,DNA Polymerase Iota,Upregulated,ENSG00000101751,ENSMUSG00000038425
+POLK,DNA damage and repair,Genomic instability,Translesion Synthesis,DNA Polymerase Kappa,Upregulated,ENSG00000122008,ENSMUSG00000021668
+POLL,DNA damage and repair,Genomic instability,Non-homologous End Joining,DNA Polymerase Lambda,Upregulated,ENSG00000166169,ENSMUSG00000025218
+POLM,DNA damage and repair,Genomic instability,Non-homologous End Joining,DNA Polymerase Mu,Upregulated,ENSG00000122678,ENSMUSG00000020474
+POLN,DNA damage and repair,Genomic instability,Translesion Synthesis,DNA Polymerase Nu,Upregulated,ENSG00000130997,ENSMUSG00000045102
+POLG,DNA damage and repair,Genomic instability,Mitochondrial DNA Repair,DNA Polymerase Gamma,Upregulated,ENSG00000140521,ENSMUSG00000039176
+POLQ,DNA damage and repair,Genomic instability,Other,DNA Polymerase Theta,Upregulated,ENSG00000051341,ENSMUSG00000034206
+REV3L,DNA damage and repair,Genomic instability,Translesion Synthesis,DNA Polymerase Zeta (Catalytic),Upregulated,ENSG00000009413,ENSMUSG00000019841
+RAD54B,DNA damage and repair,Genomic instability,Homologous Recombination,DNA Translocase,Upregulated,ENSG00000197275,ENSMUSG00000078773
+RAD50,DNA damage and repair,Genomic instability,Homologous Recombination,MRN Complex,Upregulated,ENSG00000113522,ENSMUSG00000020380
+RAD51,DNA damage and repair,Genomic instability,Homologous Recombination,Strand Exchange Protein,Upregulated,ENSG00000051180,ENSMUSG00000027323
+RAD51C,DNA damage and repair,Genomic instability,Homologous Recombination,RAD51 Paralog,Upregulated,ENSG00000108384,ENSMUSG00000007646
+REV1,DNA damage and repair,Genomic instability,Translesion Synthesis,Deoxycytidyl Transferase,Upregulated,ENSG00000135945,ENSMUSG00000026082
+XRCC1,DNA damage and repair,Genomic instability,Base Excision Repair,Scaffold Protein,Upregulated,ENSG00000073050,ENSMUSG00000051768
+XRCC2,DNA damage and repair,Genomic instability,Homologous Recombination,RAD51 Paralog,Upregulated,ENSG00000196584,ENSMUSG00000028933
+XRCC3,DNA damage and repair,Genomic instability,Homologous Recombination,RAD51 Paralog,Upregulated,ENSG00000126215,ENSMUSG00000021287
+XRCC4,DNA damage and repair,Genomic instability,Non-homologous End Joining,NHEJ Core Complex,Upregulated,ENSG00000152422,ENSMUSG00000021615
+XPA,DNA damage and repair,Genomic instability,Nucleotide Excision Repair,Damage Verification,Upregulated,ENSG00000136936,ENSMUSG00000028329
+TOPBP1,DNA damage and repair,Genomic instability,DNA Damage Signaling,ATR Activation,Upregulated,ENSG00000163781,ENSMUSG00000032555
+APEX2,DNA damage and repair,Genomic instability,Base Excision Repair,AP Endonuclease 2,Upregulated,ENSG00000169188,ENSMUSG00000025269
+APEX1,DNA damage and repair,Genomic instability,Base Excision Repair,AP Endonuclease 1,Upregulated,ENSG00000100823,ENSMUSG00000035960
+MPG,DNA damage and repair,Genomic instability,Base Excision Repair,DNA Glycosylase,Upregulated,ENSG00000103152,ENSMUSG00000020287
+DCLRE1A,DNA damage and repair,Genomic instability,Interstrand Crosslink Repair,SNM1A Endonuclease,Upregulated,ENSG00000198924,ENSMUSG00000025077
+PRKDC,DNA damage and repair,Genomic instability,Non-homologous End Joining,DNA-PKcs,Upregulated,ENSG00000253729,ENSMUSG00000022672
+POLR2E,DNA damage and repair,Genomic instability,Transcription-Coupled Repair,RNA Polymerase II Subunit E,Unknown,ENSG00000099817,ENSMUSG00000004667
+POLR2F,DNA damage and repair,Genomic instability,Transcription-Coupled Repair,RNA Polymerase II Subunit F,Unknown,ENSG00000100142,ENSMUSG00000033020
+POLR2H,DNA damage and repair,Genomic instability,Transcription-Coupled Repair,RNA Polymerase II Subunit H,Unknown,ENSG00000163882,ENSMUSG00000021018
+POLR2K,DNA damage and repair,Genomic instability,Transcription-Coupled Repair,RNA Polymerase II Subunit K,Unknown,ENSG00000147669,ENSMUSG00000045996
+POLR2L,DNA damage and repair,Genomic instability,Transcription-Coupled Repair,RNA Polymerase II Subunit L,Unknown,ENSG00000177700,ENSMUSG00000038489
+FANCL,DNA damage and repair,Genomic instability,Interstrand Crosslink Repair,Fanconi Anemia Complex,Upregulated,ENSG00000115392,ENSMUSG00000004018
+NEIL1,DNA damage and repair,Genomic instability,Base Excision Repair,DNA Glycosylase,Upregulated,ENSG00000140398,ENSMUSG00000032298
+NEIL2,DNA damage and repair,Genomic instability,Base Excision Repair,DNA Glycosylase,Upregulated,ENSG00000292286,ENSMUSG00000035121
+FANCA,DNA damage and repair,Genomic instability,Interstrand Crosslink Repair,Fanconi Anemia Complex,Upregulated,ENSG00000187741,ENSMUSG00000032815
+FANCB,DNA damage and repair,Genomic instability,Interstrand Crosslink Repair,Fanconi Anemia Complex,Upregulated,ENSG00000181544,ENSMUSG00000047757
+FANCC,DNA damage and repair,Genomic instability,Interstrand Crosslink Repair,Fanconi Anemia Complex,Upregulated,ENSG00000158169,ENSMUSG00000021461
+FANCD2,DNA damage and repair,Genomic instability,Interstrand Crosslink Repair,Fanconi Anemia Complex,Upregulated,ENSG00000144554,ENSMUSG00000034023
+FANCE,DNA damage and repair,Genomic instability,Interstrand Crosslink Repair,Fanconi Anemia Complex,Upregulated,ENSG00000112039,ENSMUSG00000007570
+FANCF,DNA damage and repair,Genomic instability,Interstrand Crosslink Repair,Fanconi Anemia Complex,Upregulated,ENSG00000183161,ENSMUSG00000092118
+FANCG,DNA damage and repair,Genomic instability,Interstrand Crosslink Repair,Fanconi Anemia Complex,Upregulated,ENSG00000221829,ENSMUSG00000028453
+FANCI,DNA damage and repair,Genomic instability,Interstrand Crosslink Repair,Fanconi Anemia Complex,Upregulated,ENSG00000140525,ENSMUSG00000039187
+FANCM,DNA damage and repair,Genomic instability,Interstrand Crosslink Repair,Fanconi Anemia Complex,Upregulated,ENSG00000187790,ENSMUSG00000055884
+TDG,DNA damage and repair,Genomic instability,Base Excision Repair,Thymine DNA Glycosylase,Upregulated,ENSG00000139372,ENSMUSG00000034674
+GTF2H1,DNA damage and repair,Genomic instability,Nucleotide Excision Repair,TFIIH Complex Subunit,Upregulated,ENSG00000288114,ENSMUSG00000006599
+GTF2H2,DNA damage and repair,Genomic instability,Nucleotide Excision Repair,TFIIH Complex Subunit,Upregulated,ENSG00000145736,ENSMUSG00000021639
+GTF2H3,DNA damage and repair,Genomic instability,Nucleotide Excision Repair,TFIIH Complex Subunit,Upregulated,ENSG00000111358,ENSMUSG00000029387
+GTF2H4,DNA damage and repair,Genomic instability,Nucleotide Excision Repair,TFIIH Complex Subunit,Upregulated,ENSG00000233149,ENSMUSG00000001524
+GTF2H5,DNA damage and repair,Genomic instability,Nucleotide Excision Repair,TFIIH Complex Subunit,Upregulated,ENSG00000272047,ENSMUSG00000034345
+MMS19,DNA damage and repair,Genomic instability,Nucleotide Excision Repair,TFIIH Assembly Factor,Upregulated,ENSG00000155229,ENSMUSG00000025159
+MBD4,DNA damage and repair,Genomic instability,Base Excision Repair,Thymine DNA Glycosylase,Upregulated,ENSG00000129071,ENSMUSG00000030322
+MGMT,DNA damage and repair,Genomic instability,Direct Reversal Repair,O6-Methylguanine DNA Methyltransferase,Upregulated,ENSG00000170430,ENSMUSG00000054612
+OGG1,DNA damage and repair,Genomic instability,Base Excision Repair,8-oxoguanine DNA Glycosylase,Upregulated,ENSG00000114026,ENSMUSG00000030271
+PMS1,DNA damage and repair,Genomic instability,Mismatch Repair,MutL Homolog,Upregulated,ENSG00000064933,ENSMUSG00000026098
+POLDIP2,DNA damage and repair,Genomic instability,DNA Replication/Repair,Polymerase Delta-Interacting Protein,Upregulated,ENSG00000004142,ENSMUSG00000001100
+POLDIP3,DNA damage and repair,Genomic instability,DNA Replication/Repair,Polymerase Delta-Interacting Protein,Upregulated,ENSG00000100227,ENSMUSG00000041815
+PCNA,DNA damage and repair,Genomic instability,DNA Replication/Repair,Sliding Clamp/Processivity Factor,Upregulated,ENSG00000132646,ENSMUSG00000027342
+DCLRE1C,DNA damage and repair,Genomic instability,Non-homologous End Joining,Artemis Endonuclease,Upregulated,ENSG00000152457,ENSMUSG00000026648
+RAD52,DNA damage and repair,Genomic instability,Homologous Recombination,Strand Annealing Protein,Upregulated,ENSG00000002016,ENSMUSG00000030166
+RAD54L,DNA damage and repair,Genomic instability,Homologous Recombination,Chromatin Remodeling ATPase,Upregulated,ENSG00000085999,ENSMUSG00000028702
+RECQL4,DNA damage and repair,Genomic instability,Genome Maintenance,RecQ Helicase,Upregulated,ENSG00000160957,ENSMUSG00000033762
+RFC1,DNA damage and repair,Genomic instability,DNA Replication/Repair,Replication Factor C Subunit 1,Upregulated,ENSG00000035928,ENSMUSG00000029191
+RFC2,DNA damage and repair,Genomic instability,DNA Replication/Repair,Replication Factor C Subunit 2,Upregulated,ENSG00000049541,ENSMUSG00000023104
+RFC3,DNA damage and repair,Genomic instability,DNA Replication/Repair,Replication Factor C Subunit 3,Upregulated,ENSG00000133119,ENSMUSG00000033970
+RFC4,DNA damage and repair,Genomic instability,DNA Replication/Repair,Replication Factor C Subunit 4,Upregulated,ENSG00000163918,ENSMUSG00000022881
+RFC5,DNA damage and repair,Genomic instability,DNA Replication/Repair,Replication Factor C Subunit 5,Upregulated,ENSG00000111445,ENSMUSG00000029363
+RPA3,DNA damage and repair,Genomic instability,DNA Replication/Repair,Replication Protein A Subunit 3,Upregulated,ENSG00000106399,ENSMUSG00000012483
+RPA2,DNA damage and repair,Genomic instability,DNA Replication/Repair,Replication Protein A Subunit 2,Upregulated,ENSG00000117748,ENSMUSG00000028884
+RPA1,DNA damage and repair,Genomic instability,DNA Replication/Repair,Replication Protein A Subunit 1,Upregulated,ENSG00000132383,ENSMUSG00000000751
+TDP1,DNA damage and repair,Genomic instability,Single-Strand Break Repair,Tyrosyl-DNA Phosphodiesterase,Upregulated,ENSG00000042088,ENSMUSG00000021177
+RAD23A,DNA damage and repair,Genomic instability,Nucleotide Excision Repair,Damage Recognition Protein,Upregulated,ENSG00000179262,ENSMUSG00000003813
+RAD23B,DNA damage and repair,Genomic instability,Nucleotide Excision Repair,Damage Recognition Protein,Upregulated,ENSG00000119318,ENSMUSG00000028426
+UNG,DNA damage and repair,Genomic instability,Base Excision Repair,Uracil DNA Glycosylase,Upregulated,ENSG00000076248,ENSMUSG00000029591
+XRCC5,DNA damage and repair,Genomic instability,Non-homologous End Joining,Ku80,Upregulated,ENSG00000079246,ENSMUSG00000026187
+XRCC6,DNA damage and repair,Genomic instability,Non-homologous End Joining,Ku70,Upregulated,ENSG00000196419,ENSMUSG00000022471
+ALKBH2,DNA damage and repair,Genomic instability,Direct Reversal Repair,AlkB Homolog 2,Upregulated,ENSG00000189046,ENSMUSG00000044339
+ALKBH3,DNA damage and repair,Genomic instability,Direct Reversal Repair,AlkB Homolog 3,Upregulated,ENSG00000166199,ENSMUSG00000040174
+APTX,DNA damage and repair,Genomic instability,Single-Strand Break Repair,Aprataxin,Upregulated,ENSG00000137074,ENSMUSG00000028411
+PNKP,DNA damage and repair,Genomic instability,Single-Strand Break Repair,Polynucleotide Kinase Phosphatase,Upregulated,ENSG00000039650,ENSMUSG00000002963
+BRCA1,DNA damage and repair,Genomic instability,Homologous Recombination,DSB Repair Scaffold,Upregulated,ENSG00000012048,ENSMUSG00000017146
+BRCA2,DNA damage and repair,Genomic instability,Homologous Recombination,Strand Exchange Mediator,Upregulated,ENSG00000139618,ENSMUSG00000041147
+RAD9A,DNA damage and repair,Genomic instability,DNA Damage Signaling,Checkpoint Clamp Component,Upregulated,ENSG00000172613,ENSMUSG00000024824
+RAD1,DNA damage and repair,Genomic instability,DNA Damage Signaling,Checkpoint Clamp Component,Upregulated,ENSG00000113456,ENSMUSG00000022248
+RAD17,DNA damage and repair,Genomic instability,DNA Damage Signaling,Checkpoint Clamp Loader,Upregulated,ENSG00000152942,ENSMUSG00000021635
+HUS1,DNA damage and repair,Genomic instability,DNA Damage Signaling,Checkpoint Clamp Component,Upregulated,ENSG00000136273,ENSMUSG00000020413
+MUS81,DNA damage and repair,Genomic instability,Replication Stress Response,Structure-Specific Endonuclease,Upregulated,ENSG00000172732,ENSMUSG00000024906
+CCNH,DNA damage and repair,Genomic instability,Transcription-Coupled Repair,TFIIH Cyclin Subunit,Upregulated,ENSG00000134480,ENSMUSG00000021548
+NEIL3,DNA damage and repair,Genomic instability,Base Excision Repair,Nei Endonuclease VIII-like 3,Upregulated,ENSG00000109674,ENSMUSG00000039396
+EME1,DNA damage and repair,Genomic instability,Replication Stress Response,Structure-Specific Endonuclease Partner,Upregulated,ENSG00000154920,ENSMUSG00000039055
+EXO1,DNA damage and repair,Genomic instability,Mismatch Repair,5'-3' Exonuclease,Upregulated,ENSG00000174371,ENSMUSG00000039748
+FEN1,DNA damage and repair,Genomic instability,Base Excision Repair,Flap Endonuclease 1,Upregulated,ENSG00000168496,ENSMUSG00000024742
+MDC1,DNA damage and repair,Genomic instability,DNA Damage Signaling,DSB Response Mediator,Upregulated,ENSG00000225589,ENSMUSG00000061607
+PMS2,DNA damage and repair,Genomic instability,Mismatch Repair,MutL Homolog,Upregulated,ENSG00000122512,ENSMUSG00000075569
+MSH3,DNA damage and repair,Genomic instability,Mismatch Repair,MutSβ Complex,Upregulated,ENSG00000113318,ENSMUSG00000014850
+MSH4,DNA damage and repair,Genomic instability,Homologous Recombination,Meiotic Recombination Factor,Upregulated,ENSG00000057468,ENSMUSG00000005493
+MSH5,DNA damage and repair,Genomic instability,Homologous Recombination,Meiotic Recombination Factor,Upregulated,ENSG00000235222,ENSMUSG00000007035
+PARP1,DNA damage and repair,Genomic instability,Single-Strand Break Repair,Poly(ADP-ribose) Polymerase 1,Upregulated,ENSG00000143799,ENSMUSG00000026496
+PARP2,DNA damage and repair,Genomic instability,Single-Strand Break Repair,Poly(ADP-ribose) Polymerase 2,Upregulated,ENSG00000129484,ENSMUSG00000036023
+RAD18,DNA damage and repair,Genomic instability,Other,Monoubiquitination E3 Ligase,Upregulated,ENSG00000070950,ENSMUSG00000030254
+EME2,DNA damage and repair,Genomic instability,Replication Stress Response,Structure-Specific Endonuclease Partner,Upregulated,ENSG00000197774,ENSMUSG00000073436
+RBBP8,DNA damage and repair,Genomic instability,Double-Strand Break Repair,End Resection Factor (CtIP),Upregulated,ENSG00000101773,ENSMUSG00000041238
+RRM2B,DNA damage and repair,Genomic instability,Other,Stress-Induced Ribonucleotide Reductase,Upregulated,ENSG00000048392,ENSMUSG00000022292
+ATM,DNA damage and repair,Genomic instability,DNA Damage Signaling,Checkpoint Kinase,Upregulated,ENSG00000149311,ENSMUSG00000034218
+ATR,DNA damage and repair,Genomic instability,DNA Damage Signaling,Checkpoint Kinase,Upregulated,ENSG00000175054,ENSMUSG00000032409
+SMUG1,DNA damage and repair,Genomic instability,Base Excision Repair,Single-strand-selective Monofunctional Uracil DNA Glycosylase,Upregulated,ENSG00000123415,ENSMUSG00000036061
+TREX1,DNA damage and repair,Genomic instability,Exonuclease,3'-5' DNA Exonuclease,Upregulated,ENSG00000213689,ENSMUSG00000049734
+TREX2,DNA damage and repair,Genomic instability,Exonuclease,3'-5' DNA Exonuclease,Upregulated,ENSG00000183479,ENSMUSG00000031372
+XPC,DNA damage and repair,Genomic instability,Nucleotide Excision Repair,Damage Recognition Protein,Upregulated,ENSG00000154767,ENSMUSG00000030094
