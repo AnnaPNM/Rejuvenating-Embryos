@@ -1,6 +1,6 @@
 # Rejuvenating-Embryos
 
-## Reprogremming
+## Reprogramming
 
 Raw count matrices were generated using the nf-core pipelines rnaseq and scrnaseq with default parameters. In the final count matrices, rows are gene identifiers (ENSEMBL IDs) and columns are sample names. Metadata are manually curated and must include the following columns: days_of_reprogramming – numeric values for each sample, except iPSC samples which retain the string "iPSC"; and cell_type.
 
