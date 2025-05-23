@@ -1,0 +1,291 @@
+Hallmark,Subprocess,Spearman,p-value,Experiment,Specias
+Autophagy,Autophagy core,-0.183909,2.580566e-02,Reprogramming-1,Human
+Autophagy,Autophagy downregulators,-0.296918,3.922365e-02,Reprogramming-1,Human
+Autophagy,Autophagy upregulators,-0.055276,3.782622e-02,Reprogramming-1,Human
+Autophagy,Docking and fusion,-0.301399,2.791838e-03,Reprogramming-1,Human
+Autophagy,Lysosome,-0.188068,2.327778e-02,Reprogramming-1,Human
+Autophagy,Lysosome-related genes,-0.098581,1.012436e-01,Reprogramming-1,Human
+Autophagy,Mitophagy,-0.226071,3.782622e-02,Reprogramming-1,Human
+Autophagy,Other,-0.214563,7.524629e-03,Reprogramming-1,Human
+Autophagy,mTOR and upstream pathways,-0.091740,7.051987e-02,Reprogramming-1,Human
+Genomic instability,Auxiliary Processes,-0.335499,1.354389e-03,Reprogramming-1,Human
+Genomic instability,Base Excision Repair,0.032360,9.665532e-02,Reprogramming-1,Human
+Genomic instability,Cell Cycle Control,-0.098235,2.287635e-09,Reprogramming-1,Human
+Genomic instability,Cell Cycle and Mitotic Regulation,-0.116230,1.512044e-03,Reprogramming-1,Human
+Genomic instability,Chromatin Remodeling,NaN,NaN,Reprogramming-1,Human
+Genomic instability,Chromatin and Nuclear Organization,0.111515,3.679171e-01,Reprogramming-1,Human
+Genomic instability,DNA Damage Signaling,-0.225839,2.114015e-02,Reprogramming-1,Human
+Genomic instability,DNA Replication/Repair,0.131213,6.930602e-02,Reprogramming-1,Human
+Genomic instability,Direct Reversal Repair,-0.259399,2.562836e-02,Reprogramming-1,Human
+Genomic instability,Double-Strand Break Repair,0.008170,1.874421e-01,Reprogramming-1,Human
+Genomic instability,Exonuclease,NaN,NaN,Reprogramming-1,Human
+Genomic instability,Genome Maintenance,0.299565,2.741739e-04,Reprogramming-1,Human
+Genomic instability,Homologous Recombination,0.051453,1.675905e-02,Reprogramming-1,Human
+Genomic instability,Interstrand Crosslink Repair,0.170254,1.469858e-01,Reprogramming-1,Human
+Genomic instability,Mismatch Repair,-0.088083,6.791899e-02,Reprogramming-1,Human
+Genomic instability,Mitochondrial DNA Repair,NaN,NaN,Reprogramming-1,Human
+Genomic instability,Non-homologous End Joining,0.036387,1.561122e-02,Reprogramming-1,Human
+Genomic instability,Nucleotide Excision Repair,-0.240273,3.135446e-02,Reprogramming-1,Human
+Genomic instability,Other,-0.168570,1.140770e-01,Reprogramming-1,Human
+Genomic instability,Protein Regulation,0.165927,1.340197e-03,Reprogramming-1,Human
+Genomic instability,Replication Stress Response,0.033889,1.216435e-01,Reprogramming-1,Human
+Genomic instability,Single-Strand Break Repair,0.181995,1.171664e-01,Reprogramming-1,Human
+Genomic instability,Telomere Maintenance,NaN,NaN,Reprogramming-1,Human
+Genomic instability,Transcription,-0.250951,3.103296e-02,Reprogramming-1,Human
+Genomic instability,Transcription-Coupled Repair,-0.276423,1.110862e-01,Reprogramming-1,Human
+Genomic instability,Transcription-Replication Conflict,0.201311,7.445902e-03,Reprogramming-1,Human
+Genomic instability,Translesion Synthesis,-0.381029,4.346914e-03,Reprogramming-1,Human
+Proteostasis,Autophagy-Lysosome Pathway,-0.182456,2.660295e-02,Reprogramming-1,Human
+Proteostasis,Cytonuclear proteostasis,-0.100287,5.521190e-02,Reprogramming-1,Human
+Proteostasis,ER proteostasis,-0.325655,2.178792e-03,Reprogramming-1,Human
+Proteostasis,Extracellular proteostasis,-0.217040,1.884199e-03,Reprogramming-1,Human
+Proteostasis,Mitochondrial proteostasis,-0.102825,2.397309e-02,Reprogramming-1,Human
+Proteostasis,Nuclear proteostasis,0.060052,9.653676e-02,Reprogramming-1,Human
+Proteostasis,PN regulation,-0.129354,1.171051e-01,Reprogramming-1,Human
+Proteostasis,Translation,-0.052187,6.919733e-02,Reprogramming-1,Human
+Proteostasis,Ubiquitin Proteasome System,-0.097110,4.317228e-02,Reprogramming-1,Human
+Senescence,Cell cycle arrest,-0.309337,6.927867e-04,Reprogramming-1,Human
+Senescence,Cell surface markers,NaN,NaN,Reprogramming-1,Human
+Senescence,Changes in morphology,0.165631,6.721899e-02,Reprogramming-1,Human
+Senescence,DNA damage response,0.000000,2.239925e-01,Reprogramming-1,Human
+Senescence,Increased lysosomal content,-0.469102,2.488684e-05,Reprogramming-1,Human
+Senescence,Metabolic adaptations,-0.101814,1.080377e-01,Reprogramming-1,Human
+Senescence,Nuclear changes,-0.075503,5.484399e-02,Reprogramming-1,Human
+Senescence,Other,-0.221310,9.145726e-03,Reprogramming-1,Human
+Senescence,SASP,-0.167885,1.902105e-02,Reprogramming-1,Human
+Senescence,SASP_Intracellular,-0.097281,3.958360e-02,Reprogramming-1,Human
+Senescence,SASP_Secreted,-0.321996,2.767896e-03,Reprogramming-1,Human
+Senescence,SASP_Transmembrane,-0.464210,3.099681e-05,Reprogramming-1,Human
+Senescence,Upregulation of anti-apoptotic pathways,-0.121365,3.053587e-01,Reprogramming-1,Human
+Autophagy,Autophagy core,-0.007155,3.108393e-02,Reprogramming-2,Human
+Autophagy,Autophagy downregulators,-0.152422,9.892430e-03,Reprogramming-2,Human
+Autophagy,Autophagy upregulators,-0.006983,1.322020e-02,Reprogramming-2,Human
+Autophagy,Docking and fusion,-0.058466,8.266735e-02,Reprogramming-2,Human
+Autophagy,Lysosome,-0.046023,3.100118e-02,Reprogramming-2,Human
+Autophagy,Lysosome-related genes,-0.100123,7.426724e-02,Reprogramming-2,Human
+Autophagy,Mitophagy,-0.010097,6.855180e-02,Reprogramming-2,Human
+Autophagy,Other,-0.051720,2.919262e-02,Reprogramming-2,Human
+Autophagy,mTOR and upstream pathways,0.012319,5.675264e-02,Reprogramming-2,Human
+Genomic instability,Auxiliary Processes,0.106182,3.071805e-03,Reprogramming-2,Human
+Genomic instability,Base Excision Repair,0.262752,3.222964e-04,Reprogramming-2,Human
+Genomic instability,Cell Cycle Control,0.350268,2.861420e-11,Reprogramming-2,Human
+Genomic instability,Cell Cycle and Mitotic Regulation,0.070059,1.707378e-05,Reprogramming-2,Human
+Genomic instability,Chromatin Remodeling,NaN,NaN,Reprogramming-2,Human
+Genomic instability,Chromatin and Nuclear Organization,0.284905,2.687245e-03,Reprogramming-2,Human
+Genomic instability,DNA Damage Signaling,0.006398,2.316391e-01,Reprogramming-2,Human
+Genomic instability,DNA Replication/Repair,0.271082,2.517760e-04,Reprogramming-2,Human
+Genomic instability,Direct Reversal Repair,-0.035757,6.224480e-01,Reprogramming-2,Human
+Genomic instability,Double-Strand Break Repair,0.274543,1.163701e-04,Reprogramming-2,Human
+Genomic instability,Exonuclease,NaN,NaN,Reprogramming-2,Human
+Genomic instability,Genome Maintenance,0.216137,7.859169e-03,Reprogramming-2,Human
+Genomic instability,Homologous Recombination,0.274543,2.195523e-05,Reprogramming-2,Human
+Genomic instability,Interstrand Crosslink Repair,0.273848,1.212911e-04,Reprogramming-2,Human
+Genomic instability,Mismatch Repair,0.220150,3.700710e-02,Reprogramming-2,Human
+Genomic instability,Mitochondrial DNA Repair,NaN,NaN,Reprogramming-2,Human
+Genomic instability,Non-homologous End Joining,0.257660,3.085154e-04,Reprogramming-2,Human
+Genomic instability,Nucleotide Excision Repair,-0.084959,7.236787e-02,Reprogramming-2,Human
+Genomic instability,Other,0.188702,8.760711e-03,Reprogramming-2,Human
+Genomic instability,Protein Regulation,0.054866,2.508619e-02,Reprogramming-2,Human
+Genomic instability,Replication Stress Response,0.260660,3.349567e-04,Reprogramming-2,Human
+Genomic instability,Single-Strand Break Repair,0.325857,3.983628e-06,Reprogramming-2,Human
+Genomic instability,Telomere Maintenance,NaN,NaN,Reprogramming-2,Human
+Genomic instability,Transcription,0.130194,7.187539e-02,Reprogramming-2,Human
+Genomic instability,Transcription-Coupled Repair,-0.028374,5.467015e-02,Reprogramming-2,Human
+Genomic instability,Transcription-Replication Conflict,0.331544,2.632865e-06,Reprogramming-2,Human
+Genomic instability,Translesion Synthesis,-0.193902,1.073670e-05,Reprogramming-2,Human
+Proteostasis,Autophagy-Lysosome Pathway,-0.020776,3.795804e-02,Reprogramming-2,Human
+Proteostasis,Cytonuclear proteostasis,0.078057,3.857879e-02,Reprogramming-2,Human
+Proteostasis,ER proteostasis,-0.029335,2.896342e-02,Reprogramming-2,Human
+Proteostasis,Extracellular proteostasis,0.028987,3.447770e-02,Reprogramming-2,Human
+Proteostasis,Mitochondrial proteostasis,0.076071,8.327858e-02,Reprogramming-2,Human
+Proteostasis,Nuclear proteostasis,0.163169,2.051195e-02,Reprogramming-2,Human
+Proteostasis,PN regulation,-0.043272,7.691620e-02,Reprogramming-2,Human
+Proteostasis,Translation,0.098902,8.644395e-02,Reprogramming-2,Human
+Proteostasis,Ubiquitin Proteasome System,0.045298,5.270952e-02,Reprogramming-2,Human
+Senescence,Cell cycle arrest,0.002816,2.219875e-05,Reprogramming-2,Human
+Senescence,Cell surface markers,NaN,NaN,Reprogramming-2,Human
+Senescence,Changes in morphology,0.111118,1.249436e-01,Reprogramming-2,Human
+Senescence,DNA damage response,0.064652,1.161171e-01,Reprogramming-2,Human
+Senescence,Increased lysosomal content,-0.122961,8.929585e-02,Reprogramming-2,Human
+Senescence,Metabolic adaptations,0.217913,3.743079e-03,Reprogramming-2,Human
+Senescence,Nuclear changes,0.107003,1.325648e-03,Reprogramming-2,Human
+Senescence,Other,-0.097219,2.753401e-03,Reprogramming-2,Human
+Senescence,SASP,0.015448,5.602108e-03,Reprogramming-2,Human
+Senescence,SASP_Intracellular,0.067120,2.163580e-03,Reprogramming-2,Human
+Senescence,SASP_Secreted,-0.101283,1.667439e-02,Reprogramming-2,Human
+Senescence,SASP_Transmembrane,-0.198908,5.063186e-04,Reprogramming-2,Human
+Senescence,Upregulation of anti-apoptotic pathways,0.008844,1.292400e-03,Reprogramming-2,Human
+Autophagy,Autophagy core,-0.058172,0.006122,Reprogramming-3,Mouse
+Autophagy,Autophagy downregulators,-0.144711,0.000014,Reprogramming-3,Mouse
+Autophagy,Autophagy upregulators,-0.019784,0.009606,Reprogramming-3,Mouse
+Autophagy,Docking and fusion,-0.076714,0.000581,Reprogramming-3,Mouse
+Autophagy,Lysosome,-0.074552,0.001575,Reprogramming-3,Mouse
+Autophagy,Lysosome-related genes,-0.036010,0.012747,Reprogramming-3,Mouse
+Autophagy,Mitophagy,-0.017122,0.009133,Reprogramming-3,Mouse
+Autophagy,Other,-0.049587,0.002813,Reprogramming-3,Mouse
+Autophagy,mTOR and upstream pathways,-0.033584,0.004795,Reprogramming-3,Mouse
+Genomic instability,Auxiliary Processes,0.042060,0.045249,Reprogramming-3,Mouse
+Genomic instability,Base Excision Repair,0.038295,0.027638,Reprogramming-3,Mouse
+Genomic instability,Cell Cycle Control,0.018887,0.586881,Reprogramming-3,Mouse
+Genomic instability,Cell Cycle and Mitotic Regulation,0.070802,0.017722,Reprogramming-3,Mouse
+Genomic instability,Chromatin Remodeling,NaN,NaN,Reprogramming-3,Mouse
+Genomic instability,Chromatin and Nuclear Organization,0.065876,0.264757,Reprogramming-3,Mouse
+Genomic instability,DNA Damage Signaling,-0.011653,0.077584,Reprogramming-3,Mouse
+Genomic instability,DNA Replication/Repair,0.048231,0.066959,Reprogramming-3,Mouse
+Genomic instability,Direct Reversal Repair,-0.136016,0.000031,Reprogramming-3,Mouse
+Genomic instability,Double-Strand Break Repair,0.060641,0.000097,Reprogramming-3,Mouse
+Genomic instability,Exonuclease,NaN,NaN,Reprogramming-3,Mouse
+Genomic instability,Genome Maintenance,0.059502,0.022190,Reprogramming-3,Mouse
+Genomic instability,Homologous Recombination,0.045181,0.141484,Reprogramming-3,Mouse
+Genomic instability,Interstrand Crosslink Repair,0.050443,0.029079,Reprogramming-3,Mouse
+Genomic instability,Mismatch Repair,0.127426,0.002575,Reprogramming-3,Mouse
+Genomic instability,Mitochondrial DNA Repair,NaN,NaN,Reprogramming-3,Mouse
+Genomic instability,Non-homologous End Joining,0.050667,0.144723,Reprogramming-3,Mouse
+Genomic instability,Nucleotide Excision Repair,0.013527,0.003699,Reprogramming-3,Mouse
+Genomic instability,Other,-0.051078,0.005437,Reprogramming-3,Mouse
+Genomic instability,Protein Regulation,-0.029127,0.114587,Reprogramming-3,Mouse
+Genomic instability,Replication Stress Response,0.018113,0.090554,Reprogramming-3,Mouse
+Genomic instability,Single-Strand Break Repair,0.013701,0.031602,Reprogramming-3,Mouse
+Genomic instability,Telomere Maintenance,NaN,NaN,Reprogramming-3,Mouse
+Genomic instability,Transcription,-0.052554,0.114051,Reprogramming-3,Mouse
+Genomic instability,Transcription-Coupled Repair,0.059549,0.000749,Reprogramming-3,Mouse
+Genomic instability,Transcription-Replication Conflict,0.037856,0.003090,Reprogramming-3,Mouse
+Genomic instability,Translesion Synthesis,-0.018662,0.544013,Reprogramming-3,Mouse
+Proteostasis,Autophagy-Lysosome Pathway,-0.053678,0.003123,Reprogramming-3,Mouse
+Proteostasis,Cytonuclear proteostasis,-0.005724,0.011207,Reprogramming-3,Mouse
+Proteostasis,ER proteostasis,-0.122557,0.000217,Reprogramming-3,Mouse
+Proteostasis,Extracellular proteostasis,-0.129070,0.000008,Reprogramming-3,Mouse
+Proteostasis,Mitochondrial proteostasis,0.015769,0.003510,Reprogramming-3,Mouse
+Proteostasis,Nuclear proteostasis,0.035074,0.070721,Reprogramming-3,Mouse
+Proteostasis,PN regulation,-0.067489,0.000434,Reprogramming-3,Mouse
+Proteostasis,Translation,0.017201,0.086014,Reprogramming-3,Mouse
+Proteostasis,Ubiquitin Proteasome System,-0.029143,0.016584,Reprogramming-3,Mouse
+Senescence,Cell cycle arrest,0.012916,0.013669,Reprogramming-3,Mouse
+Senescence,Cell surface markers,NaN,NaN,Reprogramming-3,Mouse
+Senescence,Changes in morphology,-0.102331,0.052015,Reprogramming-3,Mouse
+Senescence,DNA damage response,-0.003819,0.001001,Reprogramming-3,Mouse
+Senescence,Increased lysosomal content,-0.022398,0.000029,Reprogramming-3,Mouse
+Senescence,Metabolic adaptations,0.017542,0.000001,Reprogramming-3,Mouse
+Senescence,Nuclear changes,0.062086,0.001102,Reprogramming-3,Mouse
+Senescence,Other,-0.069465,0.000085,Reprogramming-3,Mouse
+Senescence,SASP,-0.086215,0.000038,Reprogramming-3,Mouse
+Senescence,SASP_Intracellular,-0.078649,0.000017,Reprogramming-3,Mouse
+Senescence,SASP_Secreted,-0.119933,0.000005,Reprogramming-3,Mouse
+Senescence,SASP_Transmembrane,-0.089721,0.000007,Reprogramming-3,Mouse
+Senescence,Upregulation of anti-apoptotic pathways,-0.130483,0.000163,Reprogramming-3,Mouse
+Autophagy,Autophagy core,-0.058172,0.006122,Reprogramming-3,Mouse
+Autophagy,Autophagy downregulators,-0.144711,0.000014,Reprogramming-3,Mouse
+Autophagy,Autophagy upregulators,-0.019784,0.009606,Reprogramming-3,Mouse
+Autophagy,Docking and fusion,-0.076714,0.000581,Reprogramming-3,Mouse
+Autophagy,Lysosome,-0.074552,0.001575,Reprogramming-3,Mouse
+Autophagy,Lysosome-related genes,-0.036010,0.012747,Reprogramming-3,Mouse
+Autophagy,Mitophagy,-0.017122,0.009133,Reprogramming-3,Mouse
+Autophagy,Other,-0.049587,0.002813,Reprogramming-3,Mouse
+Autophagy,mTOR and upstream pathways,-0.033584,0.004795,Reprogramming-3,Mouse
+Genomic instability,Auxiliary Processes,0.042060,0.045249,Reprogramming-3,Mouse
+Genomic instability,Base Excision Repair,0.038295,0.027638,Reprogramming-3,Mouse
+Genomic instability,Cell Cycle Control,0.018887,0.586881,Reprogramming-3,Mouse
+Genomic instability,Cell Cycle and Mitotic Regulation,0.070802,0.017722,Reprogramming-3,Mouse
+Genomic instability,Chromatin Remodeling,NaN,NaN,Reprogramming-3,Mouse
+Genomic instability,Chromatin and Nuclear Organization,0.065876,0.264757,Reprogramming-3,Mouse
+Genomic instability,DNA Damage Signaling,-0.011653,0.077584,Reprogramming-3,Mouse
+Genomic instability,DNA Replication/Repair,0.048231,0.066959,Reprogramming-3,Mouse
+Genomic instability,Direct Reversal Repair,-0.136016,0.000031,Reprogramming-3,Mouse
+Genomic instability,Double-Strand Break Repair,0.060641,0.000097,Reprogramming-3,Mouse
+Genomic instability,Exonuclease,NaN,NaN,Reprogramming-3,Mouse
+Genomic instability,Genome Maintenance,0.059502,0.022190,Reprogramming-3,Mouse
+Genomic instability,Homologous Recombination,0.045181,0.141484,Reprogramming-3,Mouse
+Genomic instability,Interstrand Crosslink Repair,0.050443,0.029079,Reprogramming-3,Mouse
+Genomic instability,Mismatch Repair,0.127426,0.002575,Reprogramming-3,Mouse
+Genomic instability,Mitochondrial DNA Repair,NaN,NaN,Reprogramming-3,Mouse
+Genomic instability,Non-homologous End Joining,0.050667,0.144723,Reprogramming-3,Mouse
+Genomic instability,Nucleotide Excision Repair,0.013527,0.003699,Reprogramming-3,Mouse
+Genomic instability,Other,-0.051078,0.005437,Reprogramming-3,Mouse
+Genomic instability,Protein Regulation,-0.029127,0.114587,Reprogramming-3,Mouse
+Genomic instability,Replication Stress Response,0.018113,0.090554,Reprogramming-3,Mouse
+Genomic instability,Single-Strand Break Repair,0.013701,0.031602,Reprogramming-3,Mouse
+Genomic instability,Telomere Maintenance,NaN,NaN,Reprogramming-3,Mouse
+Genomic instability,Transcription,-0.052554,0.114051,Reprogramming-3,Mouse
+Genomic instability,Transcription-Coupled Repair,0.059549,0.000749,Reprogramming-3,Mouse
+Genomic instability,Transcription-Replication Conflict,0.037856,0.003090,Reprogramming-3,Mouse
+Genomic instability,Translesion Synthesis,-0.018662,0.544013,Reprogramming-3,Mouse
+Proteostasis,Autophagy-Lysosome Pathway,-0.053678,0.003123,Reprogramming-3,Mouse
+Proteostasis,Cytonuclear proteostasis,-0.005724,0.011207,Reprogramming-3,Mouse
+Proteostasis,ER proteostasis,-0.122557,0.000217,Reprogramming-3,Mouse
+Proteostasis,Extracellular proteostasis,-0.129070,0.000008,Reprogramming-3,Mouse
+Proteostasis,Mitochondrial proteostasis,0.015769,0.003510,Reprogramming-3,Mouse
+Proteostasis,Nuclear proteostasis,0.035074,0.070721,Reprogramming-3,Mouse
+Proteostasis,PN regulation,-0.067489,0.000434,Reprogramming-3,Mouse
+Proteostasis,Translation,0.017201,0.086014,Reprogramming-3,Mouse
+Proteostasis,Ubiquitin Proteasome System,-0.029143,0.016584,Reprogramming-3,Mouse
+Senescence,Cell cycle arrest,0.012916,0.013669,Reprogramming-3,Mouse
+Senescence,Cell surface markers,NaN,NaN,Reprogramming-3,Mouse
+Senescence,Changes in morphology,-0.102331,0.052015,Reprogramming-3,Mouse
+Senescence,DNA damage response,-0.003819,0.001001,Reprogramming-3,Mouse
+Senescence,Increased lysosomal content,-0.022398,0.000029,Reprogramming-3,Mouse
+Senescence,Metabolic adaptations,0.017542,0.000001,Reprogramming-3,Mouse
+Senescence,Nuclear changes,0.062086,0.001102,Reprogramming-3,Mouse
+Senescence,Other,-0.069465,0.000085,Reprogramming-3,Mouse
+Senescence,SASP,-0.086215,0.000038,Reprogramming-3,Mouse
+Senescence,SASP_Intracellular,-0.078649,0.000017,Reprogramming-3,Mouse
+Senescence,SASP_Secreted,-0.119933,0.000005,Reprogramming-3,Mouse
+Senescence,SASP_Transmembrane,-0.089721,0.000007,Reprogramming-3,Mouse
+Senescence,Upregulation of anti-apoptotic pathways,-0.130483,0.000163,Reprogramming-3,Mouse
+Autophagy,Autophagy core,-0.239715,6.145246e-04,Reprogramming-4,Mouse
+Autophagy,Autophagy downregulators,-0.440412,3.120843e-03,Reprogramming-4,Mouse
+Autophagy,Autophagy upregulators,-0.066757,8.103849e-04,Reprogramming-4,Mouse
+Autophagy,Docking and fusion,-0.386011,4.807657e-03,Reprogramming-4,Mouse
+Autophagy,Lysosome,-0.428333,5.961954e-04,Reprogramming-4,Mouse
+Autophagy,Lysosome-related genes,-0.328692,2.614426e-03,Reprogramming-4,Mouse
+Autophagy,Mitophagy,-0.089192,4.502712e-03,Reprogramming-4,Mouse
+Autophagy,Other,-0.252445,1.594754e-03,Reprogramming-4,Mouse
+Autophagy,mTOR and upstream pathways,-0.115672,9.946603e-04,Reprogramming-4,Mouse
+Genomic instability,Auxiliary Processes,0.408183,6.582903e-03,Reprogramming-4,Mouse
+Genomic instability,Base Excision Repair,0.391341,1.602016e-03,Reprogramming-4,Mouse
+Genomic instability,Cell Cycle Control,0.688548,3.333627e-07,Reprogramming-4,Mouse
+Genomic instability,Cell Cycle and Mitotic Regulation,0.730616,2.670046e-08,Reprogramming-4,Mouse
+Genomic instability,Chromatin Remodeling,NaN,NaN,Reprogramming-4,Mouse
+Genomic instability,Chromatin and Nuclear Organization,0.341518,2.838398e-02,Reprogramming-4,Mouse
+Genomic instability,DNA Damage Signaling,0.593009,2.784670e-05,Reprogramming-4,Mouse
+Genomic instability,DNA Replication/Repair,0.819670,1.954795e-11,Reprogramming-4,Mouse
+Genomic instability,Direct Reversal Repair,0.358248,2.288025e-05,Reprogramming-4,Mouse
+Genomic instability,Double-Strand Break Repair,0.804884,7.763675e-11,Reprogramming-4,Mouse
+Genomic instability,Exonuclease,NaN,NaN,Reprogramming-4,Mouse
+Genomic instability,Genome Maintenance,0.647030,8.054712e-04,Reprogramming-4,Mouse
+Genomic instability,Homologous Recombination,0.781884,1.890382e-09,Reprogramming-4,Mouse
+Genomic instability,Interstrand Crosslink Repair,0.768597,1.763620e-09,Reprogramming-4,Mouse
+Genomic instability,Mismatch Repair,0.834183,9.429050e-12,Reprogramming-4,Mouse
+Genomic instability,Mitochondrial DNA Repair,NaN,NaN,Reprogramming-4,Mouse
+Genomic instability,Non-homologous End Joining,0.636653,4.445620e-06,Reprogramming-4,Mouse
+Genomic instability,Nucleotide Excision Repair,0.642973,9.331522e-07,Reprogramming-4,Mouse
+Genomic instability,Other,-0.141862,1.642578e-02,Reprogramming-4,Mouse
+Genomic instability,Protein Regulation,0.293769,1.479910e-03,Reprogramming-4,Mouse
+Genomic instability,Replication Stress Response,0.775004,1.635287e-09,Reprogramming-4,Mouse
+Genomic instability,Single-Strand Break Repair,0.758942,3.687161e-09,Reprogramming-4,Mouse
+Genomic instability,Telomere Maintenance,NaN,NaN,Reprogramming-4,Mouse
+Genomic instability,Transcription,0.519247,3.599105e-04,Reprogramming-4,Mouse
+Genomic instability,Transcription-Coupled Repair,0.671267,1.027539e-05,Reprogramming-4,Mouse
+Genomic instability,Transcription-Replication Conflict,0.799908,1.236521e-10,Reprogramming-4,Mouse
+Genomic instability,Translesion Synthesis,0.043288,1.039358e-02,Reprogramming-4,Mouse
+Proteostasis,Autophagy-Lysosome Pathway,-0.219479,9.826571e-04,Reprogramming-4,Mouse
+Proteostasis,Cytonuclear proteostasis,0.209722,5.316133e-04,Reprogramming-4,Mouse
+Proteostasis,ER proteostasis,-0.372340,2.311506e-03,Reprogramming-4,Mouse
+Proteostasis,Extracellular proteostasis,-0.122487,8.629865e-02,Reprogramming-4,Mouse
+Proteostasis,Mitochondrial proteostasis,0.478973,4.539184e-04,Reprogramming-4,Mouse
+Proteostasis,Nuclear proteostasis,0.731677,2.490328e-08,Reprogramming-4,Mouse
+Proteostasis,PN regulation,-0.188401,2.244862e-03,Reprogramming-4,Mouse
+Proteostasis,Translation,0.701084,1.448642e-07,Reprogramming-4,Mouse
+Proteostasis,Ubiquitin Proteasome System,0.085735,6.884049e-04,Reprogramming-4,Mouse
+Senescence,Cell cycle arrest,-0.352695,1.397562e-04,Reprogramming-4,Mouse
+Senescence,Cell surface markers,-0.334628,2.828547e-02,Reprogramming-4,Mouse
+Senescence,Changes in morphology,0.189934,2.678101e-01,Reprogramming-4,Mouse
+Senescence,DNA damage response,0.016612,1.255712e-01,Reprogramming-4,Mouse
+Senescence,Increased lysosomal content,-0.472736,3.145532e-04,Reprogramming-4,Mouse
+Senescence,Metabolic adaptations,-0.179786,2.246158e-03,Reprogramming-4,Mouse
+Senescence,Nuclear changes,0.633404,1.169797e-06,Reprogramming-4,Mouse
+Senescence,Other,-0.231881,2.544695e-04,Reprogramming-4,Mouse
+Senescence,SASP,-0.388898,1.450141e-03,Reprogramming-4,Mouse
+Senescence,SASP_Intracellular,0.211801,2.410809e-05,Reprogramming-4,Mouse
+Senescence,SASP_Secreted,-0.442514,1.526772e-03,Reprogramming-4,Mouse
+Senescence,SASP_Transmembrane,-0.513031,5.514170e-05,Reprogramming-4,Mouse
+Senescence,Upregulation of anti-apoptotic pathways,-0.575375,5.431518e-05,Reprogramming-4,Mouse

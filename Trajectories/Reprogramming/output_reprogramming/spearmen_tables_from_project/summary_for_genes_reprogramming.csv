@@ -1,0 +1,233 @@
+Hallmark,Subprocess,n genes >= 0.2,n genes <= 0.2,n genes >= 0.4,n genes <= 0.4,Experiment,Species
+Autophagy,Autophagy core,25,81,10,49,Reprogramming-1,Human
+Autophagy,Autophagy core,31,36,11,10,Reprogramming-2,Human
+Autophagy,Autophagy core,13,27,2,4,Reprogramming-3,Mouse
+Autophagy,Autophagy core,63,88,46,60,Reprogramming-4,Mouse
+Autophagy,Autophagy downregulators,0,5,0,3,Reprogramming-1,Human
+Autophagy,Autophagy downregulators,0,2,0,1,Reprogramming-2,Human
+Autophagy,Autophagy downregulators,1,1,0,1,Reprogramming-3,Mouse
+Autophagy,Autophagy downregulators,0,5,0,4,Reprogramming-4,Mouse
+Autophagy,Autophagy upregulators,10,22,3,15,Reprogramming-1,Human
+Autophagy,Autophagy upregulators,10,17,2,6,Reprogramming-2,Human
+Autophagy,Autophagy upregulators,4,5,0,0,Reprogramming-3,Mouse
+Autophagy,Autophagy upregulators,23,26,21,17,Reprogramming-4,Mouse
+Proteostasis,Autophagy-Lysosome Pathway,113,385,41,204,Reprogramming-1,Human
+Proteostasis,Autophagy-Lysosome Pathway,141,177,42,44,Reprogramming-2,Human
+Proteostasis,Autophagy-Lysosome Pathway,38,117,2,18,Reprogramming-3,Mouse
+Proteostasis,Autophagy-Lysosome Pathway,257,405,206,294,Reprogramming-4,Mouse
+Genomic instability,Auxiliary Processes,1,3,1,1,Reprogramming-1,Human
+Genomic instability,Auxiliary Processes,2,1,0,0,Reprogramming-2,Human
+Genomic instability,Auxiliary Processes,1,0,0,0,Reprogramming-3,Mouse
+Genomic instability,Auxiliary Processes,4,0,3,0,Reprogramming-4,Mouse
+Genomic instability,Base Excision Repair,6,2,3,1,Reprogramming-1,Human
+Genomic instability,Base Excision Repair,11,1,3,0,Reprogramming-2,Human
+Genomic instability,Base Excision Repair,0,0,0,0,Reprogramming-3,Mouse
+Genomic instability,Base Excision Repair,11,1,8,1,Reprogramming-4,Mouse
+Genomic instability,Cell Cycle Control,1,1,1,1,Reprogramming-1,Human
+Genomic instability,Cell Cycle Control,2,1,1,1,Reprogramming-2,Human
+Genomic instability,Cell Cycle Control,0,0,0,0,Reprogramming-3,Mouse
+Genomic instability,Cell Cycle Control,2,1,2,1,Reprogramming-4,Mouse
+Genomic instability,Cell Cycle and Mitotic Regulation,2,3,2,1,Reprogramming-1,Human
+Genomic instability,Cell Cycle and Mitotic Regulation,3,2,3,0,Reprogramming-2,Human
+Genomic instability,Cell Cycle and Mitotic Regulation,0,0,0,0,Reprogramming-3,Mouse
+Genomic instability,Cell Cycle and Mitotic Regulation,5,1,5,1,Reprogramming-4,Mouse
+Senescence,Cell cycle arrest,4,12,0,8,Reprogramming-1,Human
+Senescence,Cell cycle arrest,7,8,3,5,Reprogramming-2,Human
+Senescence,Cell cycle arrest,1,1,0,0,Reprogramming-3,Mouse
+Senescence,Cell cycle arrest,6,11,6,6,Reprogramming-4,Mouse
+Senescence,Cell surface markers,0,1,0,1,Reprogramming-1,Human
+Senescence,Cell surface markers,0,1,0,0,Reprogramming-2,Human
+Senescence,Cell surface markers,0,1,0,0,Reprogramming-3,Mouse
+Senescence,Cell surface markers,0,2,0,1,Reprogramming-4,Mouse
+Senescence,Changes in morphology,3,0,1,0,Reprogramming-1,Human
+Senescence,Changes in morphology,2,0,1,0,Reprogramming-2,Human
+Senescence,Changes in morphology,0,2,0,0,Reprogramming-3,Mouse
+Senescence,Changes in morphology,3,0,3,0,Reprogramming-4,Mouse
+Genomic instability,Chromatin Remodeling,1,0,0,0,Reprogramming-1,Human
+Genomic instability,Chromatin Remodeling,0,0,0,0,Reprogramming-2,Human
+Genomic instability,Chromatin Remodeling,0,0,0,0,Reprogramming-3,Mouse
+Genomic instability,Chromatin Remodeling,2,0,2,0,Reprogramming-4,Mouse
+Genomic instability,Chromatin and Nuclear Organization,1,0,0,0,Reprogramming-1,Human
+Genomic instability,Chromatin and Nuclear Organization,3,0,0,0,Reprogramming-2,Human
+Genomic instability,Chromatin and Nuclear Organization,0,0,0,0,Reprogramming-3,Mouse
+Genomic instability,Chromatin and Nuclear Organization,2,1,2,0,Reprogramming-4,Mouse
+Proteostasis,Cytonuclear proteostasis,49,83,11,34,Reprogramming-1,Human
+Proteostasis,Cytonuclear proteostasis,56,28,9,5,Reprogramming-2,Human
+Proteostasis,Cytonuclear proteostasis,11,17,0,1,Reprogramming-3,Mouse
+Proteostasis,Cytonuclear proteostasis,112,61,91,40,Reprogramming-4,Mouse
+Genomic instability,DNA Damage Signaling,2,8,1,2,Reprogramming-1,Human
+Genomic instability,DNA Damage Signaling,3,1,0,0,Reprogramming-2,Human
+Genomic instability,DNA Damage Signaling,1,1,0,0,Reprogramming-3,Mouse
+Genomic instability,DNA Damage Signaling,11,3,10,3,Reprogramming-4,Mouse
+Genomic instability,DNA Replication/Repair,7,1,4,0,Reprogramming-1,Human
+Genomic instability,DNA Replication/Repair,10,0,1,0,Reprogramming-2,Human
+Genomic instability,DNA Replication/Repair,0,0,0,0,Reprogramming-3,Mouse
+Genomic instability,DNA Replication/Repair,15,0,15,0,Reprogramming-4,Mouse
+Senescence,DNA damage response,2,2,1,2,Reprogramming-1,Human
+Senescence,DNA damage response,3,2,1,0,Reprogramming-2,Human
+Senescence,DNA damage response,1,1,0,0,Reprogramming-3,Mouse
+Senescence,DNA damage response,5,4,3,1,Reprogramming-4,Mouse
+Genomic instability,Direct Reversal Repair,0,2,0,0,Reprogramming-1,Human
+Genomic instability,Direct Reversal Repair,0,0,0,0,Reprogramming-2,Human
+Genomic instability,Direct Reversal Repair,0,0,0,0,Reprogramming-3,Mouse
+Genomic instability,Direct Reversal Repair,2,1,1,1,Reprogramming-4,Mouse
+Autophagy,Docking and fusion,4,12,2,3,Reprogramming-1,Human
+Autophagy,Docking and fusion,3,5,1,0,Reprogramming-2,Human
+Autophagy,Docking and fusion,0,3,0,0,Reprogramming-3,Mouse
+Autophagy,Docking and fusion,5,13,3,10,Reprogramming-4,Mouse
+Genomic instability,Double-Strand Break Repair,0,2,0,1,Reprogramming-1,Human
+Genomic instability,Double-Strand Break Repair,6,0,1,0,Reprogramming-2,Human
+Genomic instability,Double-Strand Break Repair,3,1,0,0,Reprogramming-3,Mouse
+Genomic instability,Double-Strand Break Repair,7,1,6,1,Reprogramming-4,Mouse
+Proteostasis,ER proteostasis,18,156,8,99,Reprogramming-1,Human
+Proteostasis,ER proteostasis,28,68,5,15,Reprogramming-2,Human
+Proteostasis,ER proteostasis,4,66,0,9,Reprogramming-3,Mouse
+Proteostasis,ER proteostasis,49,149,31,115,Reprogramming-4,Mouse
+Genomic instability,Exonuclease,0,1,0,1,Reprogramming-1,Human
+Genomic instability,Exonuclease,0,0,0,0,Reprogramming-2,Human
+Genomic instability,Exonuclease,0,0,0,0,Reprogramming-3,Mouse
+Genomic instability,Exonuclease,1,0,1,0,Reprogramming-4,Mouse
+Proteostasis,Extracellular proteostasis,4,10,1,5,Reprogramming-1,Human
+Proteostasis,Extracellular proteostasis,5,4,2,1,Reprogramming-2,Human
+Proteostasis,Extracellular proteostasis,2,3,1,1,Reprogramming-3,Mouse
+Proteostasis,Extracellular proteostasis,5,6,2,5,Reprogramming-4,Mouse
+Genomic instability,Genome Maintenance,3,1,1,1,Reprogramming-1,Human
+Genomic instability,Genome Maintenance,2,0,1,0,Reprogramming-2,Human
+Genomic instability,Genome Maintenance,0,0,0,0,Reprogramming-3,Mouse
+Genomic instability,Genome Maintenance,3,0,3,0,Reprogramming-4,Mouse
+Genomic instability,Homologous Recombination,3,4,1,1,Reprogramming-1,Human
+Genomic instability,Homologous Recombination,6,1,2,0,Reprogramming-2,Human
+Genomic instability,Homologous Recombination,0,1,0,0,Reprogramming-3,Mouse
+Genomic instability,Homologous Recombination,8,0,8,0,Reprogramming-4,Mouse
+Senescence,Increased lysosomal content,0,2,0,2,Reprogramming-1,Human
+Senescence,Increased lysosomal content,0,1,0,1,Reprogramming-2,Human
+Senescence,Increased lysosomal content,1,0,0,0,Reprogramming-3,Mouse
+Senescence,Increased lysosomal content,1,2,1,2,Reprogramming-4,Mouse
+Genomic instability,Interstrand Crosslink Repair,5,0,2,0,Reprogramming-1,Human
+Genomic instability,Interstrand Crosslink Repair,10,0,2,0,Reprogramming-2,Human
+Genomic instability,Interstrand Crosslink Repair,0,0,0,0,Reprogramming-3,Mouse
+Genomic instability,Interstrand Crosslink Repair,10,0,10,0,Reprogramming-4,Mouse
+Autophagy,Lysosome,20,75,8,45,Reprogramming-1,Human
+Autophagy,Lysosome,19,45,7,13,Reprogramming-2,Human
+Autophagy,Lysosome,6,26,0,4,Reprogramming-3,Mouse
+Autophagy,Lysosome,29,100,21,78,Reprogramming-4,Mouse
+Autophagy,Lysosome-related genes,2,12,1,11,Reprogramming-1,Human
+Autophagy,Lysosome-related genes,4,8,0,2,Reprogramming-2,Human
+Autophagy,Lysosome-related genes,1,1,0,0,Reprogramming-3,Mouse
+Autophagy,Lysosome-related genes,4,17,3,13,Reprogramming-4,Mouse
+Senescence,Metabolic adaptations,1,2,0,0,Reprogramming-1,Human
+Senescence,Metabolic adaptations,3,0,2,0,Reprogramming-2,Human
+Senescence,Metabolic adaptations,2,0,1,0,Reprogramming-3,Mouse
+Senescence,Metabolic adaptations,2,3,2,2,Reprogramming-4,Mouse
+Genomic instability,Mismatch Repair,2,3,1,0,Reprogramming-1,Human
+Genomic instability,Mismatch Repair,4,0,3,0,Reprogramming-2,Human
+Genomic instability,Mismatch Repair,3,0,0,0,Reprogramming-3,Mouse
+Genomic instability,Mismatch Repair,8,0,7,0,Reprogramming-4,Mouse
+Genomic instability,Mitochondrial DNA Repair,1,0,0,0,Reprogramming-1,Human
+Genomic instability,Mitochondrial DNA Repair,0,0,0,0,Reprogramming-2,Human
+Genomic instability,Mitochondrial DNA Repair,0,0,0,0,Reprogramming-3,Mouse
+Genomic instability,Mitochondrial DNA Repair,1,0,1,0,Reprogramming-4,Mouse
+Proteostasis,Mitochondrial proteostasis,18,40,2,15,Reprogramming-1,Human
+Proteostasis,Mitochondrial proteostasis,24,8,1,1,Reprogramming-2,Human
+Proteostasis,Mitochondrial proteostasis,3,5,0,0,Reprogramming-3,Mouse
+Proteostasis,Mitochondrial proteostasis,60,18,50,9,Reprogramming-4,Mouse
+Autophagy,Mitophagy,5,38,1,16,Reprogramming-1,Human
+Autophagy,Mitophagy,12,15,3,3,Reprogramming-2,Human
+Autophagy,Mitophagy,6,5,1,0,Reprogramming-3,Mouse
+Autophagy,Mitophagy,27,27,22,16,Reprogramming-4,Mouse
+Genomic instability,Non-homologous End Joining,2,2,0,1,Reprogramming-1,Human
+Genomic instability,Non-homologous End Joining,5,0,0,0,Reprogramming-2,Human
+Genomic instability,Non-homologous End Joining,0,0,0,0,Reprogramming-3,Mouse
+Genomic instability,Non-homologous End Joining,5,0,4,0,Reprogramming-4,Mouse
+Senescence,Nuclear changes,2,6,0,3,Reprogramming-1,Human
+Senescence,Nuclear changes,4,4,2,0,Reprogramming-2,Human
+Senescence,Nuclear changes,2,2,0,2,Reprogramming-3,Mouse
+Senescence,Nuclear changes,10,2,9,2,Reprogramming-4,Mouse
+Proteostasis,Nuclear proteostasis,28,24,14,4,Reprogramming-1,Human
+Proteostasis,Nuclear proteostasis,46,0,11,0,Reprogramming-2,Human
+Proteostasis,Nuclear proteostasis,5,1,1,0,Reprogramming-3,Mouse
+Proteostasis,Nuclear proteostasis,75,12,72,6,Reprogramming-4,Mouse
+Genomic instability,Nucleotide Excision Repair,1,7,0,3,Reprogramming-1,Human
+Genomic instability,Nucleotide Excision Repair,1,3,0,0,Reprogramming-2,Human
+Genomic instability,Nucleotide Excision Repair,0,2,0,0,Reprogramming-3,Mouse
+Genomic instability,Nucleotide Excision Repair,10,4,10,3,Reprogramming-4,Mouse
+Autophagy,Other,15,51,8,30,Reprogramming-1,Human
+Autophagy,Other,14,23,7,8,Reprogramming-2,Human
+Autophagy,Other,5,16,0,2,Reprogramming-3,Mouse
+Autophagy,Other,26,46,22,35,Reprogramming-4,Mouse
+Genomic instability,Other,1,1,0,1,Reprogramming-1,Human
+Genomic instability,Other,2,0,1,0,Reprogramming-2,Human
+Genomic instability,Other,1,0,0,0,Reprogramming-3,Mouse
+Genomic instability,Other,2,3,1,1,Reprogramming-4,Mouse
+Senescence,Other,20,64,11,35,Reprogramming-1,Human
+Senescence,Other,18,45,9,21,Reprogramming-2,Human
+Senescence,Other,10,22,3,7,Reprogramming-3,Mouse
+Senescence,Other,40,52,33,43,Reprogramming-4,Mouse
+Proteostasis,PN regulation,2,11,2,7,Reprogramming-1,Human
+Proteostasis,PN regulation,1,7,0,2,Reprogramming-2,Human
+Proteostasis,PN regulation,1,2,0,0,Reprogramming-3,Mouse
+Proteostasis,PN regulation,12,15,12,6,Reprogramming-4,Mouse
+Genomic instability,Protein Regulation,2,1,0,1,Reprogramming-1,Human
+Genomic instability,Protein Regulation,1,0,1,0,Reprogramming-2,Human
+Genomic instability,Protein Regulation,1,1,1,0,Reprogramming-3,Mouse
+Genomic instability,Protein Regulation,3,2,2,2,Reprogramming-4,Mouse
+Genomic instability,Replication Stress Response,4,4,2,1,Reprogramming-1,Human
+Genomic instability,Replication Stress Response,11,1,2,0,Reprogramming-2,Human
+Genomic instability,Replication Stress Response,0,2,0,0,Reprogramming-3,Mouse
+Genomic instability,Replication Stress Response,11,3,10,2,Reprogramming-4,Mouse
+Senescence,SASP,12,46,5,28,Reprogramming-1,Human
+Senescence,SASP,17,25,9,13,Reprogramming-2,Human
+Senescence,SASP,6,25,1,12,Reprogramming-3,Mouse
+Senescence,SASP,21,53,13,44,Reprogramming-4,Mouse
+Senescence,SASP_Intracellular,3,8,0,5,Reprogramming-1,Human
+Senescence,SASP_Intracellular,7,4,2,3,Reprogramming-2,Human
+Senescence,SASP_Intracellular,3,2,0,1,Reprogramming-3,Mouse
+Senescence,SASP_Intracellular,8,6,6,6,Reprogramming-4,Mouse
+Senescence,SASP_Secreted,6,46,0,29,Reprogramming-1,Human
+Senescence,SASP_Secreted,7,26,3,14,Reprogramming-2,Human
+Senescence,SASP_Secreted,2,21,2,6,Reprogramming-3,Mouse
+Senescence,SASP_Secreted,7,45,3,33,Reprogramming-4,Mouse
+Senescence,SASP_Transmembrane,0,16,0,11,Reprogramming-1,Human
+Senescence,SASP_Transmembrane,2,10,0,4,Reprogramming-2,Human
+Senescence,SASP_Transmembrane,1,7,0,3,Reprogramming-3,Mouse
+Senescence,SASP_Transmembrane,3,12,3,10,Reprogramming-4,Mouse
+Genomic instability,Single-Strand Break Repair,2,0,0,0,Reprogramming-1,Human
+Genomic instability,Single-Strand Break Repair,4,0,1,0,Reprogramming-2,Human
+Genomic instability,Single-Strand Break Repair,1,0,0,0,Reprogramming-3,Mouse
+Genomic instability,Single-Strand Break Repair,4,1,4,1,Reprogramming-4,Mouse
+Genomic instability,Telomere Maintenance,0,0,0,0,Reprogramming-1,Human
+Genomic instability,Telomere Maintenance,0,0,0,0,Reprogramming-2,Human
+Genomic instability,Telomere Maintenance,0,0,0,0,Reprogramming-3,Mouse
+Genomic instability,Telomere Maintenance,2,0,2,0,Reprogramming-4,Mouse
+Genomic instability,Transcription,0,2,0,0,Reprogramming-1,Human
+Genomic instability,Transcription,0,0,0,0,Reprogramming-2,Human
+Genomic instability,Transcription,0,0,0,0,Reprogramming-3,Mouse
+Genomic instability,Transcription,3,0,2,0,Reprogramming-4,Mouse
+Genomic instability,Transcription-Coupled Repair,0,3,0,3,Reprogramming-1,Human
+Genomic instability,Transcription-Coupled Repair,1,1,0,1,Reprogramming-2,Human
+Genomic instability,Transcription-Coupled Repair,1,0,0,0,Reprogramming-3,Mouse
+Genomic instability,Transcription-Coupled Repair,5,0,5,0,Reprogramming-4,Mouse
+Genomic instability,Transcription-Replication Conflict,2,1,0,0,Reprogramming-1,Human
+Genomic instability,Transcription-Replication Conflict,2,0,1,0,Reprogramming-2,Human
+Genomic instability,Transcription-Replication Conflict,1,0,0,0,Reprogramming-3,Mouse
+Genomic instability,Transcription-Replication Conflict,2,1,2,1,Reprogramming-4,Mouse
+Proteostasis,Translation,112,151,36,44,Reprogramming-1,Human
+Proteostasis,Translation,118,16,8,4,Reprogramming-2,Human
+Proteostasis,Translation,15,11,2,1,Reprogramming-3,Mouse
+Proteostasis,Translation,365,33,344,20,Reprogramming-4,Mouse
+Genomic instability,Translesion Synthesis,0,4,0,3,Reprogramming-1,Human
+Genomic instability,Translesion Synthesis,1,3,0,1,Reprogramming-2,Human
+Genomic instability,Translesion Synthesis,1,0,0,0,Reprogramming-3,Mouse
+Genomic instability,Translesion Synthesis,2,2,2,1,Reprogramming-4,Mouse
+Proteostasis,Ubiquitin Proteasome System,221,487,76,219,Reprogramming-1,Human
+Proteostasis,Ubiquitin Proteasome System,274,151,63,22,Reprogramming-2,Human
+Proteostasis,Ubiquitin Proteasome System,60,97,7,6,Reprogramming-3,Mouse
+Proteostasis,Ubiquitin Proteasome System,527,448,440,305,Reprogramming-4,Mouse
+Senescence,Upregulation of anti-apoptotic pathways,0,0,0,0,Reprogramming-1,Human
+Senescence,Upregulation of anti-apoptotic pathways,2,2,1,0,Reprogramming-2,Human
+Senescence,Upregulation of anti-apoptotic pathways,0,0,0,0,Reprogramming-3,Mouse
+Senescence,Upregulation of anti-apoptotic pathways,1,2,0,2,Reprogramming-4,Mouse
+Autophagy,mTOR and upstream pathways,20,45,7,23,Reprogramming-1,Human
+Autophagy,mTOR and upstream pathways,22,26,4,0,Reprogramming-2,Human
+Autophagy,mTOR and upstream pathways,3,14,0,3,Reprogramming-3,Mouse
+Autophagy,mTOR and upstream pathways,46,56,42,44,Reprogramming-4,Mouse
