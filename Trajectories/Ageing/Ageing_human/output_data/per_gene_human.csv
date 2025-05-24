@@ -1,0 +1,229 @@
+Hallmark,Subprocess,Gene,Spearman_rho,p_value,Experiment,Species
+Proteostasis,Ubiquitin Proteasome System,RBM6,0.2606044099933089,5.760926661977871e-274,Agging Skin,Human
+Proteostasis,Translation,RPL13A,0.260082365648743,7.715934312554686e-273,Agging Skin,Human
+Proteostasis,Autophagy-Lysosome Pathway,ARIH1,0.23377891248433144,2.3270544115600913e-219,Agging Skin,Human
+Proteostasis,Autophagy-Lysosome Pathway,ARIH1,0.23377891248433144,2.3270544115600913e-219,Agging Skin,Human
+Proteostasis,Autophagy-Lysosome Pathway,ARIH1,0.23377891248433144,2.3270544115600913e-219,Agging Skin,Human
+Proteostasis,Autophagy-Lysosome Pathway,ARIH1,0.23377891248433144,2.3270544115600913e-219,Agging Skin,Human
+Proteostasis,Autophagy-Lysosome Pathway,DDX5,0.23119555888209256,1.8853235792485684e-214,Agging Skin,Human
+Proteostasis,Ubiquitin Proteasome System,MKLN1,0.23102011253186444,4.041566675665948e-214,Agging Skin,Human
+Proteostasis,Translation,RPS20,0.22618912551430226,4.128846000032704e-205,Agging Skin,Human
+Autophagy,mTOR and upstream pathways,STAT3,0.2203144914818417,1.9418910982936957e-194,Agging Skin,Human
+Autophagy,mTOR and upstream pathways,STAT3,0.2203144914818417,1.9418910982936957e-194,Agging Skin,Human
+Autophagy,mTOR and upstream pathways,STAT3,0.2203144914818417,1.9418910982936957e-194,Agging Skin,Human
+Autophagy,mTOR and upstream pathways,STAT3,0.2203144914818417,1.9418910982936957e-194,Agging Skin,Human
+Proteostasis,Autophagy-Lysosome Pathway,FUS,0.21788648671081667,4.0638686283562594e-190,Agging Skin,Human
+Proteostasis,Autophagy-Lysosome Pathway,FUS,0.21788648671081667,4.0638686283562594e-190,Agging Skin,Human
+Proteostasis,Ubiquitin Proteasome System,ZFAND3,0.21649800121287477,1.1381070906358747e-187,Agging Skin,Human
+Proteostasis,Cytonuclear proteostasis,ZFC3H1,0.21641311416430312,1.6041409806632045e-187,Agging Skin,Human
+Proteostasis,Ubiquitin Proteasome System,CREBBP,0.21451668682047967,3.300883099416375e-184,Agging Skin,Human
+Autophagy,Autophagy core,VMP1,0.213353807736087,3.42454272182859e-182,Agging Skin,Human
+Autophagy,Autophagy core,VMP1,0.213353807736087,3.42454272182859e-182,Agging Skin,Human
+Autophagy,Autophagy core,VMP1,0.213353807736087,3.42454272182859e-182,Agging Skin,Human
+Autophagy,mTOR and upstream pathways,RICTOR,0.213013045503768,1.327640065150444e-181,Agging Skin,Human
+Autophagy,mTOR and upstream pathways,RICTOR,0.213013045503768,1.327640065150444e-181,Agging Skin,Human
+Autophagy,mTOR and upstream pathways,RICTOR,0.213013045503768,1.327640065150444e-181,Agging Skin,Human
+Proteostasis,Translation,RPL23A,0.21284882153983053,2.548702582611446e-181,Agging Skin,Human
+Proteostasis,Ubiquitin Proteasome System,WSB1,0.21173919650550044,2.0599195639031477e-179,Agging Skin,Human
+Proteostasis,Ubiquitin Proteasome System,WSB1,0.21173919650550044,2.0599195639031477e-179,Agging Skin,Human
+Proteostasis,Translation,RPS26,-0.21128955246398942,1.2126203292335631e-178,Agging Skin,Human
+Autophagy,Mitophagy,TBC1D15,0.21049635303289696,2.7382841256531223e-177,Agging Skin,Human
+Autophagy,Mitophagy,TBC1D15,0.21049635303289696,2.7382841256531223e-177,Agging Skin,Human
+Proteostasis,Ubiquitin Proteasome System,USP34,0.21033305484632947,5.193862687015978e-177,Agging Skin,Human
+Proteostasis,Ubiquitin Proteasome System,USP34,0.21033305484632947,5.193862687015978e-177,Agging Skin,Human
+Proteostasis,Translation,RPS11,0.20906898986924408,7.237419360191881e-175,Agging Skin,Human
+Proteostasis,Translation,NOP58,0.20691970677242788,2.9709052737110635e-171,Agging Skin,Human
+Autophagy,Docking and fusion,BIRC6,0.20614025707571645,5.932614634521085e-170,Agging Skin,Human
+Autophagy,Docking and fusion,BIRC6,0.20614025707571645,5.932614634521085e-170,Agging Skin,Human
+Autophagy,Docking and fusion,BIRC6,0.20614025707571645,5.932614634521085e-170,Agging Skin,Human
+Autophagy,Docking and fusion,BIRC6,0.20614025707571645,5.932614634521085e-170,Agging Skin,Human
+Proteostasis,Translation,EIF1,0.20606353994909354,7.960590555497474e-170,Agging Skin,Human
+Proteostasis,Ubiquitin Proteasome System,SIK3,0.20584191865761675,1.8601761031670802e-169,Agging Skin,Human
+Proteostasis,Nuclear proteostasis,ATRX,0.2049465451469491,5.680530430979181e-168,Agging Skin,Human
+Autophagy,Other,RAF1,0.2000210474362147,6.2689563574567e-160,Agging Skin,Human
+Autophagy,Other,RAF1,0.2000210474362147,6.2689563574567e-160,Agging Skin,Human
+Autophagy,Autophagy core,RAB1A,0.20000289671209817,6.705668270812147e-160,Agging Skin,Human
+Autophagy,Autophagy core,RAB1A,0.20000289671209817,6.705668270812147e-160,Agging Skin,Human
+Proteostasis,Autophagy-Lysosome Pathway,MT-RNR2,-0.6663955112544736,5e-324,Agging Ovary,Human
+Proteostasis,Translation,RPL41,0.4280097976351816,5e-324,Agging Ovary,Human
+Proteostasis,Translation,RPS26,0.4238747850975822,5e-324,Agging Ovary,Human
+Senescence,SASP,CCN1,-0.4131811145447271,5e-324,Agging Ovary,Human
+Senescence,SASP,SERPING1,0.39124779575001684,5e-324,Agging Ovary,Human
+Proteostasis,Ubiquitin Proteasome System,ISG15,-0.37750984728935466,5e-324,Agging Ovary,Human
+Proteostasis,Translation,RPLP0,0.3686758838659626,5e-324,Agging Ovary,Human
+Proteostasis,Translation,RPL26,0.3533298062666137,5e-324,Agging Ovary,Human
+Proteostasis,Translation,RPS10,0.33797906852100523,5e-324,Agging Ovary,Human
+Proteostasis,Translation,RPL39,0.3341511534341683,5e-324,Agging Ovary,Human
+Proteostasis,Translation,RPL9,0.3323702747593473,5e-324,Agging Ovary,Human
+Senescence,SASP_Secreted,IGFBP6,0.3222151562061436,5e-324,Agging Ovary,Human
+Proteostasis,Translation,RPL36A,0.3191325224414639,5e-324,Agging Ovary,Human
+Senescence,SASP_Secreted,IGFBP2,-0.3181431280520419,5e-324,Agging Ovary,Human
+Proteostasis,Translation,RPS13,0.3157347139461087,5e-324,Agging Ovary,Human
+Proteostasis,Ubiquitin Proteasome System,PELI2,-0.31191085546385844,5e-324,Agging Ovary,Human
+Senescence,SASP,FN1,-0.31093578967788044,5e-324,Agging Ovary,Human
+Senescence,Other,ZFP36,0.30394265119231517,5e-324,Agging Ovary,Human
+Senescence,SASP_Secreted,IGFBP4,0.3028875250171817,5e-324,Agging Ovary,Human
+Proteostasis,Translation,RPL36AL,0.29604307496389737,5e-324,Agging Ovary,Human
+Senescence,Other,APOE,-0.2960072424009091,5e-324,Agging Ovary,Human
+Proteostasis,Translation,DDX21,-0.2949283863402164,5e-324,Agging Ovary,Human
+Proteostasis,Cytonuclear proteostasis,HSPB6,0.29296207684407816,5e-324,Agging Ovary,Human
+Proteostasis,Translation,RPL14,0.2926461648630097,5e-324,Agging Ovary,Human
+Autophagy,Other,ITGB1,-0.29125862238020817,5e-324,Agging Ovary,Human
+Senescence,Other,IER3,-0.2911405380959498,5e-324,Agging Ovary,Human
+Proteostasis,Translation,RPS21,0.290312432540259,5e-324,Agging Ovary,Human
+Senescence,Other,EMP1,-0.2895664710102373,5e-324,Agging Ovary,Human
+Autophagy,Autophagy downregulators,JUN,-0.28432607462662296,5e-324,Agging Ovary,Human
+Autophagy,Autophagy downregulators,JUN,-0.28432607462662296,5e-324,Agging Ovary,Human
+Autophagy,Autophagy downregulators,JUN,-0.28432607462662296,5e-324,Agging Ovary,Human
+Senescence,DNA damage response,ERCC1,-0.2841134190140928,5e-324,Agging Ovary,Human
+Senescence,DNA damage response,ERCC1,-0.2841134190140928,5e-324,Agging Ovary,Human
+Proteostasis,Cytonuclear proteostasis,IFIT3,-0.28338830382004876,5e-324,Agging Ovary,Human
+Senescence,SASP_Secreted,ANGPTL4,-0.28154255383500454,5e-324,Agging Ovary,Human
+Senescence,Other,CHSY1,-0.27806427337883055,5e-324,Agging Ovary,Human
+Proteostasis,Translation,RPL32,0.2757353430359709,5e-324,Agging Ovary,Human
+Proteostasis,Translation,RPL8,0.27280252793922505,5e-324,Agging Ovary,Human
+Autophagy,mTOR and upstream pathways,HIF1A,-0.271923283250849,5e-324,Agging Ovary,Human
+Autophagy,mTOR and upstream pathways,HIF1A,-0.271923283250849,5e-324,Agging Ovary,Human
+Autophagy,mTOR and upstream pathways,HIF1A,-0.271923283250849,5e-324,Agging Ovary,Human
+Autophagy,mTOR and upstream pathways,HIF1A,-0.271923283250849,5e-324,Agging Ovary,Human
+Autophagy,mTOR and upstream pathways,HIF1A,-0.271923283250849,5e-324,Agging Ovary,Human
+Proteostasis,Autophagy-Lysosome Pathway,VAPA,-0.271217367493897,5e-324,Agging Ovary,Human
+Proteostasis,Autophagy-Lysosome Pathway,VAPA,-0.271217367493897,5e-324,Agging Ovary,Human
+Proteostasis,Translation,RPS15,0.27118845748351156,5e-324,Agging Ovary,Human
+Proteostasis,Translation,RPL36,0.26770304314048005,5e-324,Agging Ovary,Human
+Senescence,Other,BTG2,0.265925094119495,5e-324,Agging Ovary,Human
+Proteostasis,Translation,RPS12,0.2652978567419626,5e-324,Agging Ovary,Human
+Autophagy,Other,DLC1,-0.26183381460115746,5e-324,Agging Ovary,Human
+Senescence,Other,FOSL1,-0.2617148454032778,5e-324,Agging Ovary,Human
+Senescence,Other,FOSL1,-0.2617148454032778,5e-324,Agging Ovary,Human
+Proteostasis,Translation,FAU,0.26141193436239135,5e-324,Agging Ovary,Human
+Proteostasis,Translation,FAU,0.26141193436239135,5e-324,Agging Ovary,Human
+Proteostasis,Ubiquitin Proteasome System,ZFAND3,-0.25820447775751926,5e-324,Agging Ovary,Human
+Autophagy,Autophagy core,RAB8B,-0.257385765727507,5e-324,Agging Ovary,Human
+Autophagy,Autophagy core,RAB8B,-0.257385765727507,5e-324,Agging Ovary,Human
+Proteostasis,Translation,XRN2,-0.25721714101994786,5e-324,Agging Ovary,Human
+Proteostasis,Translation,XRN2,-0.25721714101994786,5e-324,Agging Ovary,Human
+Senescence,Nuclear changes,EEF1A1,0.25504176208703316,5e-324,Agging Ovary,Human
+Senescence,Nuclear changes,EEF1A1,0.25504176208703316,5e-324,Agging Ovary,Human
+Senescence,Nuclear changes,EEF1A1,0.25504176208703316,5e-324,Agging Ovary,Human
+Autophagy,Autophagy downregulators,STAT1,-0.2535443356512514,5e-324,Agging Ovary,Human
+Autophagy,Autophagy downregulators,STAT1,-0.2535443356512514,5e-324,Agging Ovary,Human
+Senescence,SASP_Secreted,IL32,-0.2521525412188598,5e-324,Agging Ovary,Human
+Proteostasis,Translation,NOP53,0.25055823747054107,5e-324,Agging Ovary,Human
+Proteostasis,Translation,RPL34,0.2504420566799599,5e-324,Agging Ovary,Human
+Proteostasis,Translation,RPL6,0.24661938431512095,5e-324,Agging Ovary,Human
+Autophagy,Autophagy upregulators,EGR1,0.24622826006385662,5e-324,Agging Ovary,Human
+Autophagy,Autophagy upregulators,EGR1,0.24622826006385662,5e-324,Agging Ovary,Human
+Proteostasis,Translation,RPS20,0.24558803608853177,5e-324,Agging Ovary,Human
+Proteostasis,Ubiquitin Proteasome System,ENC1,-0.24511645189546072,5e-324,Agging Ovary,Human
+Senescence,SASP,ID3,-0.24229874638258167,5e-324,Agging Ovary,Human
+Proteostasis,Ubiquitin Proteasome System,PSME4,-0.24206147559812774,5e-324,Agging Ovary,Human
+Proteostasis,Translation,ETF1,-0.2406091546419235,5e-324,Agging Ovary,Human
+Autophagy,Mitophagy,TOMM7,0.24033147975569416,5e-324,Agging Ovary,Human
+Autophagy,Mitophagy,TOMM7,0.24033147975569416,5e-324,Agging Ovary,Human
+Autophagy,Mitophagy,TOMM7,0.24033147975569416,5e-324,Agging Ovary,Human
+Proteostasis,ER proteostasis,PPIB,-0.24032839871205838,5e-324,Agging Ovary,Human
+Proteostasis,ER proteostasis,PPIB,-0.24032839871205838,5e-324,Agging Ovary,Human
+Senescence,Other,KLF6,-0.2398643782398436,5e-324,Agging Ovary,Human
+Autophagy,Autophagy core,RAB7A,-0.23965657382816424,5e-324,Agging Ovary,Human
+Autophagy,Autophagy core,RAB7A,-0.23965657382816424,5e-324,Agging Ovary,Human
+Autophagy,Autophagy core,RAB7A,-0.23965657382816424,5e-324,Agging Ovary,Human
+Autophagy,Autophagy core,RAB7A,-0.23965657382816424,5e-324,Agging Ovary,Human
+Autophagy,Autophagy core,RAB7A,-0.23965657382816424,5e-324,Agging Ovary,Human
+Autophagy,Autophagy core,RAB7A,-0.23965657382816424,5e-324,Agging Ovary,Human
+Autophagy,Autophagy core,RAB7A,-0.23965657382816424,5e-324,Agging Ovary,Human
+Proteostasis,Ubiquitin Proteasome System,RAD23B,-0.2396557025646207,5e-324,Agging Ovary,Human
+Proteostasis,Ubiquitin Proteasome System,RAD23B,-0.2396557025646207,5e-324,Agging Ovary,Human
+Proteostasis,Ubiquitin Proteasome System,RAD23B,-0.2396557025646207,5e-324,Agging Ovary,Human
+Proteostasis,Ubiquitin Proteasome System,RAD23B,-0.2396557025646207,5e-324,Agging Ovary,Human
+Autophagy,Other,EEF2,0.23886797830766515,5e-324,Agging Ovary,Human
+Autophagy,Other,EEF2,0.23886797830766515,5e-324,Agging Ovary,Human
+Senescence,Other,CCNL1,-0.23762935423808842,5e-324,Agging Ovary,Human
+Proteostasis,Translation,RPL30,0.2358555992267217,5e-324,Agging Ovary,Human
+Proteostasis,Autophagy-Lysosome Pathway,OSBPL1A,-0.2343256342738532,5e-324,Agging Ovary,Human
+Proteostasis,Autophagy-Lysosome Pathway,OSBPL1A,-0.2343256342738532,5e-324,Agging Ovary,Human
+Autophagy,Autophagy core,MAP1LC3B,-0.2305497668809444,5e-324,Agging Ovary,Human
+Autophagy,Autophagy core,MAP1LC3B,-0.2305497668809444,5e-324,Agging Ovary,Human
+Autophagy,Autophagy core,MAP1LC3B,-0.2305497668809444,5e-324,Agging Ovary,Human
+Autophagy,Autophagy core,MAP1LC3B,-0.2305497668809444,5e-324,Agging Ovary,Human
+Autophagy,Autophagy core,MAP1LC3B,-0.2305497668809444,5e-324,Agging Ovary,Human
+Autophagy,Autophagy core,MAP1LC3B,-0.2305497668809444,5e-324,Agging Ovary,Human
+Autophagy,Autophagy upregulators,TNFAIP3,-0.23008619070691966,5e-324,Agging Ovary,Human
+Autophagy,Autophagy upregulators,TNFAIP3,-0.23008619070691966,5e-324,Agging Ovary,Human
+Autophagy,Autophagy upregulators,TNFAIP3,-0.23008619070691966,5e-324,Agging Ovary,Human
+Autophagy,Autophagy upregulators,TNFAIP3,-0.23008619070691966,5e-324,Agging Ovary,Human
+Autophagy,Autophagy upregulators,TNFAIP3,-0.23008619070691966,5e-324,Agging Ovary,Human
+Proteostasis,Autophagy-Lysosome Pathway,IRF8,-0.2289654418439416,5e-324,Agging Ovary,Human
+Proteostasis,Ubiquitin Proteasome System,SPSB1,-0.22766508237764127,5e-324,Agging Ovary,Human
+Senescence,Other,SUSD6,-0.22720939962879086,5e-324,Agging Ovary,Human
+Proteostasis,Ubiquitin Proteasome System,RNF213,-0.22618872284984995,5e-324,Agging Ovary,Human
+Proteostasis,ER proteostasis,MYDGF,-0.2248735257577365,5e-324,Agging Ovary,Human
+Autophagy,Autophagy upregulators,FOS,-0.22457968474072104,5e-324,Agging Ovary,Human
+Autophagy,Autophagy upregulators,FOS,-0.22457968474072104,5e-324,Agging Ovary,Human
+Autophagy,Autophagy upregulators,FOS,-0.22457968474072104,5e-324,Agging Ovary,Human
+Proteostasis,Autophagy-Lysosome Pathway,TP53BP2,-0.22416461266616514,5e-324,Agging Ovary,Human
+Proteostasis,Autophagy-Lysosome Pathway,TP53BP2,-0.22416461266616514,5e-324,Agging Ovary,Human
+Proteostasis,Cytonuclear proteostasis,CHORDC1,-0.22229684067592514,5e-324,Agging Ovary,Human
+Proteostasis,Translation,DDX3X,-0.22149111822586615,5e-324,Agging Ovary,Human
+Proteostasis,Ubiquitin Proteasome System,UBE2A,-0.22129841501025466,5e-324,Agging Ovary,Human
+Proteostasis,Ubiquitin Proteasome System,UBE2A,-0.22129841501025466,5e-324,Agging Ovary,Human
+Senescence,Other,ADAMTS9,-0.22096130791977292,5e-324,Agging Ovary,Human
+Proteostasis,Ubiquitin Proteasome System,TULP4,-0.2207158369988206,5e-324,Agging Ovary,Human
+Proteostasis,Translation,RPS17,0.219758179666233,5e-324,Agging Ovary,Human
+Autophagy,Autophagy core,PPP2R2A,-0.219706318416061,5e-324,Agging Ovary,Human
+Autophagy,Autophagy core,PPP2R2A,-0.219706318416061,5e-324,Agging Ovary,Human
+Proteostasis,Cytonuclear proteostasis,IFIT1,-0.21968232012144104,5e-324,Agging Ovary,Human
+Proteostasis,Autophagy-Lysosome Pathway,PTK2,-0.21864479880898854,5e-324,Agging Ovary,Human
+Autophagy,Autophagy upregulators,RELB,-0.21855993533277088,5e-324,Agging Ovary,Human
+Autophagy,Autophagy upregulators,RELB,-0.21855993533277088,5e-324,Agging Ovary,Human
+Autophagy,Autophagy upregulators,RELB,-0.21855993533277088,5e-324,Agging Ovary,Human
+Proteostasis,Translation,RPS25,0.21834264421950744,5e-324,Agging Ovary,Human
+Proteostasis,Translation,RPL24,0.2179299322221749,5e-324,Agging Ovary,Human
+Proteostasis,Cytonuclear proteostasis,TANC1,-0.21786806464503064,5e-324,Agging Ovary,Human
+Senescence,SASP,BEX3,0.21727235909275752,5e-324,Agging Ovary,Human
+Proteostasis,Translation,RPL7,0.21700315269275516,5e-324,Agging Ovary,Human
+Proteostasis,Autophagy-Lysosome Pathway,UBAP1,-0.21611972026135273,5e-324,Agging Ovary,Human
+Proteostasis,Autophagy-Lysosome Pathway,UBAP1,-0.21611972026135273,5e-324,Agging Ovary,Human
+Senescence,SASP,RARRES2,0.21511650152626993,5e-324,Agging Ovary,Human
+Proteostasis,Ubiquitin Proteasome System,USP3,-0.21323029107030106,5e-324,Agging Ovary,Human
+Proteostasis,Ubiquitin Proteasome System,USP3,-0.21323029107030106,5e-324,Agging Ovary,Human
+Proteostasis,Ubiquitin Proteasome System,JARID2,-0.21310198419445245,5e-324,Agging Ovary,Human
+Proteostasis,Ubiquitin Proteasome System,IVNS1ABP,-0.21289307329115278,5e-324,Agging Ovary,Human
+Proteostasis,Translation,RPS23,0.2124184045371571,5e-324,Agging Ovary,Human
+Senescence,Nuclear changes,LAMB1,-0.2114461135903401,5e-324,Agging Ovary,Human
+Senescence,Nuclear changes,LAMB1,-0.2114461135903401,5e-324,Agging Ovary,Human
+Proteostasis,Autophagy-Lysosome Pathway,CSNK1A1,-0.2107855558812881,5e-324,Agging Ovary,Human
+Autophagy,Autophagy core,MYO6,-0.2107127535264366,5e-324,Agging Ovary,Human
+Autophagy,Autophagy core,MYO6,-0.2107127535264366,5e-324,Agging Ovary,Human
+Autophagy,Autophagy core,MYO6,-0.2107127535264366,5e-324,Agging Ovary,Human
+Senescence,DNA damage response,TP53BP1,-0.20999581900496295,5e-324,Agging Ovary,Human
+Senescence,DNA damage response,TP53BP1,-0.20999581900496295,5e-324,Agging Ovary,Human
+Proteostasis,ER proteostasis,UBXN8,-0.20997278430324742,5e-324,Agging Ovary,Human
+Proteostasis,ER proteostasis,UBXN8,-0.20997278430324742,5e-324,Agging Ovary,Human
+Proteostasis,ER proteostasis,UBXN8,-0.20997278430324742,5e-324,Agging Ovary,Human
+Proteostasis,Nuclear proteostasis,NUP153,-0.2091378944881915,5e-324,Agging Ovary,Human
+Proteostasis,Nuclear proteostasis,NUP153,-0.2091378944881915,5e-324,Agging Ovary,Human
+Proteostasis,Ubiquitin Proteasome System,SPATS2,-0.20775470595933657,5e-324,Agging Ovary,Human
+Proteostasis,Autophagy-Lysosome Pathway,PTPN2,-0.20690557331837042,5e-324,Agging Ovary,Human
+Proteostasis,Translation,RPL19,0.2059637668708947,5e-324,Agging Ovary,Human
+Proteostasis,Translation,EIF3J,-0.20561873508791384,5e-324,Agging Ovary,Human
+Proteostasis,Translation,EIF3J,-0.20561873508791384,5e-324,Agging Ovary,Human
+Proteostasis,Translation,RPS5,0.20528313910862783,5e-324,Agging Ovary,Human
+Senescence,SASP,IL1R1,-0.205110725077207,5e-324,Agging Ovary,Human
+Senescence,SASP_Secreted,IGF1,-0.2050576434858043,5e-324,Agging Ovary,Human
+Senescence,SASP_Secreted,IGF1,-0.2050576434858043,5e-324,Agging Ovary,Human
+Proteostasis,ER proteostasis,NPLOC4,-0.20497500424111234,5e-324,Agging Ovary,Human
+Proteostasis,ER proteostasis,NPLOC4,-0.20497500424111234,5e-324,Agging Ovary,Human
+Proteostasis,ER proteostasis,NPLOC4,-0.20497500424111234,5e-324,Agging Ovary,Human
+Proteostasis,ER proteostasis,NPLOC4,-0.20497500424111234,5e-324,Agging Ovary,Human
+Proteostasis,ER proteostasis,NPLOC4,-0.20497500424111234,5e-324,Agging Ovary,Human
+Autophagy,Lysosome,CTSK,-0.20410376053458945,5e-324,Agging Ovary,Human
+Autophagy,Lysosome,CTSK,-0.20410376053458945,5e-324,Agging Ovary,Human
+Proteostasis,Ubiquitin Proteasome System,UBR4,-0.2017786242131187,5e-324,Agging Ovary,Human
+Proteostasis,Ubiquitin Proteasome System,UBR5,-0.20174378268323392,5e-324,Agging Ovary,Human
+Proteostasis,Ubiquitin Proteasome System,UBR5,-0.20174378268323392,5e-324,Agging Ovary,Human
+Proteostasis,Translation,EIF4G2,-0.20108477994904125,5e-324,Agging Ovary,Human
+Proteostasis,Ubiquitin Proteasome System,RCOR1,-0.20078239340094442,5e-324,Agging Ovary,Human
+Proteostasis,Translation,NACA,0.2007405695205482,5e-324,Agging Ovary,Human
+Proteostasis,Translation,NACA,0.2007405695205482,5e-324,Agging Ovary,Human
+Proteostasis,Ubiquitin Proteasome System,PAFAH1B1,-0.20055281095114144,5e-324,Agging Ovary,Human

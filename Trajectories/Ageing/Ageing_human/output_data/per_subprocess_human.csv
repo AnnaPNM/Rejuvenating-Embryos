@@ -1,0 +1,8 @@
+Hallmark,Subprocess,Spearman,p_value,Experiment,Species
+,Ubiquitin Proteasome System,,,,Human
+,Translation,,,,Human
+,Autophagy core,,,,Human
+,PN regulation,,,,Human
+Autophagy,Autophagy core,0.025195442018786995,0.0007805092117071216,Agging fibroblast,Human
+Proteostasis,Translation,0.015355584218697732,0.0406922702734909,Agging fibroblast,Human
+Proteostasis,Ubiquitin Proteasome System,0.010207370554301215,0.17451868326042816,Agging fibroblast,Human

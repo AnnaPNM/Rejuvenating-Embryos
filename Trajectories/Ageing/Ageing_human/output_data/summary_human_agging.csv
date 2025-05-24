@@ -1,0 +1,32 @@
+Hallmark,Subprocess,n_genes_>0.2,n_genes_>0.4,n_genes_<-0.2,n_genes_<-0.4,Experiment,Species
+Autophagy,Autophagy core,,,,,Agging Fibroblast,Human
+Proteostasis,Autophagy-Lysosome Pathway,,,,,Agging Fibroblast,Human
+Proteostasis,Cytonuclear proteostasis,,,,,Agging Fibroblast,Human
+Autophagy,Docking and fusion,,,,,Agging Fibroblast,Human
+Autophagy,Mitophagy,,,,,Agging Fibroblast,Human
+Proteostasis,Nuclear proteostasis,,,,,Agging Fibroblast,Human
+Autophagy,Other,,,,,Agging Fibroblast,Human
+Senescence,Other,,,,,Agging Fibroblast,Human
+Genomic instability,Other,,,,,Agging Fibroblast,Human
+Proteostasis,Translation,,,,,Agging Fibroblast,Human
+Proteostasis,Ubiquitin Proteasome System,,,,,Agging Fibroblast,Human
+Autophagy,mTOR and upstream pathways,,,,,Agging Fibroblast,Human
+Autophagy,Autophagy core,0.0,0.0,20.0,0.0,Agging Ovary,Human
+Autophagy,Autophagy downregulators,0.0,0.0,5.0,0.0,Agging Ovary,Human
+Autophagy,Autophagy upregulators,2.0,0.0,11.0,0.0,Agging Ovary,Human
+Proteostasis,Autophagy-Lysosome Pathway,0.0,0.0,13.0,1.0,Agging Ovary,Human
+Proteostasis,Cytonuclear proteostasis,1.0,0.0,4.0,0.0,Agging Ovary,Human
+Senescence,DNA damage response,0.0,0.0,4.0,0.0,Agging Ovary,Human
+Proteostasis,ER proteostasis,0.0,0.0,11.0,0.0,Agging Ovary,Human
+Autophagy,Lysosome,0.0,0.0,2.0,0.0,Agging Ovary,Human
+Autophagy,Mitophagy,3.0,0.0,0.0,0.0,Agging Ovary,Human
+Senescence,Nuclear changes,3.0,0.0,2.0,0.0,Agging Ovary,Human
+Proteostasis,Nuclear proteostasis,0.0,0.0,2.0,0.0,Agging Ovary,Human
+Autophagy,Other,4.0,0.0,12.0,0.0,Agging Ovary,Human
+Senescence,Other,4.0,0.0,12.0,0.0,Agging Ovary,Human
+Genomic instability,Other,4.0,0.0,12.0,0.0,Agging Ovary,Human
+Senescence,SASP,3.0,0.0,4.0,1.0,Agging Ovary,Human
+Senescence,SASP_Secreted,2.0,0.0,5.0,0.0,Agging Ovary,Human
+Proteostasis,Translation,33.0,2.0,8.0,0.0,Agging Ovary,Human
+Proteostasis,Ubiquitin Proteasome System,0.0,0.0,24.0,0.0,Agging Ovary,Human
+Autophagy,mTOR and upstream pathways,0.0,0.0,5.0,0.0,Agging Ovary,Human
