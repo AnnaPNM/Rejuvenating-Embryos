@@ -1,0 +1,172 @@
+,subprocess,Spearman_rho,p_value,hallmark,Tissue
+0,Cytonuclear proteostasis,-0.15853534566742628,0.2522126737318396,Proteostasis,Muscle
+1,ER proteostasis,-0.19490228863053663,0.15785991227354038,Proteostasis,Muscle
+2,Mitochondrial proteostasis,-0.13699875773774448,0.32322979457061707,Proteostasis,Muscle
+3,Nuclear proteostasis,-0.08641460103457729,0.5343888484682602,Proteostasis,Muscle
+4,PN regulation,-0.059589669449564384,0.6686311825628513,Proteostasis,Muscle
+5,Translation,-0.1192176602299645,0.39054113072075447,Proteostasis,Muscle
+6,Extracellular proteostasis,-0.3315178330599238,0.014331946924132439,Proteostasis,Muscle
+7,Autophagy-Lysosome Pathway,-0.0899401634714647,0.5177804928531016,Proteostasis,Muscle
+8,Ubiquitin Proteasome System,-0.11140010873947503,0.4225725038494783,Proteostasis,Muscle
+9,Cytonuclear proteostasis,-0.0037656253445154443,0.9742455684418612,Proteostasis,Skin
+10,ER proteostasis,0.034124261789897255,0.7697948091760658,Proteostasis,Skin
+11,Mitochondrial proteostasis,0.1625815614073639,0.1605516938542239,Proteostasis,Skin
+12,Nuclear proteostasis,0.03975895664847877,0.7331028535700732,Proteostasis,Skin
+13,PN regulation,0.24172840943314652,0.035402788788068816,Proteostasis,Skin
+14,Translation,0.033505819671272453,0.7738545623720434,Proteostasis,Skin
+15,Extracellular proteostasis,-0.052828700088749514,0.6503803662293803,Proteostasis,Skin
+16,Autophagy-Lysosome Pathway,0.16772150257104554,0.14755827886160927,Proteostasis,Skin
+17,Ubiquitin Proteasome System,0.06522502877762883,0.5756217289843435,Proteostasis,Skin
+18,Cytonuclear proteostasis,-0.027356687790086556,0.844326367780595,Proteostasis,Marrow
+19,ER proteostasis,-0.0799627554872698,0.5654426394569945,Proteostasis,Marrow
+20,Mitochondrial proteostasis,-0.05226123549814854,0.707429453527205,Proteostasis,Marrow
+21,Nuclear proteostasis,-0.00471270672014096,0.9730198756126256,Proteostasis,Marrow
+22,PN regulation,-0.057663606616358914,0.6787502296702421,Proteostasis,Marrow
+23,Translation,-0.017356554018080124,0.9008647404416166,Proteostasis,Marrow
+24,Extracellular proteostasis,-0.11184057655358914,0.4207289947218099,Proteostasis,Marrow
+25,Autophagy-Lysosome Pathway,-0.08758737855481492,0.5288352445594559,Proteostasis,Marrow
+26,Ubiquitin Proteasome System,0.0068966439806940885,0.9605252306477174,Proteostasis,Marrow
+27,Cytonuclear proteostasis,-0.2882209339773539,0.031228925636939225,Proteostasis,Spleen
+28,ER proteostasis,-0.23366850928652694,0.08304944777789426,Proteostasis,Spleen
+29,Mitochondrial proteostasis,-0.21127041048399597,0.11804191606596807,Proteostasis,Spleen
+30,Nuclear proteostasis,-0.2358670956720514,0.08011097949716288,Proteostasis,Spleen
+31,PN regulation,-0.22398098802530955,0.09702027624013,Proteostasis,Spleen
+32,Translation,-0.21656075897416432,0.10890606966221711,Proteostasis,Spleen
+33,Extracellular proteostasis,0.030848915221890795,0.8214354708236931,Proteostasis,Spleen
+34,Autophagy-Lysosome Pathway,-0.30058798239592927,0.02438581344542424,Proteostasis,Spleen
+35,Ubiquitin Proteasome System,-0.30484774351788296,0.022342573860985603,Proteostasis,Spleen
+36,Cytonuclear proteostasis,-0.07625883695670078,0.5800118180366218,Proteostasis,Lung
+37,ER proteostasis,-0.036153143340861,0.7932858666295253,Proteostasis,Lung
+38,Mitochondrial proteostasis,-0.1862412680026701,0.17338008320014878,Proteostasis,Lung
+39,Nuclear proteostasis,-0.05910694447904055,0.6681738930501852,Proteostasis,Lung
+40,PN regulation,-0.031148997121163088,0.821391273691144,Proteostasis,Lung
+41,Translation,-0.15962501202253776,0.24438251356000626,Proteostasis,Lung
+42,Extracellular proteostasis,-0.026144850901465174,0.8497211948838997,Proteostasis,Lung
+43,Autophagy-Lysosome Pathway,-0.024839421452848332,0.8571442441436619,Proteostasis,Lung
+44,Ubiquitin Proteasome System,-0.049533795189183674,0.7194938140812188,Proteostasis,Lung
+45,Cytonuclear proteostasis,0.20825225898351526,0.12707250430406591,Proteostasis,Bone
+46,ER proteostasis,0.23378065708980028,0.08582674341427621,Proteostasis,Bone
+47,Mitochondrial proteostasis,0.2090862833534649,0.12552304681227353,Proteostasis,Bone
+48,Nuclear proteostasis,0.11712603108423372,0.3944277517256436,Proteostasis,Bone
+49,PN regulation,0.19911425284319734,0.14500834728746964,Proteostasis,Bone
+50,Translation,0.20466232799981893,0.133907337276742,Proteostasis,Bone
+51,Extracellular proteostasis,0.27754880554759287,0.040210694177177694,Proteostasis,Bone
+52,Autophagy-Lysosome Pathway,0.16488299174613336,0.22898682962922856,Proteostasis,Bone
+53,Ubiquitin Proteasome System,0.14609931245770205,0.28717538384963315,Proteostasis,Bone
+54,Cytonuclear proteostasis,-0.0056340701681508315,0.9671277658991139,Proteostasis,SCAT
+55,ER proteostasis,0.1332228703530474,0.32766140001335875,Proteostasis,SCAT
+56,Mitochondrial proteostasis,0.09200024335553614,0.5000753478147262,Proteostasis,SCAT
+57,Nuclear proteostasis,0.08842741837085512,0.5169353447952412,Proteostasis,SCAT
+58,PN regulation,0.18619914824010678,0.16943864414504606,Proteostasis,SCAT
+59,Translation,0.11982500561924428,0.3790547835045056,Proteostasis,SCAT
+60,Extracellular proteostasis,-0.09261861691057709,0.49718634273568385,Proteostasis,SCAT
+61,Autophagy-Lysosome Pathway,0.08959392621989366,0.5113993665384364,Proteostasis,SCAT
+62,Ubiquitin Proteasome System,0.07262329755707639,0.5947892038048851,Proteostasis,SCAT
+63,Cytonuclear proteostasis,-0.0011679990173098964,0.9931834633153835,Proteostasis,MAT
+64,ER proteostasis,-0.004465878595596662,0.973940967719888,Proteostasis,MAT
+65,Mitochondrial proteostasis,0.024871508486246027,0.8556207407618958,Proteostasis,MAT
+66,Nuclear proteostasis,-0.05084231016525431,0.7097971060996133,Proteostasis,MAT
+67,PN regulation,-0.09873026987496006,0.46910416565912993,Proteostasis,MAT
+68,Translation,-0.07509546623057156,0.5822741313505146,Proteostasis,MAT
+69,Extracellular proteostasis,0.009343992138479171,0.9455082992018915,Proteostasis,MAT
+70,Autophagy-Lysosome Pathway,-0.01497786975138573,0.9127565751956355,Proteostasis,MAT
+71,Ubiquitin Proteasome System,-0.056751011076351436,0.6778181758769809,Proteostasis,MAT
+72,Cytonuclear proteostasis,0.03934419310414662,0.7754964226358416,Proteostasis,WBC
+73,ER proteostasis,0.08409141364840186,0.5415988375778316,Proteostasis,WBC
+74,Mitochondrial proteostasis,0.12586515600414094,0.359850765647047,Proteostasis,WBC
+75,Nuclear proteostasis,-0.09272175278092434,0.5007556568321503,Proteostasis,WBC
+76,PN regulation,-0.06436492420263618,0.6405974368503472,Proteostasis,WBC
+77,Translation,0.04108476570230242,0.7658404754710567,Proteostasis,WBC
+78,Extracellular proteostasis,0.14606305052857385,0.28729633098849816,Proteostasis,WBC
+79,Autophagy-Lysosome Pathway,0.044892268260768226,0.7448427231556061,Proteostasis,WBC
+80,Ubiquitin Proteasome System,-0.025891017397567453,0.8511635732768588,Proteostasis,WBC
+81,Cytonuclear proteostasis,0.006119263899705824,0.9653133162982743,Proteostasis,BAT
+82,ER proteostasis,-0.03906602913454579,0.7812201771805121,Proteostasis,BAT
+83,Mitochondrial proteostasis,0.10167704055868818,0.4687895181493946,Proteostasis,BAT
+84,Nuclear proteostasis,0.025449653834538136,0.8564558448113188,Proteostasis,BAT
+85,PN regulation,-0.11083567394500285,0.4294728714939231,Proteostasis,BAT
+86,Translation,-0.04174067428276159,0.7666497229794705,Proteostasis,BAT
+87,Extracellular proteostasis,-0.07027022253039668,0.6170785036486998,Proteostasis,BAT
+88,Autophagy-Lysosome Pathway,0.06455620789557205,0.6460552613838306,Proteostasis,BAT
+89,Ubiquitin Proteasome System,0.057748020245568216,0.681270400121548,Proteostasis,BAT
+90,Cytonuclear proteostasis,-0.0051341682967389335,0.970608035319493,Proteostasis,Heart
+91,ER proteostasis,-0.027280058412523286,0.8447570365671254,Proteostasis,Heart
+92,Mitochondrial proteostasis,-0.16187956010240295,0.24221630086792256,Proteostasis,Heart
+93,Nuclear proteostasis,0.05624596313143847,0.6862343803114005,Proteostasis,Heart
+94,PN regulation,0.14594064956924324,0.292342332783764,Proteostasis,Heart
+95,Translation,-0.06881318105181436,0.621005231192808,Proteostasis,Heart
+96,Extracellular proteostasis,-0.169197665659695,0.2212947965435111,Proteostasis,Heart
+97,Autophagy-Lysosome Pathway,0.06237631333649987,0.654094121778243,Proteostasis,Heart
+98,Ubiquitin Proteasome System,0.08567164411573325,0.5379217911390307,Proteostasis,Heart
+99,Cytonuclear proteostasis,0.12419875823277003,0.23046431173601156,Proteostasis,Brain
+100,ER proteostasis,0.05365223112145893,0.6055843775269639,Proteostasis,Brain
+101,Mitochondrial proteostasis,0.028736486806562395,0.7822118013547968,Proteostasis,Brain
+102,Nuclear proteostasis,0.05563648412818042,0.5922947306481183,Proteostasis,Brain
+103,PN regulation,0.08399300759303019,0.4183677331236365,Proteostasis,Brain
+104,Translation,-0.019962148156272654,0.8477341032907402,Proteostasis,Brain
+105,Extracellular proteostasis,0.08914362178069027,0.39029949598480895,Proteostasis,Brain
+106,Autophagy-Lysosome Pathway,0.1256341753014622,0.22507890047666188,Proteostasis,Brain
+107,Ubiquitin Proteasome System,0.08537917015446331,0.41070117927806427,Proteostasis,Brain
+108,Cytonuclear proteostasis,-0.06818953010947036,0.5504292722253861,Proteostasis,Liver
+109,ER proteostasis,0.014797225866653359,0.897016347712147,Proteostasis,Liver
+110,Mitochondrial proteostasis,-0.025656677577056818,0.8224121024307322,Proteostasis,Liver
+111,Nuclear proteostasis,0.06860531992721103,0.547995494871411,Proteostasis,Liver
+112,PN regulation,0.16034812030046183,0.15805567988116867,Proteostasis,Liver
+113,Translation,0.003399693215644325,0.9762779397588741,Proteostasis,Liver
+114,Extracellular proteostasis,0.03748222915809301,0.7429460854059169,Proteostasis,Liver
+115,Autophagy-Lysosome Pathway,-0.02787014690091157,0.8073746915087949,Proteostasis,Liver
+116,Ubiquitin Proteasome System,-0.006041181469526247,0.9578595462301644,Proteostasis,Liver
+117,Cytonuclear proteostasis,-0.028538138223929397,0.8361462718294204,Proteostasis,Intestine
+118,ER proteostasis,-0.054465417550625096,0.6928856886965338,Proteostasis,Intestine
+119,Mitochondrial proteostasis,-0.044747220544255235,0.74563938035201,Proteostasis,Intestine
+120,Nuclear proteostasis,-0.06987673743012954,0.6121988675652641,Proteostasis,Intestine
+121,PN regulation,0.010987364525858459,0.9365432811051205,Proteostasis,Intestine
+122,Translation,-0.02882823365695536,0.8345039610304175,Proteostasis,Intestine
+123,Extracellular proteostasis,-0.14878269521319226,0.27831790019603386,Proteostasis,Intestine
+124,Autophagy-Lysosome Pathway,-0.03216433113675397,0.815669459277086,Proteostasis,Intestine
+125,Ubiquitin Proteasome System,-0.016209082320325842,0.9064984324421392,Proteostasis,Intestine
+126,Cytonuclear proteostasis,0.22260687153435674,0.09914170543937287,Proteostasis,Pancreas
+127,ER proteostasis,0.12635001134311175,0.3534504114397653,Proteostasis,Pancreas
+128,Mitochondrial proteostasis,0.22748498507723924,0.09177023060973036,Proteostasis,Pancreas
+129,Nuclear proteostasis,0.11075378917079723,0.4164378812831244,Proteostasis,Pancreas
+130,PN regulation,0.1348695335870192,0.32166358294678327,Proteostasis,Pancreas
+131,Translation,0.27551035643604027,0.039860544781792955,Proteostasis,Pancreas
+132,Extracellular proteostasis,0.007626346524788147,0.9555139242701001,Proteostasis,Pancreas
+133,Autophagy-Lysosome Pathway,0.17774196810474716,0.1900054578815975,Proteostasis,Pancreas
+134,Ubiquitin Proteasome System,0.2559979022645102,0.056861687247117265,Proteostasis,Pancreas
+135,Cytonuclear proteostasis,0.02480280266169839,0.8560153363183821,Proteostasis,GAT
+136,ER proteostasis,-0.00913787466483625,0.9467085635715882,Proteostasis,GAT
+137,Mitochondrial proteostasis,0.013809870734075833,0.9195365480194935,Proteostasis,GAT
+138,Nuclear proteostasis,0.055102071287208045,0.6866888356789279,Proteostasis,GAT
+139,PN regulation,0.14668693540921346,0.28067916344606736,Proteostasis,GAT
+140,Translation,0.04726960728877699,0.7293813483088492,Proteostasis,GAT
+141,Extracellular proteostasis,0.024047038591674338,0.8603581760576791,Proteostasis,GAT
+142,Autophagy-Lysosome Pathway,0.0024047038591674336,0.9859664912625228,Proteostasis,GAT
+143,Ubiquitin Proteasome System,0.039368437465798274,0.7732905342734935,Proteostasis,GAT
+144,Cytonuclear proteostasis,-0.07154478617002885,0.6037124425659393,Proteostasis,Kidney
+145,ER proteostasis,-0.0399606458993268,0.7720726671008846,Proteostasis,Kidney
+146,Mitochondrial proteostasis,-0.16836413694244498,0.21917067736235465,Proteostasis,Kidney
+147,Nuclear proteostasis,-0.08256841262501555,0.548970409392018,Proteostasis,Kidney
+148,PN regulation,-0.12267410624085533,0.37225596154678975,Proteostasis,Kidney
+149,Translation,-0.1394633794272331,0.3098650780769855,Proteostasis,Kidney
+150,Extracellular proteostasis,0.19936808634709507,0.1444859639127974,Proteostasis,Kidney
+151,Autophagy-Lysosome Pathway,-0.06878887955628216,0.6177609436545386,Proteostasis,Kidney
+152,Ubiquitin Proteasome System,-0.09932142388226507,0.47062923497290954,Proteostasis,Kidney
+153,Cytonuclear proteostasis,-0.39165227062030183,0.05840056309720536,Proteostasis,Blood
+154,ER proteostasis,0.09891104909210342,0.6456412243191025,Proteostasis,Blood
+155,Mitochondrial proteostasis,-0.11665294130593364,0.5872456609377752,Proteostasis,Blood
+156,Nuclear proteostasis,-0.6178613963466371,0.0012940300604918822,Proteostasis,Blood
+157,PN regulation,0.0008870946106915104,0.9967176360497841,Proteostasis,Blood
+158,Translation,-0.27899125506248,0.18676688514998063,Proteostasis,Blood
+159,Extracellular proteostasis,-0.13616902274114687,0.5257914221272809,Proteostasis,Blood
+160,Autophagy-Lysosome Pathway,0.0017741892213830209,0.9934353237594178,Proteostasis,Blood
+161,Ubiquitin Proteasome System,-0.6302807208963181,0.0009626080781542384,Proteostasis,Blood
+162,Cytonuclear proteostasis,-0.3193078702223405,0.00325726843965604,Proteostasis,Colon
+163,ER proteostasis,-0.5211784021043858,4.381623422306946e-07,Proteostasis,Colon
+164,Mitochondrial proteostasis,-0.3744111876010214,0.0004883512151941006,Proteostasis,Colon
+165,Nuclear proteostasis,-0.35710034761580595,0.0009197630703179881,Proteostasis,Colon
+166,PN regulation,-0.16673466854571692,0.13192460789729446,Proteostasis,Colon
+167,Translation,-0.33089842026194644,0.0022470319808014913,Proteostasis,Colon
+168,Extracellular proteostasis,-0.24208395595661142,0.02745754433629005,Proteostasis,Colon
+169,Autophagy-Lysosome Pathway,-0.04694065644505824,0.6734655286921262,Proteostasis,Colon
+170,Ubiquitin Proteasome System,-0.26029461683214744,0.01747513479383331,Proteostasis,Colon

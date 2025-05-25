@@ -1,0 +1,12 @@
+Bulk RNA-seq datasets for Mus musculus:
+
+GSE132040:
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE132040
+
+GSE75192:
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE75192
+
+GSE248002:
+https://www.ncbi.xyz/geo/query/acc.cgi?acc=GSE248002
+
+More datasets in the Metatable (attached in the repository).
