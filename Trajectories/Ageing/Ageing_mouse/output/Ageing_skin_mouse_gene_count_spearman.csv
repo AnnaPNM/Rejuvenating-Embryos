@@ -1,0 +1,42 @@
+,Hallmark,Subprocess,n genes >= 0.2,n genes <= 0.2,n genes >= 0.4,n genes <= -0.4,Experiment,Species
+0,Autophagy,Autophagy core,34,9,1,0,Ageing-Skin,Mouse
+1,Autophagy,Autophagy downregulators,2,0,0,0,Ageing-Skin,Mouse
+2,Autophagy,Autophagy upregulators,19,2,0,0,Ageing-Skin,Mouse
+3,Autophagy,Docking and fusion,2,0,0,0,Ageing-Skin,Mouse
+4,Autophagy,Lysosome,30,4,0,0,Ageing-Skin,Mouse
+5,Autophagy,Lysosome-related genes,4,3,0,0,Ageing-Skin,Mouse
+6,Autophagy,Mitophagy,38,2,0,0,Ageing-Skin,Mouse
+7,Autophagy,Other,17,4,0,0,Ageing-Skin,Mouse
+8,Autophagy,mTOR and upstream pathways,31,4,0,0,Ageing-Skin,Mouse
+9,Genomic Instability,Auxiliary Processes,1,0,0,0,Ageing-Skin,Mouse
+10,Genomic Instability,Base Excision Repair,3,0,0,0,Ageing-Skin,Mouse
+11,Genomic Instability,Cell Cycle and Mitotic Regulation,1,1,0,0,Ageing-Skin,Mouse
+12,Genomic Instability,Chromatin and Nuclear Organization,1,1,0,0,Ageing-Skin,Mouse
+13,Genomic Instability,DNA Replication/Repair,1,1,0,0,Ageing-Skin,Mouse
+14,Genomic Instability,Direct Reversal Repair,2,0,0,0,Ageing-Skin,Mouse
+15,Genomic Instability,Homologous Recombination,1,0,0,0,Ageing-Skin,Mouse
+16,Genomic Instability,Interstrand Crosslink Repair,1,1,0,0,Ageing-Skin,Mouse
+17,Genomic Instability,Mismatch Repair,1,1,0,0,Ageing-Skin,Mouse
+18,Genomic Instability,Mitochondrial DNA Repair,2,0,0,0,Ageing-Skin,Mouse
+19,Genomic Instability,Nucleotide Excision Repair,4,0,0,0,Ageing-Skin,Mouse
+20,Genomic Instability,Other,1,1,0,0,Ageing-Skin,Mouse
+21,Genomic Instability,Single-Strand Break Repair,0,1,0,0,Ageing-Skin,Mouse
+22,Genomic Instability,Translesion Synthesis,2,0,0,0,Ageing-Skin,Mouse
+23,Proteostasis,Autophagy-Lysosome Pathway,249,26,0,0,Ageing-Skin,Mouse
+24,Proteostasis,Cytonuclear proteostasis,38,6,0,0,Ageing-Skin,Mouse
+25,Proteostasis,ER proteostasis,35,7,0,0,Ageing-Skin,Mouse
+26,Proteostasis,Extracellular proteostasis,6,5,0,0,Ageing-Skin,Mouse
+27,Proteostasis,Mitochondrial proteostasis,42,0,0,0,Ageing-Skin,Mouse
+28,Proteostasis,Nuclear proteostasis,9,4,0,0,Ageing-Skin,Mouse
+29,Proteostasis,PN regulation,13,0,0,0,Ageing-Skin,Mouse
+30,Proteostasis,Translation,72,8,0,0,Ageing-Skin,Mouse
+31,Proteostasis,Ubiquitin Proteasome System,238,62,1,1,Ageing-Skin,Mouse
+32,Senescence,Cell cycle arrest,3,1,0,0,Ageing-Skin,Mouse
+33,Senescence,Cell surface markers,1,0,0,0,Ageing-Skin,Mouse
+34,Senescence,Metabolic adaptations,1,0,0,0,Ageing-Skin,Mouse
+35,Senescence,Nuclear changes,1,1,0,0,Ageing-Skin,Mouse
+36,Senescence,Other,20,1,0,0,Ageing-Skin,Mouse
+37,Senescence,SASP,11,3,0,0,Ageing-Skin,Mouse
+38,Senescence,SASP_Intracellular,2,0,0,0,Ageing-Skin,Mouse
+39,Senescence,SASP_Secreted,12,1,0,0,Ageing-Skin,Mouse
+40,Senescence,SASP_Transmembrane,6,1,0,0,Ageing-Skin,Mouse

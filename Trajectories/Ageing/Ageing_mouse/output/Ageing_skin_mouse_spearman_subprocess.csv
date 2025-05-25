@@ -1,0 +1,59 @@
+,Hallmark,Subprocess,Spearman,p-value,Experiment,Species
+0,Senescence,DNA damage response,0.0439643630551273,0.706097218545376,Ageing-Skin,Mouse
+1,Senescence,SASP,0.1233998174029349,0.2882307166979533,Ageing-Skin,Mouse
+2,Senescence,SASP_Secreted,0.1822755070960158,0.1150398537334435,Ageing-Skin,Mouse
+3,Senescence,Metabolic adaptations,0.1916345978245378,0.0972463403265204,Ageing-Skin,Mouse
+4,Senescence,Cell cycle arrest,0.0847540565679808,0.4666536545466138,Ageing-Skin,Mouse
+5,Senescence,Nuclear changes,-0.0133171202877206,0.9090975534918866,Ageing-Skin,Mouse
+6,Senescence,SASP_Transmembrane,0.2109849645583982,0.0673256072949243,Ageing-Skin,Mouse
+7,Senescence,SASP_Intracellular,0.2218970321625779,0.0540439631280031,Ageing-Skin,Mouse
+8,Senescence,Changes in morphology,0.035759697614705,0.7590890253924707,Ageing-Skin,Mouse
+9,Senescence,Upregulation of anti-apoptotic pathways,-0.1118967939965136,0.3358722386623338,Ageing-Skin,Mouse
+10,Senescence,Increased lysosomal content,0.1154287856517708,0.3207434578837484,Ageing-Skin,Mouse
+11,Senescence,Cell surface markers,0.1900541346324966,0.1000895780420351,Ageing-Skin,Mouse
+12,Senescence,Other,0.1205000110244942,0.2997971038109776,Ageing-Skin,Mouse
+13,Autophagy,mTOR and upstream pathways,0.1366482218996973,0.2391718659396662,Ageing-Skin,Mouse
+14,Autophagy,Autophagy core,0.1536072791082084,0.1852370152644998,Ageing-Skin,Mouse
+15,Autophagy,Autophagy upregulators,0.2614635845963735,0.0225216338081212,Ageing-Skin,Mouse
+16,Autophagy,Autophagy downregulators,0.2182413520835958,0.0582315433643743,Ageing-Skin,Mouse
+17,Autophagy,Mitophagy,0.2512249317435851,0.0285918772449555,Ageing-Skin,Mouse
+18,Autophagy,Docking and fusion,0.230115440761192,0.0455243841478541,Ageing-Skin,Mouse
+19,Autophagy,Lysosome,0.2296619165408671,0.0459637085078068,Ageing-Skin,Mouse
+20,Autophagy,Lysosome-related genes,0.0737045573818844,0.5268943405581011,Ageing-Skin,Mouse
+21,Autophagy,Other,0.1300515059676994,0.2628263232489981,Ageing-Skin,Mouse
+22,Proteostasis,Cytonuclear proteostasis,-0.0037656253445154,0.9742455684418612,Ageing-Skin,Mouse
+23,Proteostasis,ER proteostasis,0.0341242617898972,0.7697948091760658,Ageing-Skin,Mouse
+24,Proteostasis,Mitochondrial proteostasis,0.1625815614073639,0.1605516938542239,Ageing-Skin,Mouse
+25,Proteostasis,Nuclear proteostasis,0.0397589566484787,0.7331028535700732,Ageing-Skin,Mouse
+26,Proteostasis,PN regulation,0.2417284094331465,0.0354027887880688,Ageing-Skin,Mouse
+27,Proteostasis,Translation,0.0335058196712724,0.7738545623720434,Ageing-Skin,Mouse
+28,Proteostasis,Extracellular proteostasis,-0.0528287000887495,0.6503803662293803,Ageing-Skin,Mouse
+29,Proteostasis,Autophagy-Lysosome Pathway,0.1677215025710455,0.1475582788616092,Ageing-Skin,Mouse
+30,Proteostasis,Ubiquitin Proteasome System,0.0652250287776288,0.5756217289843435,Ageing-Skin,Mouse
+31,Genomic Instability,Cell Cycle and Mitotic Regulation,-0.006912808570406,0.9527399370406384,Ageing-Skin,Mouse
+32,Genomic Instability,Replication Stress Response,-0.0256172468692583,0.8261353608865751,Ageing-Skin,Mouse
+33,Genomic Instability,Transcription-Replication Conflict,-0.0778962206303413,0.5035935502869562,Ageing-Skin,Mouse
+34,Genomic Instability,Chromatin and Nuclear Organization,0.0319665859538062,0.7839849606472672,Ageing-Skin,Mouse
+35,Genomic Instability,Nucleotide Excision Repair,0.1667182520230542,0.1500305064230731,Ageing-Skin,Mouse
+36,Genomic Instability,DNA Damage Signaling,0.1344355734308397,0.2469361108230471,Ageing-Skin,Mouse
+37,Genomic Instability,Double-Strand Break Repair,0.0086719328189388,0.940733009850686,Ageing-Skin,Mouse
+38,Genomic Instability,Auxiliary Processes,0.0251087500161668,0.8295340857883298,Ageing-Skin,Mouse
+39,Genomic Instability,Base Excision Repair,0.0937558251835195,0.4204879949095224,Ageing-Skin,Mouse
+40,Genomic Instability,Interstrand Crosslink Repair,-0.000810846333308,0.9944534378251396,Ageing-Skin,Mouse
+41,Genomic Instability,Mitochondrial DNA Repair,0.2135411919820473,0.063999627224471,Ageing-Skin,Mouse
+42,Genomic Instability,Cell Cycle Control,0.0135919834515539,0.907229562878872,Ageing-Skin,Mouse
+43,Genomic Instability,Mismatch Repair,0.0849052313080891,0.4658562961908455,Ageing-Skin,Mouse
+44,Genomic Instability,Translesion Synthesis,0.1357824029336226,0.2421897126006172,Ageing-Skin,Mouse
+45,Genomic Instability,Protein Regulation,0.1237021668831515,0.2870419465821828,Ageing-Skin,Mouse
+46,Genomic Instability,Chromatin Remodeling,0.2057350781291832,0.0745931361626702,Ageing-Skin,Mouse
+47,Genomic Instability,Transcription,0.0684821572690527,0.5566599023681844,Ageing-Skin,Mouse
+48,Genomic Instability,Other,0.0269091037392746,0.8175152405683452,Ageing-Skin,Mouse
+49,Genomic Instability,Telomere Maintenance,-0.0365568007898214,0.7538872907662257,Ageing-Skin,Mouse
+50,Genomic Instability,Genome Maintenance,0.0277336932307743,0.8120242491290073,Ageing-Skin,Mouse
+51,Genomic Instability,DNA Replication/Repair,0.0479636220889011,0.6807468360598838,Ageing-Skin,Mouse
+52,Genomic Instability,Non-homologous End Joining,0.0890694082401627,0.4441865587948903,Ageing-Skin,Mouse
+53,Genomic Instability,Homologous Recombination,0.0223463752196427,0.8480505084969375,Ageing-Skin,Mouse
+54,Genomic Instability,Transcription-Coupled Repair,0.0274313437505577,0.8140365763858934,Ageing-Skin,Mouse
+55,Genomic Instability,Direct Reversal Repair,0.2661912310143052,0.0201123207615097,Ageing-Skin,Mouse
+56,Genomic Instability,Single-Strand Break Repair,0.0269503332138495,0.8172404802097204,Ageing-Skin,Mouse
+57,Genomic Instability,Exonuclease,0.0856473618504388,0.4619527642159037,Ageing-Skin,Mouse
