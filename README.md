@@ -1,4 +1,5 @@
 # Rejuvenating-Embryos
+Embryonic cells likely undergo a rejuvenation process during the early stages of embryogenesis to prevent the transmission of "age" from parental gametes. In this project, we suggest analyzing genes associated with aging hallmarks (e.g., cellular senescence or impaired autophagy) using RNA-seq data in various conditions. The final goal of the work is the determination of the time point where the cellular age is reset. 
 
 ## Embryogenesis
 
