@@ -13,7 +13,7 @@ For embryogenesis we needed to have data about as many time points as possible. 
 
 ## Reprogramming
 
-A list of reprogramming datasets was compiled, four of which were selected for further analysis. For each dataset, raw count matrices were obtained if not publicly accessible, metadata were assembled, a variance‐stabilizing transformation (VST) was applied, and Spearman’s correlation coefficients were computed for each gene and hallmark. The code implementing these transformations is provided in the Trajectories/Reprogramming folder.
+A list of reprogramming datasets was compiled, four of which were selected for further analysis. For each dataset, raw count matrices were obtained if not publicly accessible, metadata were assembled, a variance‐stabilizing transformation (VST) was applied, and Spearman’s correlation coefficients were computed for each gene and hallmark. The code implementing these transformations is provided in the Trajectories/Reprogramming folder. The scripts in the reprogramming folder are independent of the code in other directories. The first step is to obtain the data that will be processed (via the VST_reprogramming.R script). The remaining scripts utilize the resulting VST-normalized data. Additionally, the code makes use of gene signatures prepared by us.
 
 
 ## Aging
